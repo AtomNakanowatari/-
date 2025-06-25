@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>英単語トレーニング</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 1em;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    button {
+      padding: 0.6em 1em;
+      font-size: 1em;
+      margin: 0.3em 0.3em 0.6em 0;
+      border: 1px solid #999;
+      border-radius: 4px;
+    }
+    input[type="text"] {
+      font-size: 1em;
+      padding: 0.4em;
+      width: 100%;
+      max-width: 350px;
+      box-sizing: border-box;
+      margin-bottom: 0.5em;
+    }
+    .choice {
+      cursor: pointer;
+      margin: 0.2em 0;
+      padding: 0.3em 0.6em;
+      border: 1px solid #ccc;
+      width: 100%;
+      max-width: 350px;
+      box-sizing: border-box;
+      transition: background 0.2s ease;
+    }
+    .choice:hover {
+      background-color: #f0f0f0;
+    }
+    .hidden {
+      display: none;
+    }
+    .hint {
+      color: gray;
+      margin-top: 0.2em;
+    }
+    #scoreBox {
+      margin-top: 2em;
+      font-size: 0.9em;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>英単語トレーニング</h1>
+
+  <div>
+    <strong>通常：</strong>
+    <button onclick="startMode('beginner')">初級</button>
+    <button onclick="startMode('advanced')">上級</button>
+  </div>
+
+  <div>
+    <strong>頭文字指定：</strong>
+    <button onclick="startLetterMode('beginner')">初級</button>
+    <button onclick="startLetterMode('advanced')">上級</button>
+  </div>
+
+  <div>
+    <strong>復習モード：</strong>
+    <button onclick="startReviewMode('beginner')">初級</button>
+    <button onclick="startReviewMode('advanced')">上級</button>
+  </div>
+
+  <h2 id="modeLabel"></h2>
+  <div id="questionBox">
+    <p><strong>問題：</strong> <span id="questionText" onclick="speakCurrent()">---</span></p>
+
+    <button id="exampleBtn" class="hidden" onclick="toggleExample()">例文を表示</button>
+    <p id="exampleText" class="hidden" style="color: gray;"></p>
+
+    <p id="hintText" class="hint hidden"></p>
+    <button id="revealHintBtn" class="hidden" onclick="revealHint()">もう１文字表示</button>
+
+    <input type="text" id="answerInput" placeholder="解答を入力" />
+    <button onclick="check()">解答する</button>
+
+    <div id="choices" class="hidden"></div>
+  </div>
+
+  <p id="resultText"></p>
+
+  <div id="scoreBox">
+    正解：<span id="correctCount">0</span>　
+    不正解：<span id="wrongCount">0</span>　
+    正答率：<span id="accuracy">0%</span>
+  </div>
+  <script>
+    let wordList = [];
+    let filteredList = [];     // 頭文字モード用
+    let reviewList = [];       // ❗復習モード用（不正解単語）
+    let currentList = [];      // 出題対象（通常 or filtered or review）
+    let currentMode = "";
+    let currentQuestion = null;
+    let lastIndex = -1;
+    let currentHintLength = 1;
+    let correctCount = 0;
+    let wrongCount = 0;
+
+    fetch("words.json")
+      .then(res => res.json())
+      .then(data => { wordList = data; });
+
+    function resetUI() {
+      document.getElementById("answerInput").value = "";
+      document.getElementById("resultText").textContent = "";
+      document.getElementById("hintText").classList.add("hidden");
+      document.getElementById("revealHintBtn").classList.add("hidden");
+      document.getElementById("exampleBtn").classList.add("hidden");
+      document.getElementById("exampleText").classList.add("hidden");
+      document.getElementById("choices").classList.add("hidden");
+      document.getElementById("answerInput").classList.remove("hidden");
+      document.getElementById("questionText").textContent = "---";
+      document.getElementById("revealHintBtn").disabled = false;
+    }
+
+    function startMode(mode) {
+      currentMode = mode;
+      currentList = wordList;
+      document.getElementById("modeLabel").textContent =
+        mode === "beginner" ? "初級モード（意味 ⇒ 英単語4択）" : "上級モード（意味 ⇒ 英単語＋ヒント）";
+      resetUI();
+      mode === "beginner" ? startQuiz() : startAdvanced();
+    }
+
+    function startLetterMode(mode) {
+      const letter = prompt("出題したい頭文字を a〜z の1文字で入力してください：");
+      if (!letter || letter.length !== 1 || !/[a-zA-Z]/.test(letter)) {
+        alert("1文字のアルファベットを入力してください");
+        return;
+      }
+      const selected = letter.toLowerCase();
+      filteredList = wordList.filter(w => w.word.toLowerCase().startsWith(selected));
+      if (filteredList.length === 0) {
+        alert(`「${selected}」で始まる単語は見つかりませんでした`);
+        return;
+      }
+      currentMode = mode;
+      currentList = filteredList;
+      document.getElementById("modeLabel").textContent = `${selected} で始まる ${mode === "beginner" ? "初級" : "上級"}モード`;
+      resetUI();
+      mode === "beginner" ? startQuiz() : startAdvanced();
+    }
+
+    function startReviewMode(mode) {
+      if (reviewList.length === 0) {
+        alert("復習すべき単語はまだありません！");
+        return;
+      }
+      currentMode = mode;
+      currentList = reviewList;
+      document.getElementById("modeLabel").textContent = `復習モード（${mode === "beginner" ? "4択" : "ヒント"}）`;
+      resetUI();
+      mode === "beginner" ? startQuiz() : startAdvanced();
+    }
+    function getNewWord() {
+      if (!currentList || currentList.length === 0) return null;
+      let idx;
+      do {
+        idx = Math.floor(Math.random() * currentList.length);
+      } while (idx === lastIndex && currentList.length > 1);
+      lastIndex = idx;
+      return currentList[idx];
+    }
+
+    function startQuiz() {
+      const word = getNewWord();
+      if (!word) return;
+      currentQuestion = word;
+      document.getElementById("questionText").textContent = word.meaning;
+      document.getElementById("answerInput").classList.add("hidden");
+      document.getElementById("choices").classList.remove("hidden");
+
+      const choices = shuffleChoices(word.word);
+      const choiceBox = document.getElementById("choices");
+      choiceBox.innerHTML = "";
+      choices.forEach(c => {
+        const div = document.createElement("div");
+        div.className = "choice";
+        div.textContent = c;
+        div.onclick = () => { checkChoice(c); speak(c); };
+        choiceBox.appendChild(div);
+      });
+    }
+
+    function startAdvanced() {
+      const word = getNewWord();
+      if (!word) return;
+      currentQuestion = word;
+      currentHintLength = 1;
+      document.getElementById("questionText").textContent = word.meaning;
+      document.getElementById("hintText").textContent = `ヒント：${word.word.slice(0, 1)}`;
+      document.getElementById("hintText").classList.remove("hidden");
+      document.getElementById("revealHintBtn").classList.remove("hidden");
+      document.getElementById("choices").classList.add("hidden");
+      document.getElementById("answerInput").classList.remove("hidden");
+      document.getElementById("answerInput").value = "";
+      document.getElementById("revealHintBtn").disabled = false;
+    }
+
+    function revealHint() {
+      currentHintLength++;
+      const word = currentQuestion.word;
+      const hint = word.slice(0, currentHintLength);
+      document.getElementById("hintText").textContent = `ヒント：${hint}`;
+      if (currentHintLength >= word.length) {
+        document.getElementById("revealHintBtn").disabled = true;
+      }
+    }
+
+    function speak(text) {
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = "en-US";
+      speechSynthesis.speak(utterance);
+    }
+
+    function speakCurrent() {
+      if (currentQuestion && currentQuestion.word) {
+        speak(currentQuestion.word);
+      }
+    }
+
+    function check() {
+      const input = document.getElementById("answerInput").value.trim().toLowerCase();
+      const correct = currentQuestion.word.toLowerCase();
+      const isCorrect = input === correct;
+      showResult(isCorrect, correct);
+    }
+
+    function checkChoice(selected) {
+      const correct = currentQuestion.word;
+      const isCorrect = selected === correct;
+      showResult(isCorrect, correct);
+    }
+
+    function showResult(isCorrect, correctAnswer) {
+      const result = isCorrect
+        ? "✅ 正解！"
+        : `❌ 不正解… 正解は「${correctAnswer}」`;
+      document.getElementById("resultText").textContent = result;
+
+      if (!isCorrect && !reviewList.some(w => w.word === currentQuestion.word)) {
+        reviewList.push(currentQuestion); // ❗間違えた単語を復習リストに追加
+      }
+
+      updateScore(isCorrect);
+
+      setTimeout(() => {
+        document.getElementById("resultText").textContent = "";
+        currentMode === "beginner" ? startQuiz() : startAdvanced();
+      }, 1500);
+    }
+
+    function updateScore(isCorrect) {
+      if (isCorrect) correctCount++;
+      else wrongCount++;
+      document.getElementById("correctCount").textContent = correctCount;
+      document.getElementById("wrongCount").textContent = wrongCount;
+      const total = correctCount + wrongCount;
+      const rate = total === 0 ? 0 : Math.round((correctCount / total) * 100);
+      document.getElementById("accuracy").textContent = `${rate}%`;
+    }
+    function toggleExample() {
+      document.getElementById("exampleText").classList.toggle("hidden");
+    }
+
+    function shuffleChoices(correct) {
+      const options = [correct];
+      while (options.length < 4 && currentList.length > 1) {
+        const w = currentList[Math.floor(Math.random() * currentList.length)];
+        if (!options.includes(w.word)) options.push(w.word);
+      }
+      return options.sort(() => Math.random() - 0.5);
+    }
+  </script>
+  </body>
+</html>

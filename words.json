@@ -1,0 +1,8167 @@
+[
+    {
+        "word": "a",
+        "meaning": "一つの、一人の",
+        "example": "a book / a girl"
+    },
+    {
+        "word": "able",
+        "meaning": "できる、能力がある",
+        "example": "be able to speak English"
+    },
+    {
+        "word": "about",
+        "meaning": "約、およそ；〜について",
+        "example": "about 40 students / talk about music"
+    },
+    {
+        "word": "above",
+        "meaning": "〜の上に",
+        "example": "above your head"
+    },
+    {
+        "word": "abroad",
+        "meaning": "外国に［へ］",
+        "example": "study abroad"
+    },
+    {
+        "word": "accept",
+        "meaning": "〜を受け入れる、受け取る",
+        "example": "accept a present"
+    },
+    {
+        "word": "according to",
+        "meaning": "〜によれば",
+        "example": "according to his report"
+    },
+    {
+        "word": "across",
+        "meaning": "〜を横切って；〜の向こう側へ",
+        "example": "swim across to the other side of the river"
+    },
+    {
+        "word": "act",
+        "meaning": "行動する；演じる",
+        "example": "act quickly / act the role"
+    },
+    {
+        "word": "action",
+        "meaning": "行動、行為",
+        "example": "a plan of action"
+    },
+    {
+        "word": "active",
+        "meaning": "活発な、行動的な",
+        "example": "an active life"
+    },
+    {
+        "word": "activity",
+        "meaning": "活動",
+        "example": "a club activity"
+    },
+    {
+        "word": "actor",
+        "meaning": "俳優、男優",
+        "example": "a kabuki actor"
+    },
+    {
+        "word": "actually",
+        "meaning": "本当に、実際には",
+        "example": "She didn't actually say that."
+    },
+    {
+        "word": "add",
+        "meaning": "〜を加える、足す",
+        "example": "add some water"
+    },
+    {
+        "word": "address",
+        "meaning": "住所",
+        "example": "my address"
+    },
+    {
+        "word": "adult",
+        "meaning": "大人、成人",
+        "example": "become an adult"
+    },
+    {
+        "word": "advice",
+        "meaning": "忠告、アドバイス",
+        "example": "give advice to her"
+    },
+    {
+        "word": "affect",
+        "meaning": "〜に影響する",
+        "example": "Daily practice affects my grade."
+    },
+    {
+        "word": "Africa",
+        "meaning": "アフリカ",
+        "example": "go to Africa"
+    },
+    {
+        "word": "after",
+        "meaning": "〜のあとに；〜したあとで",
+        "example": "after dinner / after I eat dinner"
+    },
+    {
+        "word": "afternoon",
+        "meaning": "午後",
+        "example": "in the afternoon"
+    },
+    {
+        "word": "again",
+        "meaning": "もう一度",
+        "example": "see him again"
+    },
+    {
+        "word": "against",
+        "meaning": "〜に反対して；〜に対して",
+        "example": "against his advice"
+    },
+    {
+        "word": "age",
+        "meaning": "年齢；時代",
+        "example": "different ages / in all ages"
+    },
+    {
+        "word": "ago",
+        "meaning": "（今から）〜前に",
+        "example": "five years ago"
+    },
+    {
+        "word": "agree",
+        "meaning": "賛成する、同意する",
+        "example": "agree with you"
+    },
+    {
+        "word": "AI",
+        "meaning": "人工知能",
+        "example": "study AI in college"
+    },
+    {
+        "word": "air",
+        "meaning": "空気、大気",
+        "example": "fresh air"
+    },
+    {
+        "word": "air conditioner",
+        "meaning": "エアコン、空気調整装置",
+        "example": "turn off the air conditioner"
+    },
+    {
+        "word": "airport",
+        "meaning": "空港",
+        "example": "arrive at the airport"
+    },
+    {
+        "word": "album",
+        "meaning": "アルバム",
+        "example": "make a photo album"
+    },
+    {
+        "word": "all",
+        "meaning": "すべて",
+        "example": "all of the students"
+    },
+    {
+        "word": "almost",
+        "meaning": "ほとんど",
+        "example": "almost all of them"
+    },
+    {
+        "word": "alone",
+        "meaning": "一人で",
+        "example": "go home alone"
+    },
+    {
+        "word": "along",
+        "meaning": "〜に沿って",
+        "example": "walk along the street"
+    },
+    {
+        "word": "aloud",
+        "meaning": "声を出して",
+        "example": "read it aloud"
+    },
+    {
+        "word": "already",
+        "meaning": "すでに",
+        "example": "have already cleaned the room"
+    },
+    {
+        "word": "always",
+        "meaning": "いつも",
+        "example": "She always drinks tea in the morning."
+    },
+    {
+        "word": "am",
+        "meaning": "〜です；いる（beの現在形）",
+        "example": "Yes, I am."
+    },
+    {
+        "word": "a.m.",
+        "meaning": "午前",
+        "example": "at 9 a.m."
+    },
+    {
+        "word": "amazing",
+        "meaning": "驚くべき",
+        "example": "have an amazing experience"
+    },
+    {
+        "word": "America",
+        "meaning": "アメリカ",
+        "example": "go to America"
+    },
+    {
+        "word": "American",
+        "meaning": "アメリカ人、アメリカの",
+        "example": "American people"
+    },
+    {
+        "word": "among",
+        "meaning": "〜の間に",
+        "example": "among the trees"
+    },
+    {
+        "word": "amount",
+        "meaning": "量、額",
+        "example": "a small amount of food"
+    },
+    {
+        "word": "amusement park",
+        "meaning": "遊園地",
+        "example": "I enjoyed myself at the amusement park."
+    },
+    {
+        "word": "an",
+        "meaning": "一つの、一人の（母音の前で）",
+        "example": "an egg / an active boy"
+    },
+    {
+        "word": "and",
+        "meaning": "そして；〜と",
+        "example": "study Japanese and English"
+    },
+    {
+        "word": "angry",
+        "meaning": "怒っている",
+        "example": "I am angry with him."
+    },
+    {
+        "word": "animal",
+        "meaning": "動物",
+        "example": "small animals"
+    },
+    {
+        "word": "anime",
+        "meaning": "アニメ",
+        "example": "a big fan of Japanese anime"
+    },
+    {
+        "word": "announcement",
+        "meaning": "アナウンス、発表",
+        "example": "the announcement of the plan"
+    },
+    {
+        "word": "another",
+        "meaning": "もう一つの、別の",
+        "example": "have another chance"
+    },
+    {
+        "word": "answer",
+        "meaning": "答え、返事；答える",
+        "example": "Please answer the question."
+    },
+    {
+        "word": "any",
+        "meaning": "いくらかの；どれも（〜ない）",
+        "example": "I don't have any pens."
+    },
+    {
+        "word": "anymore",
+        "meaning": "もはや〜ない",
+        "example": "Don't cry anymore."
+    },
+    {
+        "word": "anyone",
+        "meaning": "だれか、だれでも",
+        "example": "Anyone can join the concert."
+    },
+    {
+        "word": "anything",
+        "meaning": "何か、何でも",
+        "example": "If you have anything to add, tell me later."
+    },
+    {
+        "word": "anyway",
+        "meaning": "とにかく；それでもやはり",
+        "example": "I'm going anyway."
+    },
+    {
+        "word": "appear",
+        "meaning": "現れる、登場する",
+        "example": "appear on the stage"
+    },
+    {
+        "word": "apple",
+        "meaning": "りんご",
+        "example": "seven apples"
+    },
+    {
+        "word": "application",
+        "meaning": "アプリケーション",
+        "example": "two music applications"
+    },
+    {
+        "word": "apply",
+        "meaning": "適用される；申し込む",
+        "example": "The rules apply to everyone."
+    },
+    {
+        "word": "April",
+        "meaning": "4月",
+        "example": "in April"
+    },
+    {
+        "word": "apron",
+        "meaning": "エプロン",
+        "example": "my new apron"
+    },
+    {
+        "word": "aquarium",
+        "meaning": "水族館",
+        "example": "fish in the aquarium"
+    },
+    {
+        "word": "are",
+        "meaning": "〜である；いる（beの現在形）",
+        "example": "We are happy."
+    },
+    {
+        "word": "area",
+        "meaning": "地域、区域、面積",
+        "example": "in this area"
+    },
+    {
+        "word": "arm",
+        "meaning": "腕",
+        "example": "my left arm"
+    },
+    {
+        "word": "around",
+        "meaning": "〜のまわりに、あちこちに",
+        "example": "sit around a table"
+    },
+    {
+        "word": "arrive",
+        "meaning": "到着する、着く",
+        "example": "arrive at the station"
+    },
+    {
+        "word": "art",
+        "meaning": "美術、芸術",
+        "example": "a museum of art"
+    },
+    {
+        "word": "artist",
+        "meaning": "芸術家",
+        "example": "a famous artist"
+    },
+    {
+        "word": "as",
+        "meaning": "〜として；〜のように；〜のとき",
+        "example": "as a child / as he grew older"
+    },
+    {
+        "word": "Asia",
+        "meaning": "アジア",
+        "example": "in Asia"
+    },
+    {
+        "word": "Asian",
+        "meaning": "アジアの、アジア人の",
+        "example": "Asian countries"
+    },
+    {
+        "word": "ask",
+        "meaning": "たずねる；〜するよう頼む",
+        "example": "ask his name / ask him to help me"
+    },
+    {
+        "word": "astronaut",
+        "meaning": "宇宙飛行士",
+        "example": "want to be an astronaut"
+    },
+    {
+        "word": "at",
+        "meaning": "〜に（場所・時刻）",
+        "example": "at the station / at nine o'clock"
+    },
+    {
+        "word": "atomic",
+        "meaning": "原子の、原子力の",
+        "example": "atomic bomb"
+    },
+    {
+        "word": "attention",
+        "meaning": "注意、関心",
+        "example": "pay attention to ~"
+    },
+    {
+        "word": "attract",
+        "meaning": "〜を引き付ける、魅了する",
+        "example": "His smile attracts people."
+    },
+    {
+        "word": "attractive",
+        "meaning": "魅力的な",
+        "example": "His smile is attractive."
+    },
+    {
+        "word": "audience",
+        "meaning": "聴衆、観客",
+        "example": "in front of the audience"
+    },
+    {
+        "word": "August",
+        "meaning": "8月",
+        "example": "in August"
+    },
+    {
+        "word": "aunt",
+        "meaning": "おば",
+        "example": "see my aunt"
+    },
+    {
+        "word": "Australia",
+        "meaning": "オーストラリア",
+        "example": "go to Australia"
+    },
+    {
+        "word": "autumn",
+        "meaning": "秋",
+        "example": "in autumn"
+    },
+    {
+        "word": "award",
+        "meaning": "賞、賞品",
+        "example": "win an award"
+    },
+    {
+        "word": "away",
+        "meaning": "あちらへ、離れて",
+        "example": "go away from here"
+    },
+    {
+        "word": "back",
+        "meaning": "背中；戻って",
+        "example": "go back to school"
+    },
+    {
+        "word": "backpack",
+        "meaning": "バックパック、リュックサック",
+        "example": "the heavy backpack"
+    },
+    {
+        "word": "bad",
+        "meaning": "悪い",
+        "example": "a bad idea"
+    },
+    {
+        "word": "bag",
+        "meaning": "かばん",
+        "example": "a black bag"
+    },
+    {
+        "word": "bake",
+        "meaning": "焼く",
+        "example": "bake cookies"
+    },
+    {
+        "word": "ball",
+        "meaning": "ボール",
+        "example": "play with a ball"
+    },
+    {
+        "word": "banana",
+        "meaning": "バナナ",
+        "example": "eat a banana"
+    },
+    {
+        "word": "bank",
+        "meaning": "銀行",
+        "example": "work for a bank"
+    },
+    {
+        "word": "barrier",
+        "meaning": "障壁、障害",
+        "example": "a language barrier"
+    },
+    {
+        "word": "base",
+        "meaning": "〜に基づく",
+        "example": "This story is based on my experience."
+    },
+    {
+        "word": "baseball",
+        "meaning": "野球",
+        "example": "play baseball"
+    },
+    {
+        "word": "basketball",
+        "meaning": "バスケットボール",
+        "example": "play basketball"
+    },
+    {
+        "word": "bat",
+        "meaning": "バット",
+        "example": "a blue bat"
+    },
+    {
+        "word": "bath",
+        "meaning": "入浴、浴室",
+        "example": "take a bath"
+    },
+    {
+        "word": "bathroom",
+        "meaning": "浴室、トイレ",
+        "example": "in the bathroom"
+    },
+    {
+        "word": "battery",
+        "meaning": "電池",
+        "example": "change the batteries"
+    },
+    {
+        "word": "be",
+        "meaning": "〜である；いる",
+        "example": "I was born in 2011."
+    },
+    {
+        "word": "beach",
+        "meaning": "浜辺、海岸",
+        "example": "go to the beach"
+    },
+    {
+        "word": "bean",
+        "meaning": "豆",
+        "example": "coffee beans"
+    },
+    {
+        "word": "bear",
+        "meaning": "クマ；〜を産む",
+        "example": "a brown bear / be born"
+    },
+    {
+        "word": "beat",
+        "meaning": "〜を打つ、打ち負かす",
+        "example": "My heart is beating."
+    },
+    {
+        "word": "beautiful",
+        "meaning": "美しい",
+        "example": "a beautiful picture"
+    },
+    {
+        "word": "beauty",
+        "meaning": "美しさ",
+        "example": "the beauty of the sea"
+    },
+    {
+        "word": "because",
+        "meaning": "〜だから",
+        "example": "because it is sunny"
+    },
+    {
+        "word": "become",
+        "meaning": "〜になる",
+        "example": "become a teacher"
+    },
+    {
+        "word": "bed",
+        "meaning": "ベッド",
+        "example": "get out of bed"
+    },
+    {
+        "word": "bedroom",
+        "meaning": "寝室",
+        "example": "sleep in my bedroom"
+    },
+    {
+        "word": "bee",
+        "meaning": "ハチ、ミツバチ",
+        "example": "bees around the flowers"
+    },
+    {
+        "word": "beef",
+        "meaning": "牛肉",
+        "example": "They don't eat beef."
+    },
+    {
+        "word": "before",
+        "meaning": "〜の前に",
+        "example": "before dinner"
+    },
+    {
+        "word": "begin",
+        "meaning": "始める、始まる",
+        "example": "begin to walk"
+    },
+    {
+        "word": "beginner",
+        "meaning": "初心者",
+        "example": "rules for beginners"
+    },
+    {
+        "word": "beginning",
+        "meaning": "初め、始まり",
+        "example": "at the beginning of April"
+    },
+    {
+        "word": "behind",
+        "meaning": "〜の後ろに",
+        "example": "behind the trees"
+    },
+    {
+        "word": "believe",
+        "meaning": "〜を信じる",
+        "example": "believe him"
+    },
+    {
+        "word": "bell",
+        "meaning": "ベル",
+        "example": "The bell is ringing."
+    },
+    {
+        "word": "belong",
+        "meaning": "所属する、〜のものである",
+        "example": "belong to the tennis club"
+    },
+    {
+        "word": "below",
+        "meaning": "〜の下に",
+        "example": "See the questions below."
+    },
+    {
+        "word": "belt",
+        "meaning": "ベルト",
+        "example": "a couple of black belts"
+    },
+    {
+        "word": "bench",
+        "meaning": "ベンチ",
+        "example": "sit on a bench"
+    },
+    {
+        "word": "beside",
+        "meaning": "〜のそばに",
+        "example": "beside the door"
+    },
+    {
+        "word": "between",
+        "meaning": "〜の間に",
+        "example": "between A and B"
+    },
+    {
+        "word": "beyond",
+        "meaning": "〜の向こうに",
+        "example": "beyond the bridge"
+    },
+    {
+        "word": "bicycle",
+        "meaning": "自転車",
+        "example": "ride a bicycle"
+    },
+    {
+        "word": "big",
+        "meaning": "大きい",
+        "example": "live in a big city"
+    },
+    {
+        "word": "bike",
+        "meaning": "自転車",
+        "example": "go by bike"
+    },
+    {
+        "word": "bird",
+        "meaning": "鳥",
+        "example": "find a beautiful bird"
+    },
+    {
+        "word": "birthday",
+        "meaning": "誕生日",
+        "example": "Today is his birthday."
+    },
+    {
+        "word": "bitter",
+        "meaning": "苦い；つらい",
+        "example": "The coffee tastes bitter."
+    },
+    {
+        "word": "black",
+        "meaning": "黒い",
+        "example": "find a black box"
+    },
+    {
+        "word": "blackboard",
+        "meaning": "黒板",
+        "example": "write on the blackboard"
+    },
+    {
+        "word": "blank",
+        "meaning": "空白",
+        "example": "fill in the blank space"
+    },
+    {
+        "word": "blog",
+        "meaning": "ブログ",
+        "example": "check the singer's blog"
+    },
+    {
+        "word": "blossom",
+        "meaning": "花",
+        "example": "cherry blossoms"
+    },
+    {
+        "word": "blow",
+        "meaning": "吹く",
+        "example": "The wind is blowing."
+    },
+    {
+        "word": "board",
+        "meaning": "板；〜に乗る",
+        "example": "board a bus"
+    },
+    {
+        "word": "boat",
+        "meaning": "ボート、船",
+        "example": "go by boat"
+    },
+    {
+        "word": "body",
+        "meaning": "体",
+        "example": "a human body"
+    },
+    {
+        "word": "bomb",
+        "meaning": "爆弾",
+        "example": "a time bomb"
+    },
+    {
+        "word": "book",
+        "meaning": "本",
+        "example": "an English book"
+    },
+    {
+        "word": "bookstore",
+        "meaning": "書店",
+        "example": "go to a bookstore"
+    },
+    {
+        "word": "bored",
+        "meaning": "退屈した",
+        "example": "I am bored."
+    },
+    {
+        "word": "boring",
+        "meaning": "退屈な",
+        "example": "a boring story"
+    },
+    {
+        "word": "born",
+        "meaning": "生まれる",
+        "example": "A baby was born."
+    },
+    {
+        "word": "borrow",
+        "meaning": "借りる",
+        "example": "borrow a pencil"
+    },
+    {
+        "word": "both",
+        "meaning": "両方；どちらも",
+        "example": "both of you / both he and his brother"
+    },
+    {
+        "word": "bottle",
+        "meaning": "びん、ボトル",
+        "example": "a red bottle"
+    },
+    {
+        "word": "bottom",
+        "meaning": "底",
+        "example": "from the bottom of my heart"
+    },
+    {
+        "word": "bowl",
+        "meaning": "わん、どんぶり",
+        "example": "a bowl of rice"
+    },
+    {
+        "word": "box",
+        "meaning": "箱",
+        "example": "open a box"
+    },
+    {
+        "word": "boy",
+        "meaning": "少年",
+        "example": "a tall boy"
+    },
+    {
+        "word": "brain",
+        "meaning": "脳",
+        "example": "the left brain"
+    },
+    {
+        "word": "brass band",
+        "meaning": "吹奏楽部",
+        "example": "the brass band club"
+    },
+    {
+        "word": "brave",
+        "meaning": "勇敢な",
+        "example": "a brave dog"
+    },
+    {
+        "word": "Brazil",
+        "meaning": "ブラジル",
+        "example": "live in Brazil"
+    },
+    {
+        "word": "bread",
+        "meaning": "パン",
+        "example": "eat bread"
+    },
+    {
+        "word": "break",
+        "meaning": "休憩；壊す",
+        "example": "have a break / break the window"
+    },
+    {
+        "word": "breakfast",
+        "meaning": "朝食",
+        "example": "have breakfast"
+    },
+    {
+        "word": "bridge",
+        "meaning": "橋",
+        "example": "a big bridge"
+    },
+    {
+        "word": "bright",
+        "meaning": "明るい；輝いている",
+        "example": "the bright sun"
+    },
+    {
+        "word": "bring",
+        "meaning": "〜を持ってくる；連れてくる",
+        "example": "bring some flowers"
+    },
+    {
+        "word": "brother",
+        "meaning": "兄弟",
+        "example": "I have two brothers."
+    },
+    {
+        "word": "brown",
+        "meaning": "茶色の",
+        "example": "a brown bag"
+    },
+    {
+        "word": "brush",
+        "meaning": "ブラシ；〜を磨く",
+        "example": "brush my teeth"
+    },
+    {
+        "word": "build",
+        "meaning": "建てる",
+        "example": "build a house"
+    },
+    {
+        "word": "building",
+        "meaning": "建物",
+        "example": "a new building"
+    },
+    {
+        "word": "block",
+        "meaning": "区画、ブロック",
+        "example": "walk for one block"
+    },
+    {
+        "word": "blue",
+        "meaning": "青色の",
+        "example": "the blue sky"
+    },
+    {
+        "word": "billion",
+        "meaning": "10億",
+        "example": "a billion dollars"
+    },
+    {
+        "word": "bit",
+        "meaning": "少し",
+        "example": "a little bit of salt"
+    },
+    {
+        "word": "black",
+        "meaning": "黒い",
+        "example": "My favorite color is black."
+    },
+    {
+        "word": "burn",
+        "meaning": "燃える；やけど",
+        "example": "Something is burning."
+    },
+    {
+        "word": "bus",
+        "meaning": "バス",
+        "example": "take a bus"
+    },
+    {
+        "word": "business",
+        "meaning": "仕事、商売",
+        "example": "start a business"
+    },
+    {
+        "word": "busy",
+        "meaning": "忙しい",
+        "example": "I am busy with my homework."
+    },
+    {
+        "word": "but",
+        "meaning": "しかし",
+        "example": "He is rich, but he is not happy."
+    },
+    {
+        "word": "butterfly",
+        "meaning": "チョウ",
+        "example": "I found some butterflies."
+    },
+    {
+        "word": "buy",
+        "meaning": "買う",
+        "example": "buy a new dictionary"
+    },
+    {
+        "word": "by",
+        "meaning": "〜のそばに；〜で；〜によって",
+        "example": "by the window / by bus"
+    },
+    {
+        "word": "bye",
+        "meaning": "さようなら",
+        "example": "Good bye."
+    },
+    {
+        "word": "cabbage",
+        "meaning": "キャベツ",
+        "example": "I bought two cabbages."
+    },
+    {
+        "word": "cafe",
+        "meaning": "カフェ",
+        "example": "meet me at the cafe"
+    },
+    {
+        "word": "cafeteria",
+        "meaning": "食堂",
+        "example": "at the school cafeteria"
+    },
+    {
+        "word": "cage",
+        "meaning": "おり",
+        "example": "a bird in the cage"
+    },
+    {
+        "word": "cake",
+        "meaning": "ケーキ",
+        "example": "have tea and cakes"
+    },
+    {
+        "word": "calendar",
+        "meaning": "カレンダー",
+        "example": "an old calendar on the wall"
+    },
+    {
+        "word": "call",
+        "meaning": "呼ぶ；電話する",
+        "example": "call my friend"
+    },
+    {
+        "word": "calligraphy",
+        "meaning": "書道",
+        "example": "the calligraphy club"
+    },
+    {
+        "word": "camera",
+        "meaning": "カメラ",
+        "example": "my father's camera"
+    },
+    {
+        "word": "camp",
+        "meaning": "キャンプ",
+        "example": "camp by the river"
+    },
+    {
+        "word": "can",
+        "meaning": "〜できる",
+        "example": "I can speak English."
+    },
+    {
+        "word": "can",
+        "meaning": "缶",
+        "example": "a can of juice"
+    },
+    {
+        "word": "Canada",
+        "meaning": "カナダ",
+        "example": "live in Canada"
+    },
+    {
+        "word": "cancel",
+        "meaning": "キャンセルする",
+        "example": "cancel the flight"
+    },
+    {
+        "word": "cancer",
+        "meaning": "がん",
+        "example": "have cancer"
+    },
+    {
+        "word": "candy",
+        "meaning": "あめ",
+        "example": "candies in my pocket"
+    },
+    {
+        "word": "cap",
+        "meaning": "キャップ",
+        "example": "wear a cap"
+    },
+    {
+        "word": "car",
+        "meaning": "車",
+        "example": "get in a car"
+    },
+    {
+        "word": "card",
+        "meaning": "カード",
+        "example": "receive a card"
+    },
+    {
+        "word": "care",
+        "meaning": "世話；注意",
+        "example": "take care of sick people"
+    },
+    {
+        "word": "careful",
+        "meaning": "注意深い",
+        "example": "Be careful."
+    },
+    {
+        "word": "carefully",
+        "meaning": "注意深く",
+        "example": "listen to her carefully"
+    },
+    {
+        "word": "carrot",
+        "meaning": "ニンジン",
+        "example": "eat carrot soup"
+    },
+    {
+        "word": "carry",
+        "meaning": "運ぶ、持っていく",
+        "example": "carry a bag"
+    },
+    {
+        "word": "case",
+        "meaning": "場合；容器",
+        "example": "in a large case / in my case"
+    },
+    {
+        "word": "castle",
+        "meaning": "城",
+        "example": "a castle in the woods"
+    },
+    {
+        "word": "cat",
+        "meaning": "ネコ",
+        "example": "have a cat"
+    },
+    {
+        "word": "catch",
+        "meaning": "つかまえる",
+        "example": "catch him"
+    },
+    {
+        "word": "cause",
+        "meaning": "引き起こす；原因",
+        "example": "cause some problems"
+    },
+    {
+        "word": "cellphone",
+        "meaning": "携帯電話",
+        "example": "I lost my cellphone."
+    },
+    {
+        "word": "center",
+        "meaning": "中心、中央",
+        "example": "at the center of the city"
+    },
+    {
+        "word": "century",
+        "meaning": "世紀",
+        "example": "in the 20th century"
+    },
+    {
+        "word": "ceremony",
+        "meaning": "式典",
+        "example": "the entrance ceremony"
+    },
+    {
+        "word": "certainly",
+        "meaning": "もちろん；確かに",
+        "example": "Certainly. / He will certainly come."
+    },
+    {
+        "word": "chair",
+        "meaning": "いす",
+        "example": "sit on a chair"
+    },
+    {
+        "word": "challenge",
+        "meaning": "挑戦；〜に挑む",
+        "example": "face a difficult challenge"
+    },
+    {
+        "word": "chance",
+        "meaning": "機会、チャンス",
+        "example": "have a chance to go to China"
+    },
+    {
+        "word": "change",
+        "meaning": "変化；変える",
+        "example": "change trains / change the world"
+    },
+    {
+        "word": "character",
+        "meaning": "登場人物；性格",
+        "example": "a main character in the movie"
+    },
+    {
+        "word": "charge",
+        "meaning": "充電する；責任",
+        "example": "charge my mobile phone / take charge of the class"
+    },
+    {
+        "word": "cheap",
+        "meaning": "安い",
+        "example": "a cheap computer"
+    },
+    {
+        "word": "check",
+        "meaning": "調べる；検査",
+        "example": "check the time / a careful check"
+    },
+    {
+        "word": "cheer",
+        "meaning": "歓声；元気づける",
+        "example": "cheer her up / a cheer goes up"
+    },
+    {
+        "word": "cheerful",
+        "meaning": "元気な、明るい",
+        "example": "a cheerful boy"
+    },
+    {
+        "word": "cheese",
+        "meaning": "チーズ",
+        "example": "many kinds of cheese"
+    },
+    {
+        "word": "cherry",
+        "meaning": "サクランボ；桜",
+        "example": "eat a cherry / cherry blossoms"
+    },
+    {
+        "word": "chicken",
+        "meaning": "鶏肉",
+        "example": "eat chicken"
+    },
+    {
+        "word": "child",
+        "meaning": "子ども",
+        "example": "I lived in France when I was a child."
+    },
+    {
+        "word": "China",
+        "meaning": "中国",
+        "example": "live in China"
+    },
+    {
+        "word": "Chinese",
+        "meaning": "中国の；中国人／語",
+        "example": "speak Chinese / Chinese people"
+    },
+    {
+        "word": "chocolate",
+        "meaning": "チョコレート",
+        "example": "I like chocolate."
+    },
+    {
+        "word": "choice",
+        "meaning": "選択、選ぶこと",
+        "example": "a very difficult choice"
+    },
+    {
+        "word": "choose",
+        "meaning": "選ぶ",
+        "example": "choose the correct answer"
+    },
+    {
+        "word": "chorus",
+        "meaning": "合唱",
+        "example": "She is in the chorus club."
+    },
+    {
+        "word": "Christmas",
+        "meaning": "クリスマス",
+        "example": "a present for Christmas"
+    },
+    {
+        "word": "circle",
+        "meaning": "丸；〜を丸で囲む",
+        "example": "circle the answer"
+    },
+    {
+        "word": "city",
+        "meaning": "都市、都会",
+        "example": "I live in a big city."
+    },
+    {
+        "word": "class",
+        "meaning": "授業、学級",
+        "example": "a history class"
+    },
+    {
+        "word": "classmate",
+        "meaning": "クラスメート",
+        "example": "classmates in high school"
+    },
+    {
+        "word": "classroom",
+        "meaning": "教室",
+        "example": "in a classroom"
+    },
+    {
+        "word": "clean",
+        "meaning": "掃除する；きれいな",
+        "example": "clean the floor / a clean room"
+    },
+    {
+        "word": "cleaner",
+        "meaning": "掃除機、クリーナー",
+        "example": "use a cleaner"
+    },
+    {
+        "word": "clear",
+        "meaning": "片づける；はっきりした",
+        "example": "clear the dishes / a clear day"
+    },
+    {
+        "word": "clearly",
+        "meaning": "はっきりと",
+        "example": "speak clearly"
+    },
+    {
+        "word": "clerk",
+        "meaning": "係員、店員",
+        "example": "a convenience store clerk"
+    },
+    {
+        "word": "climb",
+        "meaning": "登る",
+        "example": "climb Mt. Fuji"
+    },
+    {
+        "word": "clock",
+        "meaning": "時計",
+        "example": "a clock on the wall"
+    },
+    {
+        "word": "close",
+        "meaning": "閉める；近い",
+        "example": "close the door / be close to the station"
+    },
+    {
+        "word": "closed",
+        "meaning": "閉じた",
+        "example": "the closed door"
+    },
+    {
+        "word": "cloth",
+        "meaning": "布、布切れ",
+        "example": "wash the cloth"
+    },
+    {
+        "word": "clothes",
+        "meaning": "服、衣類",
+        "example": "put on my clothes"
+    },
+    {
+        "word": "cloud",
+        "meaning": "雲",
+        "example": "white clouds in the sky"
+    },
+    {
+        "word": "cloudy",
+        "meaning": "くもりの",
+        "example": "It is cloudy today."
+    },
+    {
+        "word": "club",
+        "meaning": "クラブ、部活",
+        "example": "a soccer club"
+    },
+    {
+        "word": "coach",
+        "meaning": "コーチ；指導する",
+        "example": "coach students for the match"
+    },
+    {
+        "word": "coat",
+        "meaning": "コート",
+        "example": "take off my coat"
+    },
+    {
+        "word": "coffee",
+        "meaning": "コーヒー",
+        "example": "make coffee"
+    },
+    {
+        "word": "coin",
+        "meaning": "硬貨",
+        "example": "coins on the table"
+    },
+    {
+        "word": "cold",
+        "meaning": "寒い；かぜ",
+        "example": "cold wind / have a cold"
+    },
+    {
+        "word": "collect",
+        "meaning": "集める",
+        "example": "collect postcards"
+    },
+    {
+        "word": "college",
+        "meaning": "大学",
+        "example": "go to college"
+    },
+    {
+        "word": "color",
+        "meaning": "色",
+        "example": "the color of the sky"
+    },
+    {
+        "word": "colorful",
+        "meaning": "カラフルな",
+        "example": "find a colorful bird"
+    },
+    {
+        "word": "come",
+        "meaning": "来る",
+        "example": "come home / come true"
+    },
+    {
+        "word": "comedian",
+        "meaning": "コメディアン",
+        "example": "He became a comedian."
+    },
+    {
+        "word": "comfortable",
+        "meaning": "快適な",
+        "example": "buy a comfortable sofa"
+    },
+    {
+        "word": "comic",
+        "meaning": "マンガ",
+        "example": "read comics"
+    },
+    {
+        "word": "common",
+        "meaning": "一般的な、共通の",
+        "example": "the most common way"
+    },
+    {
+        "word": "communicate",
+        "meaning": "伝える、伝え合う",
+        "example": "communicate with him"
+    },
+    {
+        "word": "communication",
+        "meaning": "コミュニケーション",
+        "example": "communication between people"
+    },
+    {
+        "word": "company",
+        "meaning": "会社",
+        "example": "work for a company"
+    },
+    {
+        "word": "compare",
+        "meaning": "比較する",
+        "example": "compare the two dictionaries"
+    },
+    {
+        "word": "complete",
+        "meaning": "完成させる",
+        "example": "complete the difficult job"
+    },
+    {
+        "word": "computer",
+        "meaning": "コンピュータ",
+        "example": "use a computer"
+    },
+    {
+        "word": "concert",
+        "meaning": "コンサート",
+        "example": "go to a piano concert"
+    },
+    {
+        "word": "conclusion",
+        "meaning": "結論",
+        "example": "in conclusion"
+    },
+    {
+        "word": "condition",
+        "meaning": "状態、条件",
+        "example": "in bad condition"
+    },
+    {
+        "word": "connect",
+        "meaning": "つなぐ、結ぶ",
+        "example": "This road connects Tokyo and Kyoto."
+    },
+    {
+        "word": "content",
+        "meaning": "内容",
+        "example": "the content of her speech"
+    },
+    {
+        "word": "contest",
+        "meaning": "コンテスト",
+        "example": "a speech contest"
+    },
+    {
+        "word": "continue",
+        "meaning": "続ける、続く",
+        "example": "continue to study"
+    },
+    {
+        "word": "control",
+        "meaning": "制御する；支配",
+        "example": "control the machine"
+    },
+    {
+        "word": "convenience",
+        "meaning": "便利",
+        "example": "a great convenience"
+    },
+    {
+        "word": "convenience store",
+        "meaning": "コンビニ",
+        "example": "go to a convenience store"
+    },
+    {
+        "word": "convenient",
+        "meaning": "便利な",
+        "example": "a convenient time to meet"
+    },
+    {
+        "word": "conversation",
+        "meaning": "会話",
+        "example": "have a conversation"
+    },
+    {
+        "word": "cook",
+        "meaning": "料理人；料理する",
+        "example": "cook dinner"
+    },
+    {
+        "word": "cookie",
+        "meaning": "クッキー",
+        "example": "She ate some cookies."
+    },
+    {
+        "word": "cooking",
+        "meaning": "料理",
+        "example": "Japanese cooking"
+    },
+    {
+        "word": "cool",
+        "meaning": "涼しい；かっこいい",
+        "example": "a cool day / He is cool."
+    },
+    {
+        "word": "copy",
+        "meaning": "コピー；写す",
+        "example": "make a copy / another copy of the book"
+    },
+    {
+        "word": "corn",
+        "meaning": "トウモロコシ",
+        "example": "I like corn soup."
+    },
+    {
+        "word": "corner",
+        "meaning": "角",
+        "example": "on the corner of a street"
+    },
+    {
+        "word": "correct",
+        "meaning": "正しい、正確な",
+        "example": "choose the correct answer"
+    },
+    {
+        "word": "cost",
+        "meaning": "費用がかかる",
+        "example": "cost 1,000 yen"
+    },
+    {
+        "word": "could",
+        "meaning": "〜できた；〜かもしれない",
+        "example": "If I were a doctor, I could help many sick people."
+    },
+    {
+        "word": "count",
+        "meaning": "数える",
+        "example": "count the money"
+    },
+    {
+        "word": "country",
+        "meaning": "国；田舎",
+        "example": "live in this country"
+    },
+    {
+        "word": "couple",
+        "meaning": "２つ；夫婦",
+        "example": "a couple of days / They are a good couple."
+    },
+    {
+        "word": "courage",
+        "meaning": "勇気",
+        "example": "have the courage to ~"
+    },
+    {
+        "word": "course",
+        "meaning": "進路；講座",
+        "example": "change the course"
+    },
+    {
+        "word": "cousin",
+        "meaning": "いとこ",
+        "example": "She is my cousin."
+    },
+    {
+        "word": "cover",
+        "meaning": "覆う",
+        "example": "The mountain is covered with snow."
+    },
+    {
+        "word": "crane",
+        "meaning": "ツル",
+        "example": "a crane flying in the sky"
+    },
+    {
+        "word": "create",
+        "meaning": "創造する",
+        "example": "create something new"
+    },
+    {
+        "word": "creative",
+        "meaning": "創造的な",
+        "example": "a creative way to solve the problem"
+    },
+    {
+        "word": "cross",
+        "meaning": "横断する；渡る",
+        "example": "cross the street"
+    },
+    {
+        "word": "crowded",
+        "meaning": "混み合った",
+        "example": "The train is crowded with many people."
+    },
+    {
+        "word": "cucumber",
+        "meaning": "キュウリ",
+        "example": "cut a cucumber"
+    },
+    {
+        "word": "culture",
+        "meaning": "文化",
+        "example": "Japanese culture"
+    },
+    {
+        "word": "cup",
+        "meaning": "カップ",
+        "example": "a cup of coffee"
+    },
+    {
+        "word": "curry",
+        "meaning": "カレー",
+        "example": "make chicken curry"
+    },
+    {
+        "word": "custom",
+        "meaning": "習慣",
+        "example": "an old custom"
+    },
+    {
+        "word": "customer",
+        "meaning": "客",
+        "example": "Many customers came to the shop."
+    },
+    {
+        "word": "cut",
+        "meaning": "切る",
+        "example": "cut the cake"
+    },
+    {
+        "word": "cute",
+        "meaning": "かわいい",
+        "example": "a cute doll"
+    },
+    {
+        "word": "cycling",
+        "meaning": "サイクリング",
+        "example": "a cycling trip"
+    },
+    {
+        "word": "dad",
+        "meaning": "お父さん",
+        "example": "My dad works for a bank."
+    },
+    {
+        "word": "daily",
+        "meaning": "毎日の、日々の",
+        "example": "in our daily lives"
+    },
+    {
+        "word": "damage",
+        "meaning": "損害を与える",
+        "example": "damage our health"
+    },
+    {
+        "word": "dance",
+        "meaning": "踊る",
+        "example": "We enjoyed dancing on the stage."
+    },
+    {
+        "word": "dancer",
+        "meaning": "ダンサー",
+        "example": "a famous dancer"
+    },
+    {
+        "word": "danger",
+        "meaning": "危険",
+        "example": "There is a danger of ~."
+    },
+    {
+        "word": "dangerous",
+        "meaning": "危険な",
+        "example": "a dangerous place"
+    },
+    {
+        "word": "dark",
+        "meaning": "暗い",
+        "example": "in a dark room"
+    },
+    {
+        "word": "data",
+        "meaning": "データ、資料",
+        "example": "show my data"
+    },
+    {
+        "word": "date",
+        "meaning": "日付",
+        "example": "What date is it today?"
+    },
+    {
+        "word": "daughter",
+        "meaning": "娘",
+        "example": "our daughter"
+    },
+    {
+        "word": "day",
+        "meaning": "日；昼間",
+        "example": "every day / all day long"
+    },
+    {
+        "word": "dead",
+        "meaning": "死んだ",
+        "example": "She is not dead."
+    },
+    {
+        "word": "deaf",
+        "meaning": "耳が不自由な",
+        "example": "a school for deaf children"
+    },
+    {
+        "word": "dear",
+        "meaning": "親愛なる",
+        "example": "Dear Tom,"
+    },
+    {
+        "word": "December",
+        "meaning": "12月",
+        "example": "in December"
+    },
+    {
+        "word": "decide",
+        "meaning": "決める",
+        "example": "decide to go abroad"
+    },
+    {
+        "word": "decision",
+        "meaning": "決定、決意",
+        "example": "make an important decision"
+    },
+    {
+        "word": "decorate",
+        "meaning": "飾る",
+        "example": "decorate the room"
+    },
+    {
+        "word": "deep",
+        "meaning": "深い",
+        "example": "a deep river"
+    },
+    {
+        "word": "deer",
+        "meaning": "シカ",
+        "example": "a wild deer"
+    },
+    {
+        "word": "definitely",
+        "meaning": "確かに、間違いなく",
+        "example": "I definitely agree with you."
+    },
+    {
+        "word": "delicious",
+        "meaning": "おいしい",
+        "example": "a delicious dish"
+    },
+    {
+        "word": "deliver",
+        "meaning": "配達する",
+        "example": "deliver newspapers"
+    },
+    {
+        "word": "dentist",
+        "meaning": "歯科医",
+        "example": "go to the dentist"
+    },
+    {
+        "word": "department store",
+        "meaning": "デパート",
+        "example": "go shopping at a department store"
+    },
+    {
+        "word": "describe",
+        "meaning": "述べる、描写する",
+        "example": "describe the picture"
+    },
+    {
+        "word": "design",
+        "meaning": "設計する；デザイン",
+        "example": "design a T-shirt"
+    },
+    {
+        "word": "designer",
+        "meaning": "デザイナー",
+        "example": "a famous designer"
+    },
+    {
+        "word": "desk",
+        "meaning": "机",
+        "example": "sit at my desk"
+    },
+    {
+        "word": "despite",
+        "meaning": "〜にもかかわらず",
+        "example": "despite the bad weather"
+    },
+    {
+        "word": "dessert",
+        "meaning": "デザート",
+        "example": "a delicious dessert"
+    },
+    {
+        "word": "develop",
+        "meaning": "発達する、開発する",
+        "example": "develop a new app"
+    },
+    {
+        "word": "development",
+        "meaning": "発展、開発",
+        "example": "in the development of the city"
+    },
+    {
+        "word": "dictionary",
+        "meaning": "辞書",
+        "example": "use an English-Japanese dictionary"
+    },
+    {
+        "word": "die",
+        "meaning": "死ぬ",
+        "example": "He died young."
+    },
+    {
+        "word": "difference",
+        "meaning": "違い",
+        "example": "There is a big difference between them."
+    },
+    {
+        "word": "different",
+        "meaning": "異なる",
+        "example": "a different opinion"
+    },
+    {
+        "word": "difficult",
+        "meaning": "難しい",
+        "example": "a difficult problem"
+    },
+    {
+        "word": "dinner",
+        "meaning": "夕食",
+        "example": "have dinner"
+    },
+    {
+        "word": "dinosaur",
+        "meaning": "恐竜",
+        "example": "see a dinosaur in the museum"
+    },
+    {
+        "word": "direction",
+        "meaning": "方向",
+        "example": "look in the wrong direction"
+    },
+    {
+        "word": "dirty",
+        "meaning": "汚い",
+        "example": "clean the dirty room"
+    },
+    {
+        "word": "disappear",
+        "meaning": "消える",
+        "example": "The clouds disappeared."
+    },
+    {
+        "word": "disaster",
+        "meaning": "災害",
+        "example": "natural disasters"
+    },
+    {
+        "word": "discuss",
+        "meaning": "話し合う、議論する",
+        "example": "discuss the problem"
+    },
+    {
+        "word": "dish",
+        "meaning": "皿；料理",
+        "example": "wash the dishes / my favorite dish"
+    },
+    {
+        "word": "display",
+        "meaning": "展示する；表示",
+        "example": "display pictures on the wall"
+    },
+    {
+        "word": "distance",
+        "meaning": "距離",
+        "example": "a long distance"
+    },
+    {
+        "word": "dive",
+        "meaning": "飛び込む、潜る",
+        "example": "dive into the pool"
+    },
+    {
+        "word": "diver",
+        "meaning": "ダイバー",
+        "example": "a deep-sea diver"
+    },
+    {
+        "word": "do",
+        "meaning": "する",
+        "example": "do my homework"
+    },
+    {
+        "word": "doctor",
+        "meaning": "医者",
+        "example": "talk to a doctor"
+    },
+    {
+        "word": "document",
+        "meaning": "文書、資料",
+        "example": "a historical document"
+    },
+    {
+        "word": "dog",
+        "meaning": "犬",
+        "example": "have a dog"
+    },
+    {
+        "word": "doll",
+        "meaning": "人形",
+        "example": "a Japanese doll"
+    },
+    {
+        "word": "dolphin",
+        "meaning": "イルカ",
+        "example": "see dolphins in the sea"
+    },
+    {
+        "word": "donate",
+        "meaning": "寄付する",
+        "example": "donate money to the charity"
+    },
+    {
+        "word": "donation",
+        "meaning": "寄付",
+        "example": "a donation box"
+    },
+    {
+        "word": "done",
+        "meaning": "終えた（doの過去分詞）",
+        "example": "I’ve already done it."
+    },
+    {
+        "word": "door",
+        "meaning": "ドア",
+        "example": "open the door"
+    },
+    {
+        "word": "down",
+        "meaning": "下に；〜沿いに",
+        "example": "sit down / walk down the street"
+    },
+    {
+        "word": "drama",
+        "meaning": "ドラマ、演劇",
+        "example": "a TV drama"
+    },
+    {
+        "word": "draw",
+        "meaning": "描く",
+        "example": "draw a picture"
+    },
+    {
+        "word": "dream",
+        "meaning": "夢；夢を見る",
+        "example": "have a dream"
+    },
+    {
+        "word": "dress",
+        "meaning": "ドレス；服",
+        "example": "wear a red dress"
+    },
+    {
+        "word": "drink",
+        "meaning": "飲む；飲み物",
+        "example": "drink water / a hot drink"
+    },
+    {
+        "word": "drive",
+        "meaning": "運転する",
+        "example": "drive a car"
+    },
+    {
+        "word": "driver",
+        "meaning": "運転手",
+        "example": "a bus driver"
+    },
+    {
+        "word": "drum",
+        "meaning": "ドラム",
+        "example": "play the drum"
+    },
+    {
+        "word": "dry",
+        "meaning": "乾いた；乾かす",
+        "example": "a dry towel / dry my hair"
+    },
+    {
+        "word": "during",
+        "meaning": "〜の間に",
+        "example": "during the summer vacation"
+    },
+    {
+        "word": "dust",
+        "meaning": "ほこり",
+        "example": "clean the dust"
+    },
+    {
+        "word": "duty",
+        "meaning": "義務、任務",
+        "example": "do my duty"
+    },
+    {
+        "word": "each",
+        "meaning": "それぞれの",
+        "example": "Each of us has a role."
+    },
+    {
+        "word": "ear",
+        "meaning": "耳",
+        "example": "cover my ears"
+    },
+    {
+        "word": "early",
+        "meaning": "早く；早い",
+        "example": "get up early"
+    },
+    {
+        "word": "earn",
+        "meaning": "稼ぐ",
+        "example": "earn some money"
+    },
+    {
+        "word": "earth",
+        "meaning": "地球",
+        "example": "on the Earth"
+    },
+    {
+        "word": "earthquake",
+        "meaning": "地震",
+        "example": "a big earthquake"
+    },
+    {
+        "word": "ease",
+        "meaning": "安心、気楽さ",
+        "example": "live with ease"
+    },
+    {
+        "word": "east",
+        "meaning": "東",
+        "example": "go to the east"
+    },
+    {
+        "word": "easy",
+        "meaning": "簡単な、易しい",
+        "example": "an easy question"
+    },
+    {
+        "word": "eat",
+        "meaning": "食べる",
+        "example": "eat lunch"
+    },
+    {
+        "word": "economy",
+        "meaning": "経済",
+        "example": "Japan's economy"
+    },
+    {
+        "word": "edge",
+        "meaning": "端",
+        "example": "at the edge of the table"
+    },
+    {
+        "word": "education",
+        "meaning": "教育",
+        "example": "a good education"
+    },
+    {
+        "word": "effect",
+        "meaning": "効果、影響",
+        "example": "the effect of pollution"
+    },
+    {
+        "word": "egg",
+        "meaning": "卵",
+        "example": "eat an egg"
+    },
+    {
+        "word": "eight",
+        "meaning": "8",
+        "example": "eight people"
+    },
+    {
+        "word": "eighteen",
+        "meaning": "18",
+        "example": "eighteen students"
+    },
+    {
+        "word": "eighty",
+        "meaning": "80",
+        "example": "eighty days"
+    },
+    {
+        "word": "either",
+        "meaning": "〜もまた（〜ない）",
+        "example": "I don’t like it either."
+    },
+    {
+        "word": "elder",
+        "meaning": "年上の",
+        "example": "my elder brother"
+    },
+    {
+        "word": "elephant",
+        "meaning": "ゾウ",
+        "example": "an African elephant"
+    },
+    {
+        "word": "elevator",
+        "meaning": "エレベーター",
+        "example": "take the elevator"
+    },
+    {
+        "word": "eleven",
+        "meaning": "11",
+        "example": "eleven boys"
+    },
+    {
+        "word": "else",
+        "meaning": "他の",
+        "example": "anything else"
+    },
+    {
+        "word": "email",
+        "meaning": "Eメール",
+        "example": "send an email"
+    },
+    {
+        "word": "embarrassed",
+        "meaning": "恥ずかしい",
+        "example": "feel embarrassed"
+    },
+    {
+        "word": "emergency",
+        "meaning": "緊急",
+        "example": "an emergency call"
+    },
+    {
+        "word": "emotion",
+        "meaning": "感情",
+        "example": "show emotion"
+    },
+    {
+        "word": "emotional",
+        "meaning": "感情的な",
+        "example": "an emotional speech"
+    },
+    {
+        "word": "emperor",
+        "meaning": "天皇",
+        "example": "the Emperor of Japan"
+    },
+    {
+        "word": "employ",
+        "meaning": "雇う",
+        "example": "employ three workers"
+    },
+    {
+        "word": "empty",
+        "meaning": "空の；空にする",
+        "example": "an empty box / empty the bottle"
+    },
+    {
+        "word": "encourage",
+        "meaning": "励ます",
+        "example": "encourage students"
+    },
+    {
+        "word": "end",
+        "meaning": "終わり；終える",
+        "example": "at the end of the day / end the story"
+    },
+    {
+        "word": "energy",
+        "meaning": "エネルギー",
+        "example": "save energy"
+    },
+    {
+        "word": "engineer",
+        "meaning": "技術者",
+        "example": "become an engineer"
+    },
+    {
+        "word": "English",
+        "meaning": "英語；イギリスの",
+        "example": "learn English"
+    },
+    {
+        "word": "enjoy",
+        "meaning": "楽しむ",
+        "example": "enjoy the game"
+    },
+    {
+        "word": "enough",
+        "meaning": "十分な",
+        "example": "enough time"
+    },
+    {
+        "word": "enter",
+        "meaning": "入る",
+        "example": "enter the room"
+    },
+    {
+        "word": "entrance",
+        "meaning": "入り口",
+        "example": "at the entrance"
+    },
+    {
+        "word": "environment",
+        "meaning": "環境",
+        "example": "protect the environment"
+    },
+    {
+        "word": "equal",
+        "meaning": "等しい",
+        "example": "equal rights"
+    },
+    {
+        "word": "equipment",
+        "meaning": "装置、設備",
+        "example": "sports equipment"
+    },
+    {
+        "word": "escape",
+        "meaning": "逃げる",
+        "example": "escape from danger"
+    },
+    {
+        "word": "especially",
+        "meaning": "特に",
+        "example": "especially in winter"
+    },
+    {
+        "word": "Europe",
+        "meaning": "ヨーロッパ",
+        "example": "travel to Europe"
+    },
+    {
+        "word": "European",
+        "meaning": "ヨーロッパの；ヨーロッパ人",
+        "example": "European culture"
+    },
+    {
+        "word": "even",
+        "meaning": "〜でさえ",
+        "example": "even a child can understand it"
+    },
+    {
+        "word": "evening",
+        "meaning": "夕方",
+        "example": "in the evening"
+    },
+    {
+        "word": "event",
+        "meaning": "出来事、行事",
+        "example": "a school event"
+    },
+    {
+        "word": "ever",
+        "meaning": "今までに",
+        "example": "Have you ever been to Kyoto?"
+    },
+    {
+        "word": "every",
+        "meaning": "すべての",
+        "example": "every student"
+    },
+    {
+        "word": "everybody",
+        "meaning": "みんな",
+        "example": "Everybody is here."
+    },
+    {
+        "word": "everyday",
+        "meaning": "毎日の",
+        "example": "everyday life"
+    },
+    {
+        "word": "everyone",
+        "meaning": "みんな",
+        "example": "Everyone likes him."
+    },
+    {
+        "word": "everything",
+        "meaning": "すべてのこと",
+        "example": "Everything is ready."
+    },
+    {
+        "word": "everywhere",
+        "meaning": "どこでも、どこにでも",
+        "example": "go everywhere"
+    },
+    {
+        "word": "exam",
+        "meaning": "試験",
+        "example": "have an exam"
+    },
+    {
+        "word": "example",
+        "meaning": "例",
+        "example": "For example, ~"
+    },
+    {
+        "word": "excellent",
+        "meaning": "すばらしい",
+        "example": "an excellent idea"
+    },
+    {
+        "word": "excited",
+        "meaning": "興奮した",
+        "example": "I am excited about the concert."
+    },
+    {
+        "word": "exciting",
+        "meaning": "わくわくする",
+        "example": "an exciting game"
+    },
+    {
+        "word": "excuse",
+        "meaning": "言い訳、弁解",
+        "example": "make an excuse"
+    },
+    {
+        "word": "exercise",
+        "meaning": "運動；練習",
+        "example": "do some exercise"
+    },
+    {
+        "word": "exit",
+        "meaning": "出口",
+        "example": "the emergency exit"
+    },
+    {
+        "word": "expect",
+        "meaning": "〜を期待する、予想する",
+        "example": "expect good results"
+    },
+    {
+        "word": "experience",
+        "meaning": "経験；体験",
+        "example": "a new experience"
+    },
+    {
+        "word": "experiment",
+        "meaning": "実験",
+        "example": "do a science experiment"
+    },
+    {
+        "word": "explain",
+        "meaning": "説明する",
+        "example": "explain the rules"
+    },
+    {
+        "word": "explore",
+        "meaning": "探検する、調査する",
+        "example": "explore the island"
+    },
+    {
+        "word": "express",
+        "meaning": "表現する",
+        "example": "express your feelings"
+    },
+    {
+        "word": "expression",
+        "meaning": "表現、言い回し",
+        "example": "a useful expression"
+    },
+    {
+        "word": "extra",
+        "meaning": "余分の、特別な",
+        "example": "bring an extra pen"
+    },
+    {
+        "word": "eye",
+        "meaning": "目",
+        "example": "close my eyes"
+    },
+    {
+        "word": "face",
+        "meaning": "顔；直面する",
+        "example": "wash my face / face a challenge"
+    },
+    {
+        "word": "fact",
+        "meaning": "事実",
+        "example": "a scientific fact"
+    },
+    {
+        "word": "factory",
+        "meaning": "工場",
+        "example": "work in a car factory"
+    },
+    {
+        "word": "fail",
+        "meaning": "失敗する",
+        "example": "fail the test"
+    },
+    {
+        "word": "fair",
+        "meaning": "公平な；見本市",
+        "example": "a fair decision / a book fair"
+    },
+    {
+        "word": "fall",
+        "meaning": "落ちる、倒れる；秋",
+        "example": "fall down / in the fall"
+    },
+    {
+        "word": "false",
+        "meaning": "間違った、偽の",
+        "example": "a false answer"
+    },
+    {
+        "word": "famous",
+        "meaning": "有名な",
+        "example": "a famous singer"
+    },
+    {
+        "word": "fan",
+        "meaning": "ファン；扇風機",
+        "example": "a big soccer fan"
+    },
+    {
+        "word": "far",
+        "meaning": "遠くに；遠い",
+        "example": "live far away"
+    },
+    {
+        "word": "farm",
+        "meaning": "農場",
+        "example": "visit a farm"
+    },
+    {
+        "word": "farmer",
+        "meaning": "農家の人",
+        "example": "talk to a farmer"
+    },
+    {
+        "word": "fashion",
+        "meaning": "ファッション",
+        "example": "study fashion"
+    },
+    {
+        "word": "fast",
+        "meaning": "速い、速く",
+        "example": "run fast"
+    },
+    {
+        "word": "fat",
+        "meaning": "太った",
+        "example": "a fat cat"
+    },
+    {
+        "word": "father",
+        "meaning": "父",
+        "example": "My father likes coffee."
+    },
+    {
+        "word": "favorite",
+        "meaning": "お気に入りの",
+        "example": "my favorite book"
+    },
+    {
+        "word": "February",
+        "meaning": "2月",
+        "example": "in February"
+    },
+    {
+        "word": "feed",
+        "meaning": "えさを与える",
+        "example": "feed the dog"
+    },
+    {
+        "word": "feel",
+        "meaning": "感じる",
+        "example": "feel happy"
+    },
+    {
+        "word": "feeling",
+        "meaning": "感情",
+        "example": "share your feelings"
+    },
+    {
+        "word": "festival",
+        "meaning": "祭り",
+        "example": "go to a summer festival"
+    },
+    {
+        "word": "fever",
+        "meaning": "熱",
+        "example": "have a fever"
+    },
+    {
+        "word": "few",
+        "meaning": "少しの；ほとんどない",
+        "example": "few people know the fact"
+    },
+    {
+        "word": "field",
+        "meaning": "野原；分野",
+        "example": "run in the field / the field of science"
+    },
+    {
+        "word": "fight",
+        "meaning": "戦う、けんかする",
+        "example": "fight for peace"
+    },
+    {
+        "word": "figure",
+        "meaning": "数字；図形",
+        "example": "read the figures on the graph"
+    },
+    {
+        "word": "fill",
+        "meaning": "満たす、埋める",
+        "example": "fill the bottle"
+    },
+    {
+        "word": "final",
+        "meaning": "最後の、最終",
+        "example": "the final answer"
+    },
+    {
+        "word": "finally",
+        "meaning": "最後に、ついに",
+        "example": "Finally, we reached the goal."
+    },
+    {
+        "word": "find",
+        "meaning": "見つける",
+        "example": "find the key"
+    },
+    {
+        "word": "fine",
+        "meaning": "元気な；晴れた",
+        "example": "I’m fine / It is fine today."
+    },
+    {
+        "word": "finger",
+        "meaning": "指",
+        "example": "point with your finger"
+    },
+    {
+        "word": "finish",
+        "meaning": "終える",
+        "example": "finish my homework"
+    },
+    {
+        "word": "fire",
+        "meaning": "火；火事",
+        "example": "put out the fire"
+    },
+    {
+        "word": "firefighter",
+        "meaning": "消防士",
+        "example": "become a firefighter"
+    },
+    {
+        "word": "fireworks",
+        "meaning": "花火",
+        "example": "watch the fireworks"
+    },
+    {
+        "word": "first",
+        "meaning": "最初の",
+        "example": "first time / my first trip"
+    },
+    {
+        "word": "fish",
+        "meaning": "魚；釣る",
+        "example": "eat fish / go fishing"
+    },
+    {
+        "word": "fishing",
+        "meaning": "釣り",
+        "example": "enjoy fishing"
+    },
+    {
+        "word": "five",
+        "meaning": "5",
+        "example": "five apples"
+    },
+    {
+        "word": "fix",
+        "meaning": "修理する、直す",
+        "example": "fix my bike"
+    },
+    {
+        "word": "flag",
+        "meaning": "旗",
+        "example": "a national flag"
+    },
+    {
+        "word": "flat",
+        "meaning": "平らな",
+        "example": "a flat surface"
+    },
+    {
+        "word": "flight",
+        "meaning": "飛行、フライト",
+        "example": "book a flight"
+    },
+    {
+        "word": "floor",
+        "meaning": "床、階",
+        "example": "on the second floor"
+    },
+    {
+        "word": "flower",
+        "meaning": "花",
+        "example": "a yellow flower"
+    },
+    {
+        "word": "fly",
+        "meaning": "飛ぶ",
+        "example": "birds fly in the sky"
+    },
+    {
+        "word": "fog",
+        "meaning": "霧",
+        "example": "thick fog in the morning"
+    },
+    {
+        "word": "follow",
+        "meaning": "ついて行く、従う",
+        "example": "follow the rules"
+    },
+    {
+        "word": "food",
+        "meaning": "食べ物",
+        "example": "Japanese food"
+    },
+    {
+        "word": "fool",
+        "meaning": "ばか者",
+        "example": "Don't be a fool."
+    },
+    {
+        "word": "football",
+        "meaning": "サッカー、フットボール",
+        "example": "play football with friends"
+    },
+    {
+        "word": "for",
+        "meaning": "〜のために；〜にとって",
+        "example": "a gift for you"
+    },
+    {
+        "word": "foreign",
+        "meaning": "外国の",
+        "example": "foreign language"
+    },
+    {
+        "word": "foreigner",
+        "meaning": "外国人",
+        "example": "talk with a foreigner"
+    },
+    {
+        "word": "forest",
+        "meaning": "森",
+        "example": "walk in the forest"
+    },
+    {
+        "word": "forget",
+        "meaning": "忘れる",
+        "example": "forget his name"
+    },
+    {
+        "word": "fork",
+        "meaning": "フォーク",
+        "example": "use a fork"
+    },
+    {
+        "word": "form",
+        "meaning": "形；用紙",
+        "example": "fill out a form"
+    },
+    {
+        "word": "forty",
+        "meaning": "40",
+        "example": "forty students"
+    },
+    {
+        "word": "forward",
+        "meaning": "前へ；転送する",
+        "example": "step forward"
+    },
+    {
+        "word": "four",
+        "meaning": "4",
+        "example": "four seasons"
+    },
+    {
+        "word": "fourteen",
+        "meaning": "14",
+        "example": "fourteen years old"
+    },
+    {
+        "word": "fox",
+        "meaning": "キツネ",
+        "example": "a red fox"
+    },
+    {
+        "word": "free",
+        "meaning": "無料の；自由な",
+        "example": "free lunch / feel free to ask"
+    },
+    {
+        "word": "freedom",
+        "meaning": "自由",
+        "example": "freedom of speech"
+    },
+    {
+        "word": "French",
+        "meaning": "フランス（語・人）の",
+        "example": "speak French"
+    },
+    {
+        "word": "Friday",
+        "meaning": "金曜日",
+        "example": "on Friday"
+    },
+    {
+        "word": "friend",
+        "meaning": "友だち",
+        "example": "make friends"
+    },
+    {
+        "word": "friendly",
+        "meaning": "親しみやすい",
+        "example": "a friendly teacher"
+    },
+    {
+        "word": "friendship",
+        "meaning": "友情",
+        "example": "a strong friendship"
+    },
+    {
+        "word": "frog",
+        "meaning": "カエル",
+        "example": "a green frog"
+    },
+    {
+        "word": "from",
+        "meaning": "〜から",
+        "example": "from Tokyo"
+    },
+    {
+        "word": "front",
+        "meaning": "前",
+        "example": "stand in front of the class"
+    },
+    {
+        "word": "fruit",
+        "meaning": "果物",
+        "example": "eat some fruit"
+    },
+    {
+        "word": "full",
+        "meaning": "いっぱいの、満腹の",
+        "example": "be full of energy"
+    },
+    {
+        "word": "fun",
+        "meaning": "楽しいこと；楽しみ",
+        "example": "have fun"
+    },
+    {
+        "word": "funny",
+        "meaning": "おかしい",
+        "example": "a funny story"
+    },
+    {
+        "word": "future",
+        "meaning": "将来",
+        "example": "think about the future"
+    },
+    {
+        "word": "game",
+        "meaning": "ゲーム、試合",
+        "example": "play a game"
+    },
+    {
+        "word": "garden",
+        "meaning": "庭",
+        "example": "work in the garden"
+    },
+    {
+        "word": "garlic",
+        "meaning": "ニンニク",
+        "example": "use garlic in cooking"
+    },
+    {
+        "word": "gate",
+        "meaning": "門",
+        "example": "close the gate"
+    },
+    {
+        "word": "gather",
+        "meaning": "集める、集まる",
+        "example": "gather information"
+    },
+    {
+        "word": "general",
+        "meaning": "一般的な",
+        "example": "general opinion"
+    },
+    {
+        "word": "gentle",
+        "meaning": "優しい",
+        "example": "a gentle smile"
+    },
+    {
+        "word": "get",
+        "meaning": "得る、〜になる",
+        "example": "get a present / get angry"
+    },
+    {
+        "word": "ghost",
+        "meaning": "幽霊",
+        "example": "believe in ghosts"
+    },
+    {
+        "word": "giant",
+        "meaning": "巨大な",
+        "example": "a giant panda"
+    },
+    {
+        "word": "gift",
+        "meaning": "贈り物",
+        "example": "a birthday gift"
+    },
+    {
+        "word": "girl",
+        "meaning": "女の子",
+        "example": "a girl and a boy"
+    },
+    {
+        "word": "give",
+        "meaning": "与える",
+        "example": "give me a hand"
+    },
+    {
+        "word": "glad",
+        "meaning": "うれしい",
+        "example": "I’m glad to meet you."
+    },
+    {
+        "word": "glass",
+        "meaning": "ガラス；コップ",
+        "example": "a glass of water"
+    },
+    {
+        "word": "glove",
+        "meaning": "手袋",
+        "example": "a pair of gloves"
+    },
+    {
+        "word": "go",
+        "meaning": "行く",
+        "example": "go to school"
+    },
+    {
+        "word": "goal",
+        "meaning": "目標；ゴール",
+        "example": "set a goal"
+    },
+    {
+        "word": "goat",
+        "meaning": "ヤギ",
+        "example": "feed the goat"
+    },
+    {
+        "word": "God",
+        "meaning": "神",
+        "example": "pray to God"
+    },
+    {
+        "word": "gold",
+        "meaning": "金",
+        "example": "a gold medal"
+    },
+    {
+        "word": "good",
+        "meaning": "良い",
+        "example": "a good idea"
+    },
+    {
+        "word": "goodbye",
+        "meaning": "さようなら",
+        "example": "Say goodbye."
+    },
+    {
+        "word": "goods",
+        "meaning": "商品",
+        "example": "send goods to other countries"
+    },
+    {
+        "word": "goose",
+        "meaning": "ガチョウ",
+        "example": "a white goose"
+    },
+    {
+        "word": "govern",
+        "meaning": "統治する",
+        "example": "govern the country"
+    },
+    {
+        "word": "government",
+        "meaning": "政府",
+        "example": "the Japanese government"
+    },
+    {
+        "word": "grab",
+        "meaning": "つかむ",
+        "example": "grab the bag"
+    },
+    {
+        "word": "grade",
+        "meaning": "学年；成績",
+        "example": "a 9th grade student / good grades"
+    },
+    {
+        "word": "graduate",
+        "meaning": "卒業する",
+        "example": "graduate from high school"
+    },
+    {
+        "word": "grandfather",
+        "meaning": "祖父",
+        "example": "my grandfather's story"
+    },
+    {
+        "word": "grandmother",
+        "meaning": "祖母",
+        "example": "visit my grandmother"
+    },
+    {
+        "word": "grape",
+        "meaning": "ブドウ",
+        "example": "eat some grapes"
+    },
+    {
+        "word": "graph",
+        "meaning": "グラフ",
+        "example": "a bar graph"
+    },
+    {
+        "word": "grass",
+        "meaning": "草",
+        "example": "cut the grass"
+    },
+    {
+        "word": "grateful",
+        "meaning": "感謝している",
+        "example": "I’m grateful for your help."
+    },
+    {
+        "word": "great",
+        "meaning": "すばらしい、偉大な",
+        "example": "a great teacher"
+    },
+    {
+        "word": "green",
+        "meaning": "緑（の）",
+        "example": "a green park"
+    },
+    {
+        "word": "greet",
+        "meaning": "挨拶する",
+        "example": "greet the visitors"
+    },
+    {
+        "word": "greeting",
+        "meaning": "あいさつ",
+        "example": "send greetings"
+    },
+    {
+        "word": "grin",
+        "meaning": "にっこり笑う",
+        "example": "grin at me"
+    },
+    {
+        "word": "ground",
+        "meaning": "地面",
+        "example": "on the ground"
+    },
+    {
+        "word": "group",
+        "meaning": "グループ",
+        "example": "work in a group"
+    },
+    {
+        "word": "grow",
+        "meaning": "成長する；育てる",
+        "example": "grow tomatoes / grow up"
+    },
+    {
+        "word": "guard",
+        "meaning": "警備員；守る",
+        "example": "a security guard"
+    },
+    {
+        "word": "guess",
+        "meaning": "推測する；当てる",
+        "example": "Guess the answer."
+    },
+    {
+        "word": "guest",
+        "meaning": "客",
+        "example": "a guest speaker"
+    },
+    {
+        "word": "guide",
+        "meaning": "案内する；案内人",
+        "example": "a tour guide"
+    },
+    {
+        "word": "guitar",
+        "meaning": "ギター",
+        "example": "play the guitar"
+    },
+    {
+        "word": "guy",
+        "meaning": "男、やつ",
+        "example": "a nice guy"
+    },
+    {
+        "word": "gym",
+        "meaning": "体育館；ジム",
+        "example": "in the school gym"
+    },
+    {
+        "word": "habit",
+        "meaning": "習慣",
+        "example": "change your habits"
+    },
+    {
+        "word": "hair",
+        "meaning": "髪の毛",
+        "example": "wash my hair"
+    },
+    {
+        "word": "half",
+        "meaning": "半分",
+        "example": "half of the cake"
+    },
+    {
+        "word": "hall",
+        "meaning": "ホール、会館",
+        "example": "meet at the hall"
+    },
+    {
+        "word": "ham",
+        "meaning": "ハム",
+        "example": "a ham sandwich"
+    },
+    {
+        "word": "hand",
+        "meaning": "手",
+        "example": "raise your hand"
+    },
+    {
+        "word": "handkerchief",
+        "meaning": "ハンカチ",
+        "example": "use a handkerchief"
+    },
+    {
+        "word": "handle",
+        "meaning": "扱う；取っ手",
+        "example": "handle the problem / door handle"
+    },
+    {
+        "word": "handsome",
+        "meaning": "ハンサムな",
+        "example": "a handsome actor"
+    },
+    {
+        "word": "hang",
+        "meaning": "吊るす、かける",
+        "example": "hang the coat"
+    },
+    {
+        "word": "happen",
+        "meaning": "起こる",
+        "example": "What happened?"
+    },
+    {
+        "word": "happy",
+        "meaning": "幸せな、うれしい",
+        "example": "a happy family"
+    },
+    {
+        "word": "hard",
+        "meaning": "難しい；一生懸命に",
+        "example": "a hard question / work hard"
+    },
+    {
+        "word": "hardly",
+        "meaning": "ほとんど〜ない",
+        "example": "I can hardly believe it."
+    },
+    {
+        "word": "hat",
+        "meaning": "帽子",
+        "example": "wear a hat"
+    },
+    {
+        "word": "hate",
+        "meaning": "嫌う",
+        "example": "I hate carrots."
+    },
+    {
+        "word": "have",
+        "meaning": "持っている、食べる、経験する",
+        "example": "have a pet / have lunch / have fun"
+    },
+    {
+        "word": "he",
+        "meaning": "彼は",
+        "example": "He is my friend."
+    },
+    {
+        "word": "head",
+        "meaning": "頭",
+        "example": "touch your head"
+    },
+    {
+        "word": "health",
+        "meaning": "健康",
+        "example": "good for your health"
+    },
+    {
+        "word": "healthy",
+        "meaning": "健康的な",
+        "example": "eat healthy food"
+    },
+    {
+        "word": "hear",
+        "meaning": "聞こえる、聞く",
+        "example": "hear the news"
+    },
+    {
+        "word": "heart",
+        "meaning": "心、心臓",
+        "example": "a kind heart"
+    },
+    {
+        "word": "heat",
+        "meaning": "熱",
+        "example": "escape from the heat"
+    },
+    {
+        "word": "heaven",
+        "meaning": "天国",
+        "example": "go to heaven"
+    },
+    {
+        "word": "heavy",
+        "meaning": "重い",
+        "example": "a heavy bag"
+    },
+    {
+        "word": "height",
+        "meaning": "高さ、身長",
+        "example": "What’s your height?"
+    },
+    {
+        "word": "helicopter",
+        "meaning": "ヘリコプター",
+        "example": "fly in a helicopter"
+    },
+    {
+        "word": "hello",
+        "meaning": "こんにちは",
+        "example": "Hello, how are you?"
+    },
+    {
+        "word": "help",
+        "meaning": "助ける；助け",
+        "example": "help my parents / Thank you for your help."
+    },
+    {
+        "word": "hero",
+        "meaning": "英雄",
+        "example": "a sports hero"
+    },
+    {
+        "word": "hers",
+        "meaning": "彼女のもの",
+        "example": "That bag is hers."
+    },
+    {
+        "word": "hi",
+        "meaning": "やあ",
+        "example": "Hi, nice to meet you."
+    },
+    {
+        "word": "hide",
+        "meaning": "隠す、隠れる",
+        "example": "hide the letter"
+    },
+    {
+        "word": "high",
+        "meaning": "高い",
+        "example": "a high mountain"
+    },
+    {
+        "word": "hill",
+        "meaning": "丘",
+        "example": "climb the hill"
+    },
+    {
+        "word": "him",
+        "meaning": "彼を［に］",
+        "example": "talk to him"
+    },
+    {
+        "word": "himself",
+        "meaning": "彼自身",
+        "example": "He made it himself."
+    },
+    {
+        "word": "hint",
+        "meaning": "ヒント",
+        "example": "give me a hint"
+    },
+    {
+        "word": "hire",
+        "meaning": "雇う",
+        "example": "hire a new worker"
+    },
+    {
+        "word": "his",
+        "meaning": "彼の",
+        "example": "his bike"
+    },
+    {
+        "word": "history",
+        "meaning": "歴史",
+        "example": "study world history"
+    },
+    {
+        "word": "hit",
+        "meaning": "たたく；命中する",
+        "example": "hit the ball"
+    },
+    {
+        "word": "hobby",
+        "meaning": "趣味",
+        "example": "My hobby is reading."
+    },
+    {
+        "word": "hold",
+        "meaning": "持つ；開催する",
+        "example": "hold my hand / hold a meeting"
+    },
+    {
+        "word": "hole",
+        "meaning": "穴",
+        "example": "dig a hole"
+    },
+    {
+        "word": "holiday",
+        "meaning": "休日、祝日",
+        "example": "a national holiday"
+    },
+    {
+        "word": "home",
+        "meaning": "家；自宅",
+        "example": "go home"
+    },
+    {
+        "word": "homeroom",
+        "meaning": "ホームルーム",
+        "example": "homeroom teacher"
+    },
+    {
+        "word": "homework",
+        "meaning": "宿題",
+        "example": "do my homework"
+    },
+    {
+        "word": "honest",
+        "meaning": "正直な",
+        "example": "be honest with your friends"
+    },
+    {
+        "word": "honey",
+        "meaning": "はちみつ",
+        "example": "add honey to tea"
+    },
+    {
+        "word": "hood",
+        "meaning": "フード",
+        "example": "put on your hood"
+    },
+    {
+        "word": "hope",
+        "meaning": "希望；〜を願う",
+        "example": "hope to win the game"
+    },
+    {
+        "word": "hopes",
+        "meaning": "希望（複数形）",
+        "example": "Her hopes came true."
+    },
+    {
+        "word": "horn",
+        "meaning": "つの；警笛",
+        "example": "blow the horn"
+    },
+    {
+        "word": "horse",
+        "meaning": "馬",
+        "example": "ride a horse"
+    },
+    {
+        "word": "hospital",
+        "meaning": "病院",
+        "example": "go to the hospital"
+    },
+    {
+        "word": "host",
+        "meaning": "司会者、主催者",
+        "example": "a TV host"
+    },
+    {
+        "word": "hot",
+        "meaning": "熱い；暑い",
+        "example": "a hot day"
+    },
+    {
+        "word": "hotel",
+        "meaning": "ホテル",
+        "example": "stay at a hotel"
+    },
+    {
+        "word": "hour",
+        "meaning": "時間",
+        "example": "wait for an hour"
+    },
+    {
+        "word": "house",
+        "meaning": "家",
+        "example": "build a house"
+    },
+    {
+        "word": "housework",
+        "meaning": "家事",
+        "example": "help with housework"
+    },
+    {
+        "word": "how",
+        "meaning": "どうやって；どのように",
+        "example": "How do you go to school?"
+    },
+    {
+        "word": "however",
+        "meaning": "しかしながら",
+        "example": "However, I couldn’t go."
+    },
+    {
+        "word": "huge",
+        "meaning": "巨大な",
+        "example": "a huge ship"
+    },
+    {
+        "word": "human",
+        "meaning": "人間の；人間",
+        "example": "human rights"
+    },
+    {
+        "word": "humid",
+        "meaning": "湿気の多い",
+        "example": "a hot and humid day"
+    },
+    {
+        "word": "humor",
+        "meaning": "ユーモア",
+        "example": "a sense of humor"
+    },
+    {
+        "word": "hungry",
+        "meaning": "空腹の",
+        "example": "I’m hungry."
+    },
+    {
+        "word": "hunt",
+        "meaning": "狩る、探す",
+        "example": "hunt for treasure"
+    },
+    {
+        "word": "hurry",
+        "meaning": "急ぐ",
+        "example": "Hurry up!"
+    },
+    {
+        "word": "hurt",
+        "meaning": "傷つける；痛む",
+        "example": "My leg hurts."
+    },
+    {
+        "word": "husband",
+        "meaning": "夫",
+        "example": "her husband"
+    },
+    {
+        "word": "ice",
+        "meaning": "氷",
+        "example": "melt the ice"
+    },
+    {
+        "word": "ice cream",
+        "meaning": "アイスクリーム",
+        "example": "eat ice cream"
+    },
+    {
+        "word": "idea",
+        "meaning": "考え、アイデア",
+        "example": "a good idea"
+    },
+    {
+        "word": "ideal",
+        "meaning": "理想的な",
+        "example": "an ideal plan"
+    },
+    {
+        "word": "identify",
+        "meaning": "識別する",
+        "example": "identify the problem"
+    },
+    {
+        "word": "ill",
+        "meaning": "病気の",
+        "example": "She is ill in bed."
+    },
+    {
+        "word": "illustration",
+        "meaning": "イラスト、挿絵",
+        "example": "a book with many illustrations"
+    },
+    {
+        "word": "image",
+        "meaning": "画像、イメージ",
+        "example": "a digital image"
+    },
+    {
+        "word": "imagine",
+        "meaning": "想像する",
+        "example": "Imagine a better world."
+    },
+    {
+        "word": "immediately",
+        "meaning": "すぐに",
+        "example": "I answered immediately."
+    },
+    {
+        "word": "important",
+        "meaning": "重要な",
+        "example": "an important message"
+    },
+    {
+        "word": "impossible",
+        "meaning": "不可能な",
+        "example": "It's impossible to go there now."
+    },
+    {
+        "word": "improve",
+        "meaning": "改善する、向上させる",
+        "example": "improve your English"
+    },
+    {
+        "word": "in",
+        "meaning": "〜の中に；〜で",
+        "example": "in the box / in the morning"
+    },
+    {
+        "word": "include",
+        "meaning": "含む",
+        "example": "The price includes tax."
+    },
+    {
+        "word": "increase",
+        "meaning": "増える；増やす",
+        "example": "increase sales"
+    },
+    {
+        "word": "independent",
+        "meaning": "独立した",
+        "example": "an independent country"
+    },
+    {
+        "word": "India",
+        "meaning": "インド",
+        "example": "a trip to India"
+    },
+    {
+        "word": "individual",
+        "meaning": "個人の、個々の",
+        "example": "individual rights"
+    },
+    {
+        "word": "industry",
+        "meaning": "産業",
+        "example": "the car industry"
+    },
+    {
+        "word": "influence",
+        "meaning": "影響；影響を与える",
+        "example": "influence the result"
+    },
+    {
+        "word": "information",
+        "meaning": "情報",
+        "example": "find useful information"
+    },
+    {
+        "word": "ingredient",
+        "meaning": "材料、成分",
+        "example": "check the ingredients"
+    },
+    {
+        "word": "inside",
+        "meaning": "中に",
+        "example": "go inside the house"
+    },
+    {
+        "word": "instead",
+        "meaning": "代わりに",
+        "example": "stay home instead"
+    },
+    {
+        "word": "instead of",
+        "meaning": "〜の代わりに",
+        "example": "Use a spoon instead of a fork."
+    },
+    {
+        "word": "instruction",
+        "meaning": "指示、説明",
+        "example": "Follow the instructions carefully."
+    },
+    {
+        "word": "instrument",
+        "meaning": "楽器；道具",
+        "example": "play a musical instrument"
+    },
+    {
+        "word": "interest",
+        "meaning": "関心；興味を持たせる",
+        "example": "show interest in science"
+    },
+    {
+        "word": "interested",
+        "meaning": "興味がある",
+        "example": "I’m interested in English."
+    },
+    {
+        "word": "interesting",
+        "meaning": "おもしろい、興味深い",
+        "example": "an interesting story"
+    },
+    {
+        "word": "international",
+        "meaning": "国際的な",
+        "example": "an international school"
+    },
+    {
+        "word": "Internet",
+        "meaning": "インターネット",
+        "example": "use the Internet"
+    },
+    {
+        "word": "interview",
+        "meaning": "面接；インタビュー",
+        "example": "have a job interview"
+    },
+    {
+        "word": "into",
+        "meaning": "〜の中へ",
+        "example": "go into the room"
+    },
+    {
+        "word": "introduce",
+        "meaning": "紹介する",
+        "example": "introduce myself to the class"
+    },
+    {
+        "word": "introduction",
+        "meaning": "紹介",
+        "example": "a short introduction"
+    },
+    {
+        "word": "invent",
+        "meaning": "発明する",
+        "example": "invent a new machine"
+    },
+    {
+        "word": "invention",
+        "meaning": "発明",
+        "example": "a useful invention"
+    },
+    {
+        "word": "invite",
+        "meaning": "招待する",
+        "example": "invite him to the party"
+    },
+    {
+        "word": "iron",
+        "meaning": "アイロン；鉄",
+        "example": "an iron gate"
+    },
+    {
+        "word": "is",
+        "meaning": "〜です、〜である",
+        "example": "He is a student."
+    },
+    {
+        "word": "island",
+        "meaning": "島",
+        "example": "a small island"
+    },
+    {
+        "word": "issue",
+        "meaning": "問題、課題",
+        "example": "discuss social issues"
+    },
+    {
+        "word": "it",
+        "meaning": "それ",
+        "example": "It is raining."
+    },
+    {
+        "word": "item",
+        "meaning": "品物；項目",
+        "example": "an expensive item"
+    },
+    {
+        "word": "its",
+        "meaning": "それの",
+        "example": "open its mouth"
+    },
+    {
+        "word": "itself",
+        "meaning": "それ自体",
+        "example": "the town itself"
+    },
+    {
+        "word": "jacket",
+        "meaning": "ジャケット",
+        "example": "wear a warm jacket"
+    },
+    {
+        "word": "January",
+        "meaning": "1月",
+        "example": "in January"
+    },
+    {
+        "word": "Japan",
+        "meaning": "日本",
+        "example": "live in Japan"
+    },
+    {
+        "word": "Japanese",
+        "meaning": "日本（の、人、語）",
+        "example": "Japanese food / a Japanese girl"
+    },
+    {
+        "word": "jeans",
+        "meaning": "ジーンズ",
+        "example": "blue jeans"
+    },
+    {
+        "word": "job",
+        "meaning": "仕事",
+        "example": "get a job"
+    },
+    {
+        "word": "join",
+        "meaning": "参加する、加わる",
+        "example": "join the club"
+    },
+    {
+        "word": "joke",
+        "meaning": "冗談",
+        "example": "tell a funny joke"
+    },
+    {
+        "word": "journal",
+        "meaning": "雑誌、日記",
+        "example": "read a science journal"
+    },
+    {
+        "word": "journalist",
+        "meaning": "ジャーナリスト",
+        "example": "become a journalist"
+    },
+    {
+        "word": "journey",
+        "meaning": "旅、旅行",
+        "example": "a long journey"
+    },
+    {
+        "word": "joy",
+        "meaning": "喜び",
+        "example": "a feeling of great joy"
+    },
+    {
+        "word": "judge",
+        "meaning": "判断する；審査員",
+        "example": "Don’t judge others."
+    },
+    {
+        "word": "juice",
+        "meaning": "ジュース",
+        "example": "orange juice"
+    },
+    {
+        "word": "July",
+        "meaning": "7月",
+        "example": "in July"
+    },
+    {
+        "word": "jump",
+        "meaning": "跳ぶ、ジャンプする",
+        "example": "jump over the fence"
+    },
+    {
+        "word": "June",
+        "meaning": "6月",
+        "example": "in June"
+    },
+    {
+        "word": "junior high school",
+        "meaning": "中学校",
+        "example": "go to junior high school"
+    },
+    {
+        "word": "just",
+        "meaning": "ちょうど；〜したばかり",
+        "example": "just now / I’ve just finished."
+    },
+    {
+        "word": "keep",
+        "meaning": "保つ；〜し続ける",
+        "example": "keep a diary / keep playing"
+    },
+    {
+        "word": "ketchup",
+        "meaning": "ケチャップ",
+        "example": "add ketchup to fries"
+    },
+    {
+        "word": "key",
+        "meaning": "鍵；重要な",
+        "example": "a key point"
+    },
+    {
+        "word": "kick",
+        "meaning": "ける",
+        "example": "kick the ball"
+    },
+    {
+        "word": "kid",
+        "meaning": "子ども",
+        "example": "a smart kid"
+    },
+    {
+        "word": "kill",
+        "meaning": "殺す",
+        "example": "kill time"
+    },
+    {
+        "word": "kind",
+        "meaning": "種類；親切な",
+        "example": "all kinds of books / a kind boy"
+    },
+    {
+        "word": "king",
+        "meaning": "王",
+        "example": "a wise king"
+    },
+    {
+        "word": "kiss",
+        "meaning": "キス；キスする",
+        "example": "kiss on the cheek"
+    },
+    {
+        "word": "kitchen",
+        "meaning": "台所",
+        "example": "in the kitchen"
+    },
+    {
+        "word": "kite",
+        "meaning": "凧",
+        "example": "fly a kite"
+    },
+    {
+        "word": "knee",
+        "meaning": "ひざ",
+        "example": "sit on my knees"
+    },
+    {
+        "word": "knife",
+        "meaning": "ナイフ",
+        "example": "cut with a knife"
+    },
+    {
+        "word": "knock",
+        "meaning": "ノックする",
+        "example": "knock on the door"
+    },
+    {
+        "word": "know",
+        "meaning": "知っている",
+        "example": "know the answer"
+    },
+    {
+        "word": "knowledge",
+        "meaning": "知識",
+        "example": "gain knowledge"
+    },
+    {
+        "word": "koala",
+        "meaning": "コアラ",
+        "example": "a koala in a tree"
+    },
+    {
+        "word": "kitchenware",
+        "meaning": "台所用品",
+        "example": "buy kitchenware at the store"
+    },
+    {
+        "word": "laboratory",
+        "meaning": "実験室、研究所",
+        "example": "a science laboratory"
+    },
+    {
+        "word": "ladder",
+        "meaning": "はしご",
+        "example": "climb the ladder"
+    },
+    {
+        "word": "lady",
+        "meaning": "女性、婦人",
+        "example": "an old lady"
+    },
+    {
+        "word": "lake",
+        "meaning": "湖",
+        "example": "swim in the lake"
+    },
+    {
+        "word": "lamp",
+        "meaning": "ランプ、照明",
+        "example": "turn on the lamp"
+    },
+    {
+        "word": "land",
+        "meaning": "土地、陸；着陸する",
+        "example": "buy some land / land at the airport"
+    },
+    {
+        "word": "language",
+        "meaning": "言語",
+        "example": "learn a foreign language"
+    },
+    {
+        "word": "large",
+        "meaning": "大きな",
+        "example": "a large family"
+    },
+    {
+        "word": "last",
+        "meaning": "最後の；続く",
+        "example": "the last question / The concert lasted two hours."
+    },
+    {
+        "word": "late",
+        "meaning": "遅い、遅れて",
+        "example": "I'm sorry I'm late."
+    },
+    {
+        "word": "later",
+        "meaning": "あとで",
+        "example": "See you later!"
+    },
+    {
+        "word": "laugh",
+        "meaning": "笑う",
+        "example": "laugh at the joke"
+    },
+    {
+        "word": "law",
+        "meaning": "法律",
+        "example": "break the law"
+    },
+    {
+        "word": "lay",
+        "meaning": "置く、横たえる",
+        "example": "lay the book on the table"
+    },
+    {
+        "word": "lazy",
+        "meaning": "怠けた",
+        "example": "a lazy student"
+    },
+    {
+        "word": "lead",
+        "meaning": "導く、案内する",
+        "example": "lead the team"
+    },
+    {
+        "word": "leader",
+        "meaning": "リーダー",
+        "example": "the class leader"
+    },
+    {
+        "word": "leaf",
+        "meaning": "葉",
+        "example": "a green leaf"
+    },
+    {
+        "word": "learn",
+        "meaning": "学ぶ",
+        "example": "learn English"
+    },
+    {
+        "word": "least",
+        "meaning": "最も少ない",
+        "example": "at least five people"
+    },
+    {
+        "word": "leave",
+        "meaning": "去る；残す",
+        "example": "leave school early / leave a message"
+    },
+    {
+        "word": "left",
+        "meaning": "左、左側；去った",
+        "example": "turn left / She left yesterday."
+    },
+    {
+        "word": "leg",
+        "meaning": "脚",
+        "example": "stand on one leg"
+    },
+    {
+        "word": "lemon",
+        "meaning": "レモン",
+        "example": "a slice of lemon"
+    },
+    {
+        "word": "lend",
+        "meaning": "貸す",
+        "example": "lend me your pencil"
+    },
+    {
+        "word": "length",
+        "meaning": "長さ",
+        "example": "the length of the river"
+    },
+    {
+        "word": "lesson",
+        "meaning": "授業、レッスン",
+        "example": "math lesson"
+    },
+    {
+        "word": "let",
+        "meaning": "〜させる",
+        "example": "Let’s go!"
+    },
+    {
+        "word": "letter",
+        "meaning": "手紙；文字",
+        "example": "write a letter / the letter A"
+    },
+    {
+        "word": "level",
+        "meaning": "レベル、程度",
+        "example": "a high level"
+    },
+    {
+        "word": "library",
+        "meaning": "図書館",
+        "example": "go to the library"
+    },
+    {
+        "word": "lie",
+        "meaning": "うそをつく；横になる",
+        "example": "lie on the bed"
+    },
+    {
+        "word": "life",
+        "meaning": "人生、生活",
+        "example": "daily life / a long life"
+    },
+    {
+        "word": "lift",
+        "meaning": "持ち上げる",
+        "example": "lift the box"
+    },
+    {
+        "word": "light",
+        "meaning": "光、明かり；軽い",
+        "example": "turn off the light / a light bag"
+    },
+    {
+        "word": "like",
+        "meaning": "好きである；〜のような",
+        "example": "I like music / like a flower"
+    },
+    {
+        "word": "line",
+        "meaning": "線；列",
+        "example": "draw a line / wait in line"
+    },
+    {
+        "word": "lion",
+        "meaning": "ライオン",
+        "example": "a wild lion"
+    },
+    {
+        "word": "lip",
+        "meaning": "唇",
+        "example": "dry lips"
+    },
+    {
+        "word": "listen",
+        "meaning": "聞く",
+        "example": "listen to music"
+    },
+    {
+        "word": "little",
+        "meaning": "小さい；少しの",
+        "example": "a little girl / a little time"
+    },
+    {
+        "word": "live",
+        "meaning": "住む、生きる",
+        "example": "live in Japan"
+    },
+    {
+        "word": "living",
+        "meaning": "生活、暮らし；生きている",
+        "example": "modern living / living things"
+    },
+    {
+        "word": "local",
+        "meaning": "地元の、地域の",
+        "example": "local news"
+    },
+    {
+        "word": "lock",
+        "meaning": "鍵をかける；錠",
+        "example": "lock the door"
+    },
+    {
+        "word": "log in",
+        "meaning": "ログインする",
+        "example": "log in to the website"
+    },
+    {
+        "word": "lonely",
+        "meaning": "さびしい",
+        "example": "feel lonely"
+    },
+    {
+        "word": "long",
+        "meaning": "長い",
+        "example": "a long road"
+    },
+    {
+        "word": "look",
+        "meaning": "見る；〜のように見える",
+        "example": "look at the sky / look happy"
+    },
+    {
+        "word": "loop",
+        "meaning": "輪、ループ",
+        "example": "a belt loop"
+    },
+    {
+        "word": "lose",
+        "meaning": "失う、負ける",
+        "example": "lose the game / lose my bag"
+    },
+    {
+        "word": "loser",
+        "meaning": "敗者",
+        "example": "He was the loser of the match."
+    },
+    {
+        "word": "lost",
+        "meaning": "失った、迷った",
+        "example": "I’m lost in the forest."
+    },
+    {
+        "word": "lot",
+        "meaning": "多く、たくさん",
+        "example": "a lot of people"
+    },
+    {
+        "word": "loud",
+        "meaning": "大きな声で；騒々しい",
+        "example": "speak in a loud voice"
+    },
+    {
+        "word": "love",
+        "meaning": "愛；愛する",
+        "example": "I love my family."
+    },
+    {
+        "word": "lovely",
+        "meaning": "すてきな",
+        "example": "a lovely smile"
+    },
+    {
+        "word": "low",
+        "meaning": "低い",
+        "example": "a low wall"
+    },
+    {
+        "word": "luck",
+        "meaning": "運",
+        "example": "Good luck!"
+    },
+    {
+        "word": "lucky",
+        "meaning": "運が良い",
+        "example": "I'm lucky today."
+    },
+    {
+        "word": "lunch",
+        "meaning": "昼食",
+        "example": "eat lunch with friends"
+    },
+    {
+        "word": "machine",
+        "meaning": "機械",
+        "example": "a washing machine"
+    },
+    {
+        "word": "mad",
+        "meaning": "怒って；夢中な",
+        "example": "She is mad at me."
+    },
+    {
+        "word": "magazine",
+        "meaning": "雑誌",
+        "example": "read a fashion magazine"
+    },
+    {
+        "word": "magic",
+        "meaning": "魔法",
+        "example": "a magic show"
+    },
+    {
+        "word": "mail",
+        "meaning": "郵便；メール",
+        "example": "send some mail"
+    },
+    {
+        "word": "main",
+        "meaning": "主な",
+        "example": "the main idea"
+    },
+    {
+        "word": "make",
+        "meaning": "作る、〜させる",
+        "example": "make a cake / make me happy"
+    },
+    {
+        "word": "man",
+        "meaning": "男",
+        "example": "a tall man"
+    },
+    {
+        "word": "many",
+        "meaning": "たくさんの",
+        "example": "many people"
+    },
+    {
+        "word": "map",
+        "meaning": "地図",
+        "example": "look at a map"
+    },
+    {
+        "word": "market",
+        "meaning": "市場、マーケット",
+        "example": "buy fish at the market"
+    },
+    {
+        "word": "married",
+        "meaning": "結婚している",
+        "example": "They got married last year."
+    },
+    {
+        "word": "marry",
+        "meaning": "結婚する",
+        "example": "She will marry a doctor."
+    },
+    {
+        "word": "match",
+        "meaning": "試合；一致する",
+        "example": "a soccer match / The shirt matches the pants."
+    },
+    {
+        "word": "material",
+        "meaning": "材料、物質",
+        "example": "building materials"
+    },
+    {
+        "word": "math",
+        "meaning": "数学",
+        "example": "I'm good at math."
+    },
+    {
+        "word": "matter",
+        "meaning": "問題；重要である",
+        "example": "What's the matter? / It doesn’t matter."
+    },
+    {
+        "word": "maybe",
+        "meaning": "たぶん",
+        "example": "Maybe he is right."
+    },
+    {
+        "word": "meal",
+        "meaning": "食事",
+        "example": "have a big meal"
+    },
+    {
+        "word": "mean",
+        "meaning": "意味する",
+        "example": "What does it mean?"
+    },
+    {
+        "word": "meaning",
+        "meaning": "意味",
+        "example": "the meaning of this word"
+    },
+    {
+        "word": "meat",
+        "meaning": "肉",
+        "example": "eat meat"
+    },
+    {
+        "word": "media",
+        "meaning": "メディア、媒体",
+        "example": "the power of the media"
+    },
+    {
+        "word": "medical",
+        "meaning": "医療の",
+        "example": "a medical check"
+    },
+    {
+        "word": "medicine",
+        "meaning": "薬",
+        "example": "take some medicine"
+    },
+    {
+        "word": "meet",
+        "meaning": "会う",
+        "example": "meet my friend"
+    },
+    {
+        "word": "meeting",
+        "meaning": "会議",
+        "example": "have a meeting"
+    },
+    {
+        "word": "melt",
+        "meaning": "溶ける",
+        "example": "Ice melts in the sun."
+    },
+    {
+        "word": "member",
+        "meaning": "メンバー、会員",
+        "example": "a soccer team member"
+    },
+    {
+        "word": "memory",
+        "meaning": "思い出、記憶",
+        "example": "have good memories"
+    },
+    {
+        "word": "menu",
+        "meaning": "メニュー",
+        "example": "look at the menu"
+    },
+    {
+        "word": "message",
+        "meaning": "伝言、メッセージ",
+        "example": "send a message"
+    },
+    {
+        "word": "metal",
+        "meaning": "金属",
+        "example": "a metal spoon"
+    },
+    {
+        "word": "meter",
+        "meaning": "メートル",
+        "example": "five meters long"
+    },
+    {
+        "word": "method",
+        "meaning": "方法",
+        "example": "a new method"
+    },
+    {
+        "word": "middle",
+        "meaning": "中央",
+        "example": "in the middle of the room"
+    },
+    {
+        "word": "might",
+        "meaning": "〜かもしれない",
+        "example": "It might rain."
+    },
+    {
+        "word": "mild",
+        "meaning": "穏やかな、軽い",
+        "example": "a mild winter"
+    },
+    {
+        "word": "mile",
+        "meaning": "マイル（約1.6km）",
+        "example": "run five miles"
+    },
+    {
+        "word": "milk",
+        "meaning": "牛乳",
+        "example": "a glass of milk"
+    },
+    {
+        "word": "million",
+        "meaning": "100万",
+        "example": "a million stars"
+    },
+    {
+        "word": "mind",
+        "meaning": "気にする；心",
+        "example": "Do you mind if I open the window?"
+    },
+    {
+        "word": "mine",
+        "meaning": "私のもの",
+        "example": "That book is mine."
+    },
+    {
+        "word": "minute",
+        "meaning": "分",
+        "example": "Wait a minute!"
+    },
+    {
+        "word": "mirror",
+        "meaning": "鏡",
+        "example": "look in the mirror"
+    },
+    {
+        "word": "miss",
+        "meaning": "逃す；～がいなくて寂しい",
+        "example": "I miss my friends."
+    },
+    {
+        "word": "mistake",
+        "meaning": "間違い",
+        "example": "make a mistake"
+    },
+    {
+        "word": "mix",
+        "meaning": "混ぜる",
+        "example": "mix the eggs and flour"
+    },
+    {
+        "word": "model",
+        "meaning": "模型；モデル",
+        "example": "a model train / fashion model"
+    },
+    {
+        "word": "modern",
+        "meaning": "現代の、近代の",
+        "example": "a modern building"
+    },
+    {
+        "word": "moment",
+        "meaning": "瞬間",
+        "example": "Wait a moment."
+    },
+    {
+        "word": "Monday",
+        "meaning": "月曜日",
+        "example": "I have P.E. on Monday."
+    },
+    {
+        "word": "money",
+        "meaning": "お金",
+        "example": "save money"
+    },
+    {
+        "word": "monkey",
+        "meaning": "サル",
+        "example": "a monkey in the zoo"
+    },
+    {
+        "word": "month",
+        "meaning": "月",
+        "example": "a few months ago"
+    },
+    {
+        "word": "moon",
+        "meaning": "月",
+        "example": "look at the moon"
+    },
+    {
+        "word": "more",
+        "meaning": "もっと多くの",
+        "example": "I need more time."
+    },
+    {
+        "word": "morning",
+        "meaning": "朝",
+        "example": "in the morning"
+    },
+    {
+        "word": "most",
+        "meaning": "最も多くの",
+        "example": "Most students are here."
+    },
+    {
+        "word": "mother",
+        "meaning": "母",
+        "example": "My mother is a nurse."
+    },
+    {
+        "word": "mountain",
+        "meaning": "山",
+        "example": "climb a mountain"
+    },
+    {
+        "word": "mouse",
+        "meaning": "ネズミ；マウス",
+        "example": "a small mouse / a computer mouse"
+    },
+    {
+        "word": "mouth",
+        "meaning": "口",
+        "example": "open your mouth"
+    },
+    {
+        "word": "move",
+        "meaning": "動く、引っ越す",
+        "example": "move to Tokyo"
+    },
+    {
+        "word": "movie",
+        "meaning": "映画",
+        "example": "watch a movie"
+    },
+    {
+        "word": "Mr.",
+        "meaning": "〜さん（男性）",
+        "example": "Mr. Smith is my teacher."
+    },
+    {
+        "word": "Mrs.",
+        "meaning": "〜さん（既婚女性）",
+        "example": "Mrs. Brown teaches music."
+    },
+    {
+        "word": "Ms.",
+        "meaning": "〜さん（女性）",
+        "example": "Ms. Green is my math teacher."
+    },
+    {
+        "word": "much",
+        "meaning": "多くの",
+        "example": "I don’t have much time."
+    },
+    {
+        "word": "mud",
+        "meaning": "泥",
+        "example": "walk through the mud"
+    },
+    {
+        "word": "museum",
+        "meaning": "博物館、美術館",
+        "example": "visit a museum"
+    },
+    {
+        "word": "music",
+        "meaning": "音楽",
+        "example": "listen to music"
+    },
+    {
+        "word": "musician",
+        "meaning": "音楽家",
+        "example": "a jazz musician"
+    },
+    {
+        "word": "must",
+        "meaning": "〜しなければならない",
+        "example": "You must study more."
+    },
+    {
+        "word": "my",
+        "meaning": "私の",
+        "example": "my family"
+    },
+    {
+        "word": "myself",
+        "meaning": "私自身",
+        "example": "I did it myself."
+    },
+    {
+        "word": "mystery",
+        "meaning": "謎、推理",
+        "example": "solve the mystery"
+    },
+    {
+        "word": "nail",
+        "meaning": "つめ；くぎ",
+        "example": "cut my nails"
+    },
+    {
+        "word": "name",
+        "meaning": "名前",
+        "example": "What’s your name?"
+    },
+    {
+        "word": "narrow",
+        "meaning": "狭い",
+        "example": "a narrow street"
+    },
+    {
+        "word": "nation",
+        "meaning": "国家、国民",
+        "example": "a peaceful nation"
+    },
+    {
+        "word": "national",
+        "meaning": "国の、国家の",
+        "example": "a national holiday"
+    },
+    {
+        "word": "native",
+        "meaning": "生まれつきの、母語の",
+        "example": "a native speaker"
+    },
+    {
+        "word": "nature",
+        "meaning": "自然",
+        "example": "protect nature"
+    },
+    {
+        "word": "near",
+        "meaning": "近くの；〜の近くに",
+        "example": "live near the station"
+    },
+    {
+        "word": "nearly",
+        "meaning": "ほとんど、ほぼ",
+        "example": "nearly 100 people"
+    },
+    {
+        "word": "neat",
+        "meaning": "きちんとした",
+        "example": "keep your room neat"
+    },
+    {
+        "word": "necessary",
+        "meaning": "必要な",
+        "example": "the necessary tools"
+    },
+    {
+        "word": "neck",
+        "meaning": "首",
+        "example": "wear a scarf around my neck"
+    },
+    {
+        "word": "need",
+        "meaning": "必要とする",
+        "example": "I need help."
+    },
+    {
+        "word": "neighbor",
+        "meaning": "近所の人",
+        "example": "talk to my neighbor"
+    },
+    {
+        "word": "neither",
+        "meaning": "〜も〜も〜ない",
+        "example": "Neither Tom nor Ken came."
+    },
+    {
+        "word": "Nepal",
+        "meaning": "ネパール",
+        "example": "climb a mountain in Nepal"
+    },
+    {
+        "word": "net",
+        "meaning": "網；ネット",
+        "example": "catch fish in a net"
+    },
+    {
+        "word": "network",
+        "meaning": "ネットワーク",
+        "example": "build a strong network"
+    },
+    {
+        "word": "never",
+        "meaning": "決して〜ない",
+        "example": "I never give up."
+    },
+    {
+        "word": "new",
+        "meaning": "新しい",
+        "example": "buy a new phone"
+    },
+    {
+        "word": "news",
+        "meaning": "ニュース",
+        "example": "watch the news"
+    },
+    {
+        "word": "newspaper",
+        "meaning": "新聞",
+        "example": "read a newspaper"
+    },
+    {
+        "word": "next",
+        "meaning": "次の；隣の",
+        "example": "next week / sit next to me"
+    },
+    {
+        "word": "nice",
+        "meaning": "すてきな、親切な",
+        "example": "a nice view / a nice teacher"
+    },
+    {
+        "word": "night",
+        "meaning": "夜",
+        "example": "at night"
+    },
+    {
+        "word": "nine",
+        "meaning": "9",
+        "example": "nine students"
+    },
+    {
+        "word": "nineteen",
+        "meaning": "19",
+        "example": "nineteen years old"
+    },
+    {
+        "word": "ninety",
+        "meaning": "90",
+        "example": "ninety minutes"
+    },
+    {
+        "word": "no",
+        "meaning": "いいえ；〜ない",
+        "example": "No, I don't."
+    },
+    {
+        "word": "nobody",
+        "meaning": "だれも〜ない",
+        "example": "Nobody was there."
+    },
+    {
+        "word": "noise",
+        "meaning": "音、騒音",
+        "example": "hear a noise"
+    },
+    {
+        "word": "noisy",
+        "meaning": "騒がしい",
+        "example": "a noisy classroom"
+    },
+    {
+        "word": "none",
+        "meaning": "何も〜ない",
+        "example": "None of them came."
+    },
+    {
+        "word": "noodle",
+        "meaning": "めん、麺類",
+        "example": "eat hot noodles"
+    },
+    {
+        "word": "noon",
+        "meaning": "正午",
+        "example": "at noon"
+    },
+    {
+        "word": "nor",
+        "meaning": "〜もまた〜ない",
+        "example": "Neither you nor I can do it."
+    },
+    {
+        "word": "north",
+        "meaning": "北",
+        "example": "go to the north"
+    },
+    {
+        "word": "nose",
+        "meaning": "鼻",
+        "example": "blow your nose"
+    },
+    {
+        "word": "not",
+        "meaning": "〜でない",
+        "example": "not yet"
+    },
+    {
+        "word": "note",
+        "meaning": "メモ、ノート；注意する",
+        "example": "write a note"
+    },
+    {
+        "word": "notebook",
+        "meaning": "ノート",
+        "example": "a math notebook"
+    },
+    {
+        "word": "nothing",
+        "meaning": "何も〜ない",
+        "example": "I have nothing to say."
+    },
+    {
+        "word": "notice",
+        "meaning": "気づく；掲示",
+        "example": "notice a mistake / a school notice"
+    },
+    {
+        "word": "November",
+        "meaning": "11月",
+        "example": "in November"
+    },
+    {
+        "word": "now",
+        "meaning": "今",
+        "example": "I’m studying now."
+    },
+    {
+        "word": "number",
+        "meaning": "数；番号",
+        "example": "What's your phone number?"
+    },
+    {
+        "word": "nurse",
+        "meaning": "看護師",
+        "example": "a kind nurse"
+    },
+    {
+        "word": "object",
+        "meaning": "物体；目的",
+        "example": "a strange object"
+    },
+    {
+        "word": "ocean",
+        "meaning": "海、海洋",
+        "example": "swim in the ocean"
+    },
+    {
+        "word": "October",
+        "meaning": "10月",
+        "example": "in October"
+    },
+    {
+        "word": "of",
+        "meaning": "〜の",
+        "example": "a glass of water"
+    },
+    {
+        "word": "off",
+        "meaning": "離れて；切れて",
+        "example": "turn off the light"
+    },
+    {
+        "word": "offer",
+        "meaning": "申し出る；提供",
+        "example": "offer help"
+    },
+    {
+        "word": "office",
+        "meaning": "事務所、会社",
+        "example": "go to the office"
+    },
+    {
+        "word": "officer",
+        "meaning": "職員、警官",
+        "example": "a police officer"
+    },
+    {
+        "word": "official",
+        "meaning": "公式の；役人",
+        "example": "an official answer"
+    },
+    {
+        "word": "often",
+        "meaning": "よく、しばしば",
+        "example": "I often watch TV."
+    },
+    {
+        "word": "oh",
+        "meaning": "ああ、おお",
+        "example": "Oh no!"
+    },
+    {
+        "word": "oil",
+        "meaning": "油",
+        "example": "cook with oil"
+    },
+    {
+        "word": "ok",
+        "meaning": "よい、大丈夫",
+        "example": "It's OK."
+    },
+    {
+        "word": "old",
+        "meaning": "古い；年を取った",
+        "example": "an old house"
+    },
+    {
+        "word": "Olympic",
+        "meaning": "オリンピックの",
+        "example": "the Olympic Games"
+    },
+    {
+        "word": "on",
+        "meaning": "〜の上に；〜で",
+        "example": "on the table / on TV"
+    },
+    {
+        "word": "once",
+        "meaning": "一度",
+        "example": "once a week"
+    },
+    {
+        "word": "one",
+        "meaning": "1；一つの",
+        "example": "one book"
+    },
+    {
+        "word": "only",
+        "meaning": "ただ〜だけ",
+        "example": "only you"
+    },
+    {
+        "word": "open",
+        "meaning": "開ける；開いている",
+        "example": "open the door"
+    },
+    {
+        "word": "opinion",
+        "meaning": "意見",
+        "example": "share your opinion"
+    },
+    {
+        "word": "opportunity",
+        "meaning": "機会",
+        "example": "a great opportunity"
+    },
+    {
+        "word": "or",
+        "meaning": "または、あるいは",
+        "example": "tea or coffee?"
+    },
+    {
+        "word": "orange",
+        "meaning": "オレンジ；オレンジ色の",
+        "example": "an orange shirt / drink orange juice"
+    },
+    {
+        "word": "order",
+        "meaning": "注文；命令",
+        "example": "place an order"
+    },
+    {
+        "word": "ordinary",
+        "meaning": "普通の",
+        "example": "an ordinary day"
+    },
+    {
+        "word": "organize",
+        "meaning": "組織する；計画する",
+        "example": "organize a meeting"
+    },
+    {
+        "word": "original",
+        "meaning": "元の；独自の",
+        "example": "the original idea"
+    },
+    {
+        "word": "other",
+        "meaning": "他の",
+        "example": "other people"
+    },
+    {
+        "word": "our",
+        "meaning": "私たちの",
+        "example": "our school"
+    },
+    {
+        "word": "ourselves",
+        "meaning": "私たち自身",
+        "example": "We introduced ourselves."
+    },
+    {
+        "word": "out",
+        "meaning": "外へ",
+        "example": "go out"
+    },
+    {
+        "word": "outside",
+        "meaning": "外に、外側に",
+        "example": "go outside and play"
+    },
+    {
+        "word": "over",
+        "meaning": "〜の上に；〜を超えて",
+        "example": "jump over the box / over 100 people"
+    },
+    {
+        "word": "own",
+        "meaning": "自分の；所有する",
+        "example": "my own room"
+    },
+    {
+        "word": "owner",
+        "meaning": "所有者",
+        "example": "the shop owner"
+    },
+    {
+        "word": "page",
+        "meaning": "ページ",
+        "example": "turn the page"
+    },
+    {
+        "word": "paint",
+        "meaning": "絵の具；描く",
+        "example": "paint a picture"
+    },
+    {
+        "word": "painter",
+        "meaning": "画家",
+        "example": "a famous painter"
+    },
+    {
+        "word": "pair",
+        "meaning": "一対、一組",
+        "example": "a pair of shoes"
+    },
+    {
+        "word": "pajamas",
+        "meaning": "パジャマ",
+        "example": "wear pajamas"
+    },
+    {
+        "word": "palace",
+        "meaning": "宮殿",
+        "example": "visit the imperial palace"
+    },
+    {
+        "word": "pan",
+        "meaning": "鍋",
+        "example": "a frying pan"
+    },
+    {
+        "word": "pancake",
+        "meaning": "パンケーキ",
+        "example": "make pancakes"
+    },
+    {
+        "word": "paper",
+        "meaning": "紙；新聞；レポート",
+        "example": "a piece of paper"
+    },
+    {
+        "word": "parade",
+        "meaning": "パレード",
+        "example": "enjoy the parade"
+    },
+    {
+        "word": "parent",
+        "meaning": "親",
+        "example": "My parents are kind."
+    },
+    {
+        "word": "park",
+        "meaning": "公園；駐車する",
+        "example": "walk in the park / park the car"
+    },
+    {
+        "word": "part",
+        "meaning": "部分、役割",
+        "example": "a part of the plan"
+    },
+    {
+        "word": "partner",
+        "meaning": "相手、パートナー",
+        "example": "a dance partner"
+    },
+    {
+        "word": "party",
+        "meaning": "パーティー、政党",
+        "example": "a birthday party"
+    },
+    {
+        "word": "pass",
+        "meaning": "通る；合格する",
+        "example": "pass the test"
+    },
+    {
+        "word": "passenger",
+        "meaning": "乗客",
+        "example": "train passengers"
+    },
+    {
+        "word": "passport",
+        "meaning": "パスポート",
+        "example": "show your passport"
+    },
+    {
+        "word": "past",
+        "meaning": "過去の；〜を過ぎて",
+        "example": "in the past / go past the station"
+    },
+    {
+        "word": "path",
+        "meaning": "小道、道筋",
+        "example": "a narrow path"
+    },
+    {
+        "word": "patient",
+        "meaning": "患者；我慢強い",
+        "example": "a hospital patient"
+    },
+    {
+        "word": "pattern",
+        "meaning": "模様、パターン",
+        "example": "a checkered pattern"
+    },
+    {
+        "word": "pause",
+        "meaning": "一時停止；止まる",
+        "example": "take a short pause"
+    },
+    {
+        "word": "pay",
+        "meaning": "支払う",
+        "example": "pay the bill"
+    },
+    {
+        "word": "peace",
+        "meaning": "平和",
+        "example": "wish for peace"
+    },
+    {
+        "word": "peaceful",
+        "meaning": "平和な",
+        "example": "a peaceful life"
+    },
+    {
+        "word": "peach",
+        "meaning": "モモ",
+        "example": "eat a peach"
+    },
+    {
+        "word": "peanut",
+        "meaning": "ピーナッツ",
+        "example": "a bag of peanuts"
+    },
+    {
+        "word": "pear",
+        "meaning": "洋ナシ",
+        "example": "a sweet pear"
+    },
+    {
+        "word": "pen",
+        "meaning": "ペン",
+        "example": "write with a pen"
+    },
+    {
+        "word": "pencil",
+        "meaning": "鉛筆",
+        "example": "sharpen a pencil"
+    },
+    {
+        "word": "people",
+        "meaning": "人々",
+        "example": "many people"
+    },
+    {
+        "word": "percent",
+        "meaning": "パーセント",
+        "example": "ten percent off"
+    },
+    {
+        "word": "perfect",
+        "meaning": "完璧な",
+        "example": "a perfect score"
+    },
+    {
+        "word": "perform",
+        "meaning": "演じる、行う",
+        "example": "perform on stage"
+    },
+    {
+        "word": "performance",
+        "meaning": "演技、パフォーマンス",
+        "example": "enjoy the live performance"
+    },
+    {
+        "word": "perhaps",
+        "meaning": "たぶん",
+        "example": "Perhaps it’s true."
+    },
+    {
+        "word": "period",
+        "meaning": "期間；時代；終止符",
+        "example": "a short period of time"
+    },
+    {
+        "word": "person",
+        "meaning": "人",
+        "example": "a nice person"
+    },
+    {
+        "word": "personal",
+        "meaning": "個人の、私的な",
+        "example": "personal information"
+    },
+    {
+        "word": "pet",
+        "meaning": "ペット",
+        "example": "keep a pet dog"
+    },
+    {
+        "word": "phone",
+        "meaning": "電話",
+        "example": "answer the phone"
+    },
+    {
+        "word": "photo",
+        "meaning": "写真",
+        "example": "take a photo"
+    },
+    {
+        "word": "photograph",
+        "meaning": "写真",
+        "example": "a beautiful photograph"
+    },
+    {
+        "word": "photographer",
+        "meaning": "写真家",
+        "example": "a professional photographer"
+    },
+    {
+        "word": "phrase",
+        "meaning": "語句、言い回し",
+        "example": "a useful English phrase"
+    },
+    {
+        "word": "physical",
+        "meaning": "身体の；物理的な",
+        "example": "physical exercise"
+    },
+    {
+        "word": "pick",
+        "meaning": "選ぶ；摘む",
+        "example": "pick a card"
+    },
+    {
+        "word": "picture",
+        "meaning": "絵；写真",
+        "example": "draw a picture"
+    },
+    {
+        "word": "piece",
+        "meaning": "一片、ひとかけら",
+        "example": "a piece of cake"
+    },
+    {
+        "word": "pig",
+        "meaning": "ブタ",
+        "example": "a pink pig"
+    },
+    {
+        "word": "pilot",
+        "meaning": "パイロット",
+        "example": "a plane pilot"
+    },
+    {
+        "word": "pink",
+        "meaning": "ピンク",
+        "example": "a pink flower"
+    },
+    {
+        "word": "place",
+        "meaning": "場所",
+        "example": "a quiet place"
+    },
+    {
+        "word": "plan",
+        "meaning": "計画；計画する",
+        "example": "make a plan"
+    },
+    {
+        "word": "planet",
+        "meaning": "惑星",
+        "example": "Earth is a planet."
+    },
+    {
+        "word": "plant",
+        "meaning": "植物；植える",
+        "example": "plant a tree"
+    },
+    {
+        "word": "plastic",
+        "meaning": "プラスチック",
+        "example": "a plastic bottle"
+    },
+    {
+        "word": "plate",
+        "meaning": "皿",
+        "example": "a dinner plate"
+    },
+    {
+        "word": "play",
+        "meaning": "遊ぶ；演奏する；演じる",
+        "example": "play soccer / play the piano"
+    },
+    {
+        "word": "player",
+        "meaning": "選手、演奏者",
+        "example": "a soccer player"
+    },
+    {
+        "word": "please",
+        "meaning": "どうぞ；喜ばせる",
+        "example": "Please sit down."
+    },
+    {
+        "word": "pleased",
+        "meaning": "満足した",
+        "example": "She looked pleased."
+    },
+    {
+        "word": "pleasure",
+        "meaning": "楽しみ、喜び",
+        "example": "a great pleasure"
+    },
+    {
+        "word": "plenty",
+        "meaning": "たくさんの",
+        "example": "plenty of time"
+    },
+    {
+        "word": "pocket",
+        "meaning": "ポケット",
+        "example": "coins in my pocket"
+    },
+    {
+        "word": "poem",
+        "meaning": "詩",
+        "example": "write a poem"
+    },
+    {
+        "word": "poet",
+        "meaning": "詩人",
+        "example": "a famous poet"
+    },
+    {
+        "word": "point",
+        "meaning": "指さす；要点",
+        "example": "point at the map"
+    },
+    {
+        "word": "police",
+        "meaning": "警察",
+        "example": "call the police"
+    },
+    {
+        "word": "policeman",
+        "meaning": "警察官",
+        "example": "talk to a policeman"
+    },
+    {
+        "word": "policy",
+        "meaning": "方針、政策",
+        "example": "change the school policy"
+    },
+    {
+        "word": "polite",
+        "meaning": "礼儀正しい",
+        "example": "a polite boy"
+    },
+    {
+        "word": "pollution",
+        "meaning": "汚染",
+        "example": "air pollution"
+    },
+    {
+        "word": "popular",
+        "meaning": "人気がある",
+        "example": "a popular singer"
+    },
+    {
+        "word": "population",
+        "meaning": "人口",
+        "example": "the population of Japan"
+    },
+    {
+        "word": "port",
+        "meaning": "港",
+        "example": "a fishing port"
+    },
+    {
+        "word": "possible",
+        "meaning": "可能な",
+        "example": "Is it possible?"
+    },
+    {
+        "word": "post",
+        "meaning": "郵便；投函する",
+        "example": "post a letter"
+    },
+    {
+        "word": "postcard",
+        "meaning": "はがき",
+        "example": "send a postcard"
+    },
+    {
+        "word": "poster",
+        "meaning": "ポスター",
+        "example": "put up a poster"
+    },
+    {
+        "word": "pot",
+        "meaning": "鍋、ポット",
+        "example": "a tea pot"
+    },
+    {
+        "word": "potato",
+        "meaning": "ジャガイモ",
+        "example": "peel a potato"
+    },
+    {
+        "word": "pound",
+        "meaning": "ポンド（重量・通貨）",
+        "example": "two pounds of rice"
+    },
+    {
+        "word": "power",
+        "meaning": "力、エネルギー",
+        "example": "the power of music"
+    },
+    {
+        "word": "practice",
+        "meaning": "練習；実行する",
+        "example": "practice the piano every day"
+    },
+    {
+        "word": "pray",
+        "meaning": "祈る",
+        "example": "pray for peace"
+    },
+    {
+        "word": "precious",
+        "meaning": "大切な、貴重な",
+        "example": "a precious memory"
+    },
+    {
+        "word": "prefer",
+        "meaning": "〜を好む",
+        "example": "prefer coffee to tea"
+    },
+    {
+        "word": "prepare",
+        "meaning": "準備する",
+        "example": "prepare for the test"
+    },
+    {
+        "word": "present",
+        "meaning": "贈り物；現在の；提示する",
+        "example": "get a present / present an idea"
+    },
+    {
+        "word": "president",
+        "meaning": "大統領；社長",
+        "example": "the president of the U.S."
+    },
+    {
+        "word": "pretty",
+        "meaning": "かわいい；かなり",
+        "example": "a pretty girl / pretty good"
+    },
+    {
+        "word": "price",
+        "meaning": "値段",
+        "example": "ask the price"
+    },
+    {
+        "word": "pride",
+        "meaning": "誇り",
+        "example": "take pride in my team"
+    },
+    {
+        "word": "print",
+        "meaning": "印刷する",
+        "example": "print a picture"
+    },
+    {
+        "word": "printer",
+        "meaning": "プリンター",
+        "example": "connect the printer"
+    },
+    {
+        "word": "probably",
+        "meaning": "たぶん",
+        "example": "He’s probably right."
+    },
+    {
+        "word": "problem",
+        "meaning": "問題",
+        "example": "solve the problem"
+    },
+    {
+        "word": "process",
+        "meaning": "過程；処理する",
+        "example": "a natural process"
+    },
+    {
+        "word": "produce",
+        "meaning": "生産する；作り出す",
+        "example": "produce energy"
+    },
+    {
+        "word": "product",
+        "meaning": "製品",
+        "example": "a new product"
+    },
+    {
+        "word": "program",
+        "meaning": "番組；計画",
+        "example": "watch a TV program"
+    },
+    {
+        "word": "progress",
+        "meaning": "進歩、進行",
+        "example": "make progress in English"
+    },
+    {
+        "word": "project",
+        "meaning": "計画、プロジェクト",
+        "example": "a science project"
+    },
+    {
+        "word": "promise",
+        "meaning": "約束する；約束",
+        "example": "keep a promise"
+    },
+    {
+        "word": "pronounce",
+        "meaning": "発音する",
+        "example": "pronounce the word clearly"
+    },
+    {
+        "word": "pronunciation",
+        "meaning": "発音",
+        "example": "your English pronunciation"
+    },
+    {
+        "word": "protect",
+        "meaning": "守る、保護する",
+        "example": "protect the environment"
+    },
+    {
+        "word": "proud",
+        "meaning": "誇りに思う",
+        "example": "I'm proud of you."
+    },
+    {
+        "word": "provide",
+        "meaning": "提供する",
+        "example": "provide support"
+    },
+    {
+        "word": "public",
+        "meaning": "公共の",
+        "example": "a public school"
+    },
+    {
+        "word": "pull",
+        "meaning": "引く",
+        "example": "pull the door"
+    },
+    {
+        "word": "pumpkin",
+        "meaning": "カボチャ",
+        "example": "cut the pumpkin"
+    },
+    {
+        "word": "punish",
+        "meaning": "罰する",
+        "example": "punish a student"
+    },
+    {
+        "word": "puppet",
+        "meaning": "人形、操り人形",
+        "example": "a puppet show"
+    },
+    {
+        "word": "puppy",
+        "meaning": "子犬",
+        "example": "a cute puppy"
+    },
+    {
+        "word": "purpose",
+        "meaning": "目的",
+        "example": "the purpose of the trip"
+    },
+    {
+        "word": "push",
+        "meaning": "押す",
+        "example": "push the door"
+    },
+    {
+        "word": "put",
+        "meaning": "置く",
+        "example": "put it on the table"
+    },
+    {
+        "word": "puzzle",
+        "meaning": "パズル；困惑",
+        "example": "solve a puzzle"
+    },
+    {
+        "word": "quality",
+        "meaning": "質、品質",
+        "example": "high-quality food"
+    },
+    {
+        "word": "quarter",
+        "meaning": "4分の1；15分",
+        "example": "a quarter past three"
+    },
+    {
+        "word": "queen",
+        "meaning": "女王",
+        "example": "the queen of England"
+    },
+    {
+        "word": "question",
+        "meaning": "質問；疑問",
+        "example": "ask a question"
+    },
+    {
+        "word": "quick",
+        "meaning": "速い",
+        "example": "a quick answer"
+    },
+    {
+        "word": "quickly",
+        "meaning": "すぐに、素早く",
+        "example": "run quickly"
+    },
+    {
+        "word": "quiet",
+        "meaning": "静かな",
+        "example": "a quiet room"
+    },
+    {
+        "word": "quite",
+        "meaning": "とても、かなり",
+        "example": "quite easy"
+    },
+    {
+        "word": "rabbit",
+        "meaning": "ウサギ",
+        "example": "a white rabbit"
+    },
+    {
+        "word": "race",
+        "meaning": "競争、レース；人種",
+        "example": "win the race / human race"
+    },
+    {
+        "word": "radio",
+        "meaning": "ラジオ",
+        "example": "listen to the radio"
+    },
+    {
+        "word": "rain",
+        "meaning": "雨",
+        "example": "It’s raining."
+    },
+    {
+        "word": "rainbow",
+        "meaning": "虹",
+        "example": "a colorful rainbow"
+    },
+    {
+        "word": "raise",
+        "meaning": "上げる；育てる",
+        "example": "raise your hand / raise a child"
+    },
+    {
+        "word": "ran",
+        "meaning": "走った（run の過去形）",
+        "example": "He ran to school."
+    },
+    {
+        "word": "rare",
+        "meaning": "珍しい",
+        "example": "a rare animal"
+    },
+    {
+        "word": "rate",
+        "meaning": "割合；評価する",
+        "example": "a high success rate"
+    },
+    {
+        "word": "rather",
+        "meaning": "むしろ",
+        "example": "I’d rather stay home."
+    },
+    {
+        "word": "reach",
+        "meaning": "到着する；手が届く",
+        "example": "reach the top"
+    },
+    {
+        "word": "read",
+        "meaning": "読む",
+        "example": "read a book"
+    },
+    {
+        "word": "ready",
+        "meaning": "準備ができた",
+        "example": "I’m ready."
+    },
+    {
+        "word": "real",
+        "meaning": "本当の、現実の",
+        "example": "a real story"
+    },
+    {
+        "word": "realize",
+        "meaning": "気づく、実現する",
+        "example": "realize the truth"
+    },
+    {
+        "word": "really",
+        "meaning": "本当に",
+        "example": "Do you really think so?"
+    },
+    {
+        "word": "reason",
+        "meaning": "理由",
+        "example": "the reason I’m late"
+    },
+    {
+        "word": "receive",
+        "meaning": "受け取る",
+        "example": "receive a letter"
+    },
+    {
+        "word": "recipe",
+        "meaning": "レシピ、調理法",
+        "example": "a cake recipe"
+    },
+    {
+        "word": "recognize",
+        "meaning": "認識する、見覚えがある",
+        "example": "I recognized his voice."
+    },
+    {
+        "word": "record",
+        "meaning": "記録；録音する",
+        "example": "keep a record"
+    },
+    {
+        "word": "red",
+        "meaning": "赤い、赤",
+        "example": "a red apple"
+    },
+    {
+        "word": "reduce",
+        "meaning": "減らす",
+        "example": "reduce plastic waste"
+    },
+    {
+        "word": "refuse",
+        "meaning": "断る",
+        "example": "refuse an offer"
+    },
+    {
+        "word": "region",
+        "meaning": "地域",
+        "example": "a warm region"
+    },
+    {
+        "word": "regular",
+        "meaning": "規則正しい、通常の",
+        "example": "a regular habit"
+    },
+    {
+        "word": "relate",
+        "meaning": "関連する、関係がある",
+        "example": "relate to the topic"
+    },
+    {
+        "word": "relationship",
+        "meaning": "関係、つながり",
+        "example": "a good relationship with friends"
+    },
+    {
+        "word": "relax",
+        "meaning": "くつろぐ、リラックスする",
+        "example": "relax at home"
+    },
+    {
+        "word": "release",
+        "meaning": "解放する、発表する",
+        "example": "release a new game"
+    },
+    {
+        "word": "relief",
+        "meaning": "安心、軽減",
+        "example": "feel relief"
+    },
+    {
+        "word": "religion",
+        "meaning": "宗教",
+        "example": "study world religions"
+    },
+    {
+        "word": "remain",
+        "meaning": "残る；〜のままである",
+        "example": "remain silent"
+    },
+    {
+        "word": "remember",
+        "meaning": "覚えている",
+        "example": "remember her name"
+    },
+    {
+        "word": "remind",
+        "meaning": "思い出させる",
+        "example": "remind me of my childhood"
+    },
+    {
+        "word": "remove",
+        "meaning": "取り除く",
+        "example": "remove the lid"
+    },
+    {
+        "word": "rent",
+        "meaning": "賃貸する；家賃",
+        "example": "rent an apartment"
+    },
+    {
+        "word": "repair",
+        "meaning": "修理する",
+        "example": "repair the bike"
+    },
+    {
+        "word": "repeat",
+        "meaning": "繰り返す",
+        "example": "Repeat after me."
+    },
+    {
+        "word": "replace",
+        "meaning": "取り替える",
+        "example": "replace the battery"
+    },
+    {
+        "word": "reply",
+        "meaning": "返事をする；返事",
+        "example": "reply to an email"
+    },
+    {
+        "word": "report",
+        "meaning": "報告する；報告書",
+        "example": "write a report"
+    },
+    {
+        "word": "reporter",
+        "meaning": "記者",
+        "example": "a news reporter"
+    },
+    {
+        "word": "represent",
+        "meaning": "代表する",
+        "example": "represent your country"
+    },
+    {
+        "word": "require",
+        "meaning": "要求する、必要とする",
+        "example": "require permission"
+    },
+    {
+        "word": "research",
+        "meaning": "研究",
+        "example": "do research"
+    },
+    {
+        "word": "respect",
+        "meaning": "尊敬する",
+        "example": "respect your teacher"
+    },
+    {
+        "word": "responsible",
+        "meaning": "責任がある",
+        "example": "be responsible for safety"
+    },
+    {
+        "word": "rest",
+        "meaning": "休憩；残り",
+        "example": "take a rest / the rest of the food"
+    },
+    {
+        "word": "restaurant",
+        "meaning": "レストラン",
+        "example": "eat at a restaurant"
+    },
+    {
+        "word": "result",
+        "meaning": "結果",
+        "example": "good results"
+    },
+    {
+        "word": "return",
+        "meaning": "戻る；戻す",
+        "example": "return to the room"
+    },
+    {
+        "word": "reuse",
+        "meaning": "再利用する",
+        "example": "reuse plastic bags"
+    },
+    {
+        "word": "review",
+        "meaning": "復習；再検討",
+        "example": "review for the test"
+    },
+    {
+        "word": "rice",
+        "meaning": "ご飯、米",
+        "example": "eat a bowl of rice"
+    },
+    {
+        "word": "rich",
+        "meaning": "豊かな；金持ちの",
+        "example": "a rich country"
+    },
+    {
+        "word": "ride",
+        "meaning": "乗る",
+        "example": "ride a bike"
+    },
+    {
+        "word": "right",
+        "meaning": "正しい；右",
+        "example": "You are right / turn right"
+    },
+    {
+        "word": "ring",
+        "meaning": "指輪；鳴る",
+        "example": "a gold ring / The bell rings."
+    },
+    {
+        "word": "rise",
+        "meaning": "昇る；増える",
+        "example": "The sun rises / Prices are rising."
+    },
+    {
+        "word": "river",
+        "meaning": "川",
+        "example": "swim in the river"
+    },
+    {
+        "word": "road",
+        "meaning": "道、道路",
+        "example": "a busy road"
+    },
+    {
+        "word": "robot",
+        "meaning": "ロボット",
+        "example": "a dancing robot"
+    },
+    {
+        "word": "rock",
+        "meaning": "岩；ロック音楽",
+        "example": "a big rock / play rock music"
+    },
+    {
+        "word": "roll",
+        "meaning": "転がる；巻く",
+        "example": "roll down the hill"
+    },
+    {
+        "word": "roof",
+        "meaning": "屋根",
+        "example": "on the roof"
+    },
+    {
+        "word": "room",
+        "meaning": "部屋",
+        "example": "clean my room"
+    },
+    {
+        "word": "rope",
+        "meaning": "ロープ、なわ",
+        "example": "jump rope"
+    },
+    {
+        "word": "rose",
+        "meaning": "バラ",
+        "example": "a red rose"
+    },
+    {
+        "word": "rough",
+        "meaning": "荒い、ざらざらした",
+        "example": "rough hands"
+    },
+    {
+        "word": "round",
+        "meaning": "丸い；〜の周りを",
+        "example": "a round table / walk around the school"
+    },
+    {
+        "word": "row",
+        "meaning": "列；こぐ",
+        "example": "sit in a row / row a boat"
+    },
+    {
+        "word": "rub",
+        "meaning": "こする",
+        "example": "rub my eyes"
+    },
+    {
+        "word": "rude",
+        "meaning": "失礼な",
+        "example": "a rude comment"
+    },
+    {
+        "word": "rule",
+        "meaning": "規則；支配",
+        "example": "follow the rules"
+    },
+    {
+        "word": "run",
+        "meaning": "走る",
+        "example": "run fast"
+    },
+    {
+        "word": "sad",
+        "meaning": "悲しい",
+        "example": "feel sad"
+    },
+    {
+        "word": "safe",
+        "meaning": "安全な",
+        "example": "a safe place"
+    },
+    {
+        "word": "safety",
+        "meaning": "安全",
+        "example": "safety first"
+    },
+    {
+        "word": "sail",
+        "meaning": "航海する；帆",
+        "example": "sail around the world"
+    },
+    {
+        "word": "salad",
+        "meaning": "サラダ",
+        "example": "make a salad"
+    },
+    {
+        "word": "salary",
+        "meaning": "給料",
+        "example": "a high salary"
+    },
+    {
+        "word": "sale",
+        "meaning": "販売；セール",
+        "example": "a big sale"
+    },
+    {
+        "word": "salt",
+        "meaning": "塩",
+        "example": "add salt to the soup"
+    },
+    {
+        "word": "same",
+        "meaning": "同じ",
+        "example": "the same answer"
+    },
+    {
+        "word": "sand",
+        "meaning": "砂",
+        "example": "play in the sand"
+    },
+    {
+        "word": "sandwich",
+        "meaning": "サンドイッチ",
+        "example": "eat a ham sandwich"
+    },
+    {
+        "word": "satisfy",
+        "meaning": "満足させる",
+        "example": "satisfy customers"
+    },
+    {
+        "word": "Saturday",
+        "meaning": "土曜日",
+        "example": "on Saturday"
+    },
+    {
+        "word": "save",
+        "meaning": "救う；節約する；保存する",
+        "example": "save money / save a file"
+    },
+    {
+        "word": "say",
+        "meaning": "言う",
+        "example": "say hello"
+    },
+    {
+        "word": "scale",
+        "meaning": "はかり；規模",
+        "example": "a bathroom scale / large-scale project"
+    },
+    {
+        "word": "scene",
+        "meaning": "場面、シーン",
+        "example": "the opening scene"
+    },
+    {
+        "word": "school",
+        "meaning": "学校",
+        "example": "go to school"
+    },
+    {
+        "word": "science",
+        "meaning": "科学",
+        "example": "a science class"
+    },
+    {
+        "word": "scientist",
+        "meaning": "科学者",
+        "example": "a space scientist"
+    },
+    {
+        "word": "scissors",
+        "meaning": "はさみ",
+        "example": "cut paper with scissors"
+    },
+    {
+        "word": "score",
+        "meaning": "得点、スコア；得点する",
+        "example": "get a high score"
+    },
+    {
+        "word": "screen",
+        "meaning": "画面、スクリーン",
+        "example": "a large screen"
+    },
+    {
+        "word": "sea",
+        "meaning": "海",
+        "example": "swim in the sea"
+    },
+    {
+        "word": "seal",
+        "meaning": "アザラシ；印",
+        "example": "a cute seal"
+    },
+    {
+        "word": "search",
+        "meaning": "探す；検索する",
+        "example": "search for my keys / search the Internet"
+    },
+    {
+        "word": "season",
+        "meaning": "季節",
+        "example": "the rainy season"
+    },
+    {
+        "word": "seat",
+        "meaning": "座席",
+        "example": "take a seat"
+    },
+    {
+        "word": "second",
+        "meaning": "2番目の；秒",
+        "example": "my second chance / wait a second"
+    },
+    {
+        "word": "secret",
+        "meaning": "秘密",
+        "example": "keep a secret"
+    },
+    {
+        "word": "section",
+        "meaning": "区画、部分",
+        "example": "the sports section of the newspaper"
+    },
+    {
+        "word": "see",
+        "meaning": "見る、会う",
+        "example": "see a movie / see my friend"
+    },
+    {
+        "word": "seed",
+        "meaning": "種",
+        "example": "plant a seed"
+    },
+    {
+        "word": "seem",
+        "meaning": "〜のように見える",
+        "example": "You seem happy."
+    },
+    {
+        "word": "select",
+        "meaning": "選ぶ、選択する",
+        "example": "select the correct answer"
+    },
+    {
+        "word": "self",
+        "meaning": "自己、自分自身",
+        "example": "know yourself"
+    },
+    {
+        "word": "sell",
+        "meaning": "売る",
+        "example": "sell vegetables at the market"
+    },
+    {
+        "word": "send",
+        "meaning": "送る",
+        "example": "send an email"
+    },
+    {
+        "word": "senior",
+        "meaning": "年上の、年長者",
+        "example": "my senior in high school"
+    },
+    {
+        "word": "sense",
+        "meaning": "感覚、意味",
+        "example": "a sense of smell / make sense"
+    },
+    {
+        "word": "sentence",
+        "meaning": "文",
+        "example": "write a long sentence"
+    },
+    {
+        "word": "separate",
+        "meaning": "分ける、離す",
+        "example": "separate the trash"
+    },
+    {
+        "word": "September",
+        "meaning": "9月",
+        "example": "in September"
+    },
+    {
+        "word": "serious",
+        "meaning": "深刻な、真剣な",
+        "example": "a serious problem"
+    },
+    {
+        "word": "serve",
+        "meaning": "仕える、提供する",
+        "example": "serve food to guests"
+    },
+    {
+        "word": "service",
+        "meaning": "サービス、奉仕",
+        "example": "good customer service"
+    },
+    {
+        "word": "set",
+        "meaning": "置く；設定する",
+        "example": "set the table / set the alarm"
+    },
+    {
+        "word": "seven",
+        "meaning": "7",
+        "example": "seven years old"
+    },
+    {
+        "word": "seventeen",
+        "meaning": "17",
+        "example": "seventeen people"
+    },
+    {
+        "word": "seventy",
+        "meaning": "70",
+        "example": "seventy points"
+    },
+    {
+        "word": "several",
+        "meaning": "いくつかの",
+        "example": "several times a week"
+    },
+    {
+        "word": "shake",
+        "meaning": "振る、揺れる",
+        "example": "shake hands"
+    },
+    {
+        "word": "shall",
+        "meaning": "〜しましょうか",
+        "example": "Shall we dance?"
+    },
+    {
+        "word": "shape",
+        "meaning": "形",
+        "example": "a round shape"
+    },
+    {
+        "word": "share",
+        "meaning": "分け合う；共有する",
+        "example": "share a room with my brother"
+    },
+    {
+        "word": "sharp",
+        "meaning": "鋭い、急な",
+        "example": "a sharp knife"
+    },
+    {
+        "word": "she",
+        "meaning": "彼女は",
+        "example": "She is my sister."
+    },
+    {
+        "word": "sheep",
+        "meaning": "ヒツジ",
+        "example": "a white sheep"
+    },
+    {
+        "word": "sheet",
+        "meaning": "シーツ；用紙",
+        "example": "a sheet of paper"
+    },
+    {
+        "word": "shelf",
+        "meaning": "棚",
+        "example": "put books on the shelf"
+    },
+    {
+        "word": "shine",
+        "meaning": "輝く、光る",
+        "example": "The sun shines."
+    },
+    {
+        "word": "ship",
+        "meaning": "船",
+        "example": "a big ship"
+    },
+    {
+        "word": "shirt",
+        "meaning": "シャツ",
+        "example": "wear a white shirt"
+    },
+    {
+        "word": "shoe",
+        "meaning": "くつ",
+        "example": "a pair of shoes"
+    },
+    {
+        "word": "shoot",
+        "meaning": "撃つ；シュートする",
+        "example": "shoot a ball"
+    },
+    {
+        "word": "shop",
+        "meaning": "店；買い物をする",
+        "example": "a flower shop / shop for clothes"
+    },
+    {
+        "word": "shopping",
+        "meaning": "買い物",
+        "example": "go shopping"
+    },
+    {
+        "word": "short",
+        "meaning": "短い",
+        "example": "a short time"
+    },
+    {
+        "word": "should",
+        "meaning": "〜すべき",
+        "example": "You should study more."
+    },
+    {
+        "word": "shoulder",
+        "meaning": "肩",
+        "example": "touch your shoulder"
+    },
+    {
+        "word": "shout",
+        "meaning": "叫ぶ",
+        "example": "shout for help"
+    },
+    {
+        "word": "show",
+        "meaning": "見せる；ショー",
+        "example": "show me the photo / a talent show"
+    },
+    {
+        "word": "shower",
+        "meaning": "シャワー",
+        "example": "take a shower"
+    },
+    {
+        "word": "shut",
+        "meaning": "閉める、閉まる",
+        "example": "shut the window"
+    },
+    {
+        "word": "shy",
+        "meaning": "内気な、はずかしがりな",
+        "example": "a shy boy"
+    },
+    {
+        "word": "sick",
+        "meaning": "病気の",
+        "example": "I feel sick today."
+    },
+    {
+        "word": "side",
+        "meaning": "横、側面",
+        "example": "on the other side"
+    },
+    {
+        "word": "sight",
+        "meaning": "視力、光景",
+        "example": "a beautiful sight"
+    },
+    {
+        "word": "sign",
+        "meaning": "合図、標識；署名する",
+        "example": "a traffic sign / sign your name"
+    },
+    {
+        "word": "signal",
+        "meaning": "信号；合図する",
+        "example": "a traffic signal / signal the start"
+    },
+    {
+        "word": "silent",
+        "meaning": "静かな、無言の",
+        "example": "a silent room"
+    },
+    {
+        "word": "silver",
+        "meaning": "銀、銀の",
+        "example": "a silver ring"
+    },
+    {
+        "word": "simple",
+        "meaning": "簡単な、単純な",
+        "example": "a simple question"
+    },
+    {
+        "word": "since",
+        "meaning": "〜以来；〜なので",
+        "example": "since last week / since it was raining"
+    },
+    {
+        "word": "sing",
+        "meaning": "歌う",
+        "example": "sing a song"
+    },
+    {
+        "word": "singer",
+        "meaning": "歌手",
+        "example": "a popular singer"
+    },
+    {
+        "word": "single",
+        "meaning": "たった一つの；独身の",
+        "example": "a single mistake"
+    },
+    {
+        "word": "sister",
+        "meaning": "姉妹",
+        "example": "my little sister"
+    },
+    {
+        "word": "sit",
+        "meaning": "座る",
+        "example": "Sit down, please."
+    },
+    {
+        "word": "site",
+        "meaning": "場所、現場；ウェブサイト",
+        "example": "a building site / visit the site"
+    },
+    {
+        "word": "situation",
+        "meaning": "状況、状態",
+        "example": "an emergency situation"
+    },
+    {
+        "word": "six",
+        "meaning": "6",
+        "example": "six apples"
+    },
+    {
+        "word": "sixteen",
+        "meaning": "16",
+        "example": "sixteen years old"
+    },
+    {
+        "word": "sixty",
+        "meaning": "60",
+        "example": "sixty people"
+    },
+    {
+        "word": "size",
+        "meaning": "大きさ、サイズ",
+        "example": "What size do you wear?"
+    },
+    {
+        "word": "ski",
+        "meaning": "スキーをする",
+        "example": "go skiing"
+    },
+    {
+        "word": "skill",
+        "meaning": "技術、能力",
+        "example": "learn a new skill"
+    },
+    {
+        "word": "skin",
+        "meaning": "肌",
+        "example": "soft skin"
+    },
+    {
+        "word": "sky",
+        "meaning": "空",
+        "example": "look at the sky"
+    },
+    {
+        "word": "sleep",
+        "meaning": "眠る；睡眠",
+        "example": "sleep well"
+    },
+    {
+        "word": "sleepy",
+        "meaning": "眠い",
+        "example": "I’m sleepy"
+    },
+    {
+        "word": "slice",
+        "meaning": "薄切り",
+        "example": "a slice of bread"
+    },
+    {
+        "word": "slide",
+        "meaning": "すべる；滑り台",
+        "example": "slide on the ice"
+    },
+    {
+        "word": "slow",
+        "meaning": "遅い",
+        "example": "a slow train"
+    },
+    {
+        "word": "slowly",
+        "meaning": "ゆっくりと",
+        "example": "Speak slowly."
+    },
+    {
+        "word": "small",
+        "meaning": "小さい",
+        "example": "a small problem"
+    },
+    {
+        "word": "smart",
+        "meaning": "賢い；スマートな",
+        "example": "a smart idea"
+    },
+    {
+        "word": "smell",
+        "meaning": "におい；においがする",
+        "example": "a good smell"
+    },
+    {
+        "word": "smile",
+        "meaning": "ほほえむ；笑顔",
+        "example": "a big smile"
+    },
+    {
+        "word": "smoke",
+        "meaning": "煙；たばこを吸う",
+        "example": "Don't smoke here."
+    },
+    {
+        "word": "snack",
+        "meaning": "軽食、おやつ",
+        "example": "eat a snack"
+    },
+    {
+        "word": "snake",
+        "meaning": "ヘビ",
+        "example": "a long snake"
+    },
+    {
+        "word": "snow",
+        "meaning": "雪",
+        "example": "play in the snow"
+    },
+    {
+        "word": "snowman",
+        "meaning": "雪だるま",
+        "example": "make a snowman"
+    },
+    {
+        "word": "so",
+        "meaning": "だから；とても",
+        "example": "It's so hot!"
+    },
+    {
+        "word": "soap",
+        "meaning": "石けん",
+        "example": "wash your hands with soap"
+    },
+    {
+        "word": "soccer",
+        "meaning": "サッカー",
+        "example": "play soccer"
+    },
+    {
+        "word": "social",
+        "meaning": "社会の、社交的な",
+        "example": "social media"
+    },
+    {
+        "word": "society",
+        "meaning": "社会",
+        "example": "live in a peaceful society"
+    },
+    {
+        "word": "sock",
+        "meaning": "くつ下",
+        "example": "put on socks"
+    },
+    {
+        "word": "soft",
+        "meaning": "やわらかい",
+        "example": "a soft pillow"
+    },
+    {
+        "word": "softball",
+        "meaning": "ソフトボール",
+        "example": "join the softball club"
+    },
+    {
+        "word": "soil",
+        "meaning": "土、土壌",
+        "example": "rich soil"
+    },
+    {
+        "word": "solar",
+        "meaning": "太陽の",
+        "example": "solar energy"
+    },
+    {
+        "word": "soldier",
+        "meaning": "兵士",
+        "example": "a brave soldier"
+    },
+    {
+        "word": "solution",
+        "meaning": "解決策",
+        "example": "find a solution"
+    },
+    {
+        "word": "solve",
+        "meaning": "解決する",
+        "example": "solve the problem"
+    },
+    {
+        "word": "some",
+        "meaning": "いくつかの",
+        "example": "some apples"
+    },
+    {
+        "word": "somebody",
+        "meaning": "誰か",
+        "example": "Somebody is at the door."
+    },
+    {
+        "word": "someone",
+        "meaning": "誰か",
+        "example": "I saw someone there."
+    },
+    {
+        "word": "something",
+        "meaning": "何か、あるもの",
+        "example": "something to drink"
+    },
+    {
+        "word": "sometimes",
+        "meaning": "時々",
+        "example": "sometimes play tennis"
+    },
+    {
+        "word": "son",
+        "meaning": "息子",
+        "example": "my son"
+    },
+    {
+        "word": "song",
+        "meaning": "歌",
+        "example": "listen to a song"
+    },
+    {
+        "word": "soon",
+        "meaning": "まもなく、すぐに",
+        "example": "come back soon"
+    },
+    {
+        "word": "sorry",
+        "meaning": "すまなく思って、気の毒で",
+        "example": "I'm sorry."
+    },
+    {
+        "word": "sound",
+        "meaning": "音；〜に聞こえる",
+        "example": "a beautiful sound / Sounds fun."
+    },
+    {
+        "word": "soup",
+        "meaning": "スープ",
+        "example": "vegetable soup"
+    },
+    {
+        "word": "sour",
+        "meaning": "酸っぱい",
+        "example": "taste sour"
+    },
+    {
+        "word": "south",
+        "meaning": "南、南の",
+        "example": "in the south of the country"
+    },
+    {
+        "word": "southern",
+        "meaning": "南の、南部の",
+        "example": "on the southern side"
+    },
+    {
+        "word": "souvenir",
+        "meaning": "みやげ",
+        "example": "buy some souvenirs"
+    },
+    {
+        "word": "space",
+        "meaning": "宇宙；空間",
+        "example": "live in space"
+    },
+    {
+        "word": "spaghetti",
+        "meaning": "スパゲッティ",
+        "example": "a plate of spaghetti"
+    },
+    {
+        "word": "Spain",
+        "meaning": "スペイン",
+        "example": "go to Spain"
+    },
+    {
+        "word": "Spanish",
+        "meaning": "スペイン語；スペインの",
+        "example": "I study Spanish."
+    },
+    {
+        "word": "speak",
+        "meaning": "話す",
+        "example": "speak Japanese"
+    },
+    {
+        "word": "special",
+        "meaning": "特別な",
+        "example": "today’s special"
+    },
+    {
+        "word": "species",
+        "meaning": "種",
+        "example": "many species"
+    },
+    {
+        "word": "specific",
+        "meaning": "特定の、具体的な",
+        "example": "a specific situation"
+    },
+    {
+        "word": "speech",
+        "meaning": "演説、スピーチ",
+        "example": "make a speech"
+    },
+    {
+        "word": "speed",
+        "meaning": "スピード、速度",
+        "example": "fly at a high speed"
+    },
+    {
+        "word": "spell",
+        "meaning": "つづる",
+        "example": "spell the word"
+    },
+    {
+        "word": "spend",
+        "meaning": "費やす、過ごす",
+        "example": "spend a lot of money"
+    },
+    {
+        "word": "sport",
+        "meaning": "スポーツ",
+        "example": "play sports"
+    },
+    {
+        "word": "spot",
+        "meaning": "場所",
+        "example": "meet at the spot"
+    },
+    {
+        "word": "spring",
+        "meaning": "春",
+        "example": "in spring"
+    },
+    {
+        "word": "square",
+        "meaning": "正方形",
+        "example": "a square of paper"
+    },
+    {
+        "word": "stadium",
+        "meaning": "スタジアム",
+        "example": "go to the stadium"
+    },
+    {
+        "word": "staff",
+        "meaning": "職員、スタッフ",
+        "example": "ask the staff"
+    },
+    {
+        "word": "stage",
+        "meaning": "舞台；〜を上演する",
+        "example": "stage a play"
+    },
+    {
+        "word": "stair",
+        "meaning": "階段",
+        "example": "climb up the stairs"
+    },
+    {
+        "word": "stamp",
+        "meaning": "切手、印",
+        "example": "buy a stamp"
+    },
+    {
+        "word": "stand",
+        "meaning": "立つ；立っている",
+        "example": "stand by a door"
+    },
+    {
+        "word": "stapler",
+        "meaning": "ステープラー",
+        "example": "borrow a stapler"
+    },
+    {
+        "word": "star",
+        "meaning": "星；スター",
+        "example": "a popular star"
+    },
+    {
+        "word": "start",
+        "meaning": "始める；始まり",
+        "example": "start to work"
+    },
+    {
+        "word": "station",
+        "meaning": "駅",
+        "example": "go to the station"
+    },
+    {
+        "word": "stationery",
+        "meaning": "文房具",
+        "example": "books and stationery"
+    },
+    {
+        "word": "statue",
+        "meaning": "彫像、像",
+        "example": "statue of a famous character"
+    },
+    {
+        "word": "stay",
+        "meaning": "滞在；滞在する",
+        "example": "stay at home"
+    },
+    {
+        "word": "step",
+        "meaning": "段；踏む",
+        "example": "go up the steps"
+    },
+    {
+        "word": "stick",
+        "meaning": "くっつく；棒",
+        "example": "stick to each other"
+    },
+    {
+        "word": "still",
+        "meaning": "まだ；それでも",
+        "example": "still, no one said a word"
+    },
+    {
+        "word": "stomach",
+        "meaning": "胃",
+        "example": "have a stomachache"
+    },
+    {
+        "word": "stone",
+        "meaning": "石",
+        "example": "throw a stone"
+    },
+    {
+        "word": "stop",
+        "meaning": "止める；停まる；停留所",
+        "example": "stop the car"
+    },
+    {
+        "word": "store",
+        "meaning": "店；〜を蓄える",
+        "example": "a toy store"
+    },
+    {
+        "word": "story",
+        "meaning": "話；物語",
+        "example": "an interesting story"
+    },
+    {
+        "word": "straight",
+        "meaning": "まっすぐな；まっすぐに",
+        "example": "go straight"
+    },
+    {
+        "word": "strange",
+        "meaning": "奇妙な",
+        "example": "a strange story"
+    },
+    {
+        "word": "strawberry",
+        "meaning": "イチゴ",
+        "example": "pick strawberries"
+    },
+    {
+        "word": "street",
+        "meaning": "通り、街路",
+        "example": "walk along the street"
+    },
+    {
+        "word": "student",
+        "meaning": "生徒",
+        "example": "a high school student"
+    },
+    {
+        "word": "study",
+        "meaning": "勉強する；勉強",
+        "example": "study English"
+    },
+    {
+        "word": "subject",
+        "meaning": "教科；主題",
+        "example": "my favorite subject"
+    },
+    {
+        "word": "success",
+        "meaning": "成功",
+        "example": "That was a success."
+    },
+    {
+        "word": "successful",
+        "meaning": "成功した",
+        "example": "Our plan was successful."
+    },
+    {
+        "word": "such",
+        "meaning": "そのような",
+        "example": "such a book"
+    },
+    {
+        "word": "suddenly",
+        "meaning": "突然",
+        "example": "Suddenly, the door opened."
+    },
+    {
+        "word": "suggest",
+        "meaning": "提案する",
+        "example": "I suggest that we start now."
+    },
+    {
+        "word": "suitcase",
+        "meaning": "スーツケース",
+        "example": "lost my suitcase"
+    },
+    {
+        "word": "summer",
+        "meaning": "夏",
+        "example": "in summer"
+    },
+    {
+        "word": "sun",
+        "meaning": "太陽",
+        "example": "under the sun"
+    },
+    {
+        "word": "Sunday",
+        "meaning": "日曜日",
+        "example": "on Sunday"
+    },
+    {
+        "word": "sunny",
+        "meaning": "晴れた",
+        "example": "on a sunny day"
+    },
+    {
+        "word": "sunrise",
+        "meaning": "日の出",
+        "example": "see the sunrise"
+    },
+    {
+        "word": "sunshine",
+        "meaning": "日光",
+        "example": "Come out into the sunshine."
+    },
+    {
+        "word": "super",
+        "meaning": "すごく素晴らしい",
+        "example": "a super idea"
+    },
+    {
+        "word": "supermarket",
+        "meaning": "スーパー",
+        "example": "go to the supermarket"
+    },
+    {
+        "word": "support",
+        "meaning": "支援する；支援",
+        "example": "support his family"
+    },
+    {
+        "word": "suppose",
+        "meaning": "〜だと思う",
+        "example": "I suppose you’re right."
+    },
+    {
+        "word": "sure",
+        "meaning": "確信して；もちろん",
+        "example": "I'm sure he will come."
+    },
+    {
+        "word": "surf",
+        "meaning": "サーフィンをする",
+        "example": "surf in the ocean"
+    },
+    {
+        "word": "surfing",
+        "meaning": "サーフィン",
+        "example": "Let's go surfing."
+    },
+    {
+        "word": "surprise",
+        "meaning": "驚き；びっくりさせる",
+        "example": "a big surprise"
+    },
+    {
+        "word": "surprised",
+        "meaning": "驚いた",
+        "example": "I'm surprised at the news."
+    },
+    {
+        "word": "surprising",
+        "meaning": "驚くべき",
+        "example": "a surprising result"
+    },
+    {
+        "word": "surprisingly",
+        "meaning": "驚いたことに",
+        "example": "Surprisingly, she passed the test."
+    },
+    {
+        "word": "survey",
+        "meaning": "調査",
+        "example": "do a survey"
+    },
+    {
+        "word": "survive",
+        "meaning": "生き残る",
+        "example": "survive the accident"
+    },
+    {
+        "word": "sustainable",
+        "meaning": "持続可能な",
+        "example": "a sustainable lifestyle"
+    },
+    {
+        "word": "sweater",
+        "meaning": "セーター",
+        "example": "wear a sweater"
+    },
+    {
+        "word": "sweet",
+        "meaning": "甘い；やさしい",
+        "example": "a sweet voice"
+    },
+    {
+        "word": "swim",
+        "meaning": "泳ぐ",
+        "example": "swim in the sea"
+    },
+    {
+        "word": "swimming",
+        "meaning": "水泳",
+        "example": "I enjoy swimming."
+    },
+    {
+        "word": "system",
+        "meaning": "システム、仕組み",
+        "example": "a useful system"
+    },
+    {
+        "word": "table",
+        "meaning": "テーブル、一覧表",
+        "example": "sit around a table"
+    },
+    {
+        "word": "tablet",
+        "meaning": "タブレット",
+        "example": "My tablet is new."
+    },
+    {
+        "word": "take",
+        "meaning": "取る、連れていく",
+        "example": "take a picture / take a taxi"
+    },
+    {
+        "word": "talk",
+        "meaning": "話す；話",
+        "example": "talk about music"
+    },
+    {
+        "word": "tall",
+        "meaning": "背が高い",
+        "example": "a tall building"
+    },
+    {
+        "word": "taste",
+        "meaning": "味；味がする",
+        "example": "The coffee tastes good."
+    },
+    {
+        "word": "taxi",
+        "meaning": "タクシー",
+        "example": "take a taxi"
+    },
+    {
+        "word": "tea",
+        "meaning": "お茶、紅茶",
+        "example": "a cup of tea"
+    },
+    {
+        "word": "teach",
+        "meaning": "教える",
+        "example": "teach them how to use the computer"
+    },
+    {
+        "word": "teacher",
+        "meaning": "教師",
+        "example": "She is our teacher."
+    },
+    {
+        "word": "team",
+        "meaning": "チーム",
+        "example": "join the baseball team"
+    },
+    {
+        "word": "teammate",
+        "meaning": "チームメイト",
+        "example": "my teammates"
+    },
+    {
+        "word": "tear",
+        "meaning": "涙",
+        "example": "with tears in his eyes"
+    },
+    {
+        "word": "technology",
+        "meaning": "技術",
+        "example": "new technology"
+    },
+    {
+        "word": "telephone",
+        "meaning": "電話",
+        "example": "talk on the telephone"
+    },
+    {
+        "word": "tell",
+        "meaning": "言う、伝える",
+        "example": "tell him to do his homework"
+    },
+    {
+        "word": "temperature",
+        "meaning": "温度、気温",
+        "example": "the temperature in Osaka"
+    },
+    {
+        "word": "temple",
+        "meaning": "寺院",
+        "example": "visit an old temple"
+    },
+    {
+        "word": "ten",
+        "meaning": "10",
+        "example": "ten students"
+    },
+    {
+        "word": "tennis",
+        "meaning": "テニス",
+        "example": "play tennis"
+    },
+    {
+        "word": "tenth",
+        "meaning": "10番目、10日",
+        "example": "live on the tenth floor"
+    },
+    {
+        "word": "terrible",
+        "meaning": "ひどい、恐ろしい",
+        "example": "The news is so terrible."
+    },
+    {
+        "word": "test",
+        "meaning": "テスト；試す",
+        "example": "give the students a test"
+    },
+    {
+        "word": "textbook",
+        "meaning": "教科書",
+        "example": "read the textbook"
+    },
+    {
+        "word": "than",
+        "meaning": "〜より",
+        "example": "taller than my brother"
+    },
+    {
+        "word": "thank",
+        "meaning": "感謝する",
+        "example": "Thank you for your help."
+    },
+    {
+        "word": "theater",
+        "meaning": "劇場",
+        "example": "go to the theater"
+    },
+    {
+        "word": "their",
+        "meaning": "彼らの",
+        "example": "clean their rooms"
+    },
+    {
+        "word": "theirs",
+        "meaning": "彼らのもの",
+        "example": "That bag is theirs."
+    },
+    {
+        "word": "them",
+        "meaning": "彼らを（に）",
+        "example": "I saw them."
+    },
+    {
+        "word": "themselves",
+        "meaning": "彼ら自身",
+        "example": "They did it by themselves."
+    },
+    {
+        "word": "then",
+        "meaning": "そのとき、それから",
+        "example": "If you are ready, then let’s begin."
+    },
+    {
+        "word": "there",
+        "meaning": "そこに［で・へ］",
+        "example": "There is a book on the desk."
+    },
+    {
+        "word": "these",
+        "meaning": "これらの",
+        "example": "These pictures are beautiful."
+    },
+    {
+        "word": "they",
+        "meaning": "彼らは、彼女らは、それらは",
+        "example": "They are my friends."
+    },
+    {
+        "word": "thick",
+        "meaning": "厚い、太い",
+        "example": "a thick book"
+    },
+    {
+        "word": "thin",
+        "meaning": "薄い",
+        "example": "a thin piece of paper"
+    },
+    {
+        "word": "thing",
+        "meaning": "物、事",
+        "example": "an important thing"
+    },
+    {
+        "word": "think",
+        "meaning": "考える、思う",
+        "example": "I think she is kind."
+    },
+    {
+        "word": "third",
+        "meaning": "3番目の",
+        "example": "I live on the third floor."
+    },
+    {
+        "word": "thirsty",
+        "meaning": "のどが渇いた",
+        "example": "I feel thirsty."
+    },
+    {
+        "word": "thirteen",
+        "meaning": "13",
+        "example": "He is thirteen years old."
+    },
+    {
+        "word": "thirteenth",
+        "meaning": "13番目、13日",
+        "example": "Her birthday is March 13th."
+    },
+    {
+        "word": "thirtieth",
+        "meaning": "30番目、30日",
+        "example": "My birthday is March 30th."
+    },
+    {
+        "word": "thirty",
+        "meaning": "30",
+        "example": "She is thirty years old."
+    },
+    {
+        "word": "this",
+        "meaning": "この；これは",
+        "example": "This is my bag."
+    },
+    {
+        "word": "those",
+        "meaning": "あれら、それら",
+        "example": "Those are my books."
+    },
+    {
+        "word": "though",
+        "meaning": "〜だけれども",
+        "example": "Though it was raining, we went out."
+    },
+    {
+        "word": "thousand",
+        "meaning": "1000",
+        "example": "three thousand people"
+    },
+    {
+        "word": "three",
+        "meaning": "3",
+        "example": "three students"
+    },
+    {
+        "word": "throat",
+        "meaning": "のど",
+        "example": "I have a sore throat."
+    },
+    {
+        "word": "through",
+        "meaning": "〜を通って、〜を通じて",
+        "example": "I walked through the park."
+    },
+    {
+        "word": "throw",
+        "meaning": "投げる",
+        "example": "throw a ball"
+    },
+    {
+        "word": "Thursday",
+        "meaning": "木曜日",
+        "example": "on Thursday"
+    },
+    {
+        "word": "ticket",
+        "meaning": "切符、チケット",
+        "example": "buy a train ticket"
+    },
+    {
+        "word": "tie",
+        "meaning": "ネクタイ；結ぶ",
+        "example": "wear a tie"
+    },
+    {
+        "word": "tiger",
+        "meaning": "トラ",
+        "example": "see a tiger"
+    },
+    {
+        "word": "till",
+        "meaning": "〜まで",
+        "example": "wait till noon"
+    },
+    {
+        "word": "tired",
+        "meaning": "疲れた",
+        "example": "I feel tired."
+    },
+    {
+        "word": "title",
+        "meaning": "題名、タイトル",
+        "example": "the title of the book"
+    },
+    {
+        "word": "to",
+        "meaning": "〜へ、〜に",
+        "example": "go to school"
+    },
+    {
+        "word": "today",
+        "meaning": "今日、現在",
+        "example": "How are you today?"
+    },
+    {
+        "word": "toe",
+        "meaning": "足の指、つま先",
+        "example": "stand on my toes"
+    },
+    {
+        "word": "together",
+        "meaning": "いっしょに、共に",
+        "example": "Let’s go swimming together."
+    },
+    {
+        "word": "tomato",
+        "meaning": "トマト",
+        "example": "a bright red tomato"
+    },
+    {
+        "word": "tomorrow",
+        "meaning": "明日",
+        "example": "It will rain tomorrow."
+    },
+    {
+        "word": "tonight",
+        "meaning": "今晩、今夜",
+        "example": "Tonight’s TV program is funny."
+    },
+    {
+        "word": "too",
+        "meaning": "〜もまた；あまりにも〜",
+        "example": "I’m too tired to walk."
+    },
+    {
+        "word": "tool",
+        "meaning": "道具、手段",
+        "example": "English is a useful tool."
+    },
+    {
+        "word": "tooth",
+        "meaning": "歯",
+        "example": "lose a tooth"
+    },
+    {
+        "word": "toothache",
+        "meaning": "歯の痛み",
+        "example": "have a toothache"
+    },
+    {
+        "word": "top",
+        "meaning": "一番上、頂上",
+        "example": "the top of the mountain"
+    },
+    {
+        "word": "topic",
+        "meaning": "話題、トピック",
+        "example": "change the topic"
+    },
+    {
+        "word": "touch",
+        "meaning": "触れる、感動させる",
+        "example": "Don’t touch the painting."
+    },
+    {
+        "word": "tour",
+        "meaning": "旅行、見学",
+        "example": "a bus tour"
+    },
+    {
+        "word": "tourist",
+        "meaning": "観光客",
+        "example": "a Japanese tourist"
+    },
+    {
+        "word": "tournament",
+        "meaning": "トーナメント",
+        "example": "a tennis tournament"
+    },
+    {
+        "word": "toward",
+        "meaning": "〜の方向へ",
+        "example": "walk toward the door"
+    },
+    {
+        "word": "towel",
+        "meaning": "タオル",
+        "example": "wipe my face with a towel"
+    },
+    {
+        "word": "tower",
+        "meaning": "塔",
+        "example": "the highest tower in Japan"
+    },
+    {
+        "word": "town",
+        "meaning": "町",
+        "example": "She was born in a small town."
+    },
+    {
+        "word": "toy",
+        "meaning": "おもちゃ",
+        "example": "play with toys"
+    },
+    {
+        "word": "track and field",
+        "meaning": "陸上競技",
+        "example": "join the track and field club"
+    },
+    {
+        "word": "tradition",
+        "meaning": "伝統",
+        "example": "a long tradition"
+    },
+    {
+        "word": "traditional",
+        "meaning": "伝統的な",
+        "example": "traditional Japanese music"
+    },
+    {
+        "word": "traffic",
+        "meaning": "交通",
+        "example": "heavy traffic on the street"
+    },
+    {
+        "word": "train",
+        "meaning": "電車；訓練する",
+        "example": "train horses for the contest"
+    },
+    {
+        "word": "translate",
+        "meaning": "翻訳する",
+        "example": "translate the book into English"
+    },
+    {
+        "word": "trash",
+        "meaning": "ごみ",
+        "example": "pick up trash"
+    },
+    {
+        "word": "travel",
+        "meaning": "旅行する",
+        "example": "travel abroad"
+    },
+    {
+        "word": "treasure",
+        "meaning": "宝物",
+        "example": "a national treasure"
+    },
+    {
+        "word": "tree",
+        "meaning": "木",
+        "example": "cut down the trees"
+    },
+    {
+        "word": "trip",
+        "meaning": "旅行",
+        "example": "my trip to New York"
+    },
+    {
+        "word": "trouble",
+        "meaning": "困難、問題",
+        "example": "have a lot of trouble"
+    },
+    {
+        "word": "true",
+        "meaning": "本当の",
+        "example": "a true story"
+    },
+    {
+        "word": "trumpet",
+        "meaning": "トランペット",
+        "example": "play the trumpet"
+    },
+    {
+        "word": "trust",
+        "meaning": "信頼する",
+        "example": "I trust you."
+    },
+    {
+        "word": "truth",
+        "meaning": "真実",
+        "example": "tell the truth"
+    },
+    {
+        "word": "try",
+        "meaning": "試す、やってみる",
+        "example": "try to open the door"
+    },
+    {
+        "word": "T-shirt",
+        "meaning": "Tシャツ",
+        "example": "buy a blue T-shirt"
+    },
+    {
+        "word": "Tuesday",
+        "meaning": "火曜日",
+        "example": "on Tuesday"
+    },
+    {
+        "word": "turn",
+        "meaning": "曲がる；回す；順番",
+        "example": "Turn left at the corner."
+    },
+    {
+        "word": "turtle",
+        "meaning": "カメ",
+        "example": "a turtle in the sea"
+    },
+    {
+        "word": "TV",
+        "meaning": "テレビ",
+        "example": "watch TV"
+    },
+    {
+        "word": "twelfth",
+        "meaning": "12番目、12日",
+        "example": "December is the twelfth month."
+    },
+    {
+        "word": "twelve",
+        "meaning": "12",
+        "example": "for twelve hours"
+    },
+    {
+        "word": "twentieth",
+        "meaning": "20番目、20日",
+        "example": "the twentieth century"
+    },
+    {
+        "word": "twenty",
+        "meaning": "20",
+        "example": "twenty minutes later"
+    },
+    {
+        "word": "twice",
+        "meaning": "2回、2倍",
+        "example": "I have visited Osaka twice."
+    },
+    {
+        "word": "type",
+        "meaning": "型、種類",
+        "example": "this type of bag"
+    },
+    {
+        "word": "typhoon",
+        "meaning": "台風",
+        "example": "a big typhoon is coming"
+    },
+    {
+        "word": "umbrella",
+        "meaning": "かさ",
+        "example": "take an umbrella"
+    },
+    {
+        "word": "uncle",
+        "meaning": "おじ",
+        "example": "my uncle living in Hokkaido"
+    },
+    {
+        "word": "under",
+        "meaning": "〜の下に",
+        "example": "under the bed"
+    },
+    {
+        "word": "underline",
+        "meaning": "〜に下線を引く",
+        "example": "underline the word"
+    },
+    {
+        "word": "understand",
+        "meaning": "理解する",
+        "example": "understand Japanese"
+    },
+    {
+        "word": "unfair",
+        "meaning": "不公平な",
+        "example": "an unfair judge"
+    },
+    {
+        "word": "unfortunately",
+        "meaning": "残念ながら",
+        "example": "Unfortunately, the weather was not good."
+    },
+    {
+        "word": "uniform",
+        "meaning": "制服",
+        "example": "wear a school uniform"
+    },
+    {
+        "word": "unique",
+        "meaning": "独特の",
+        "example": "a unique animal"
+    },
+    {
+        "word": "universal",
+        "meaning": "万人に通じる",
+        "example": "Food is a universal need."
+    },
+    {
+        "word": "university",
+        "meaning": "大学",
+        "example": "go to university"
+    },
+    {
+        "word": "until",
+        "meaning": "〜まで",
+        "example": "stay until I come back"
+    },
+    {
+        "word": "up",
+        "meaning": "上へ、上がって",
+        "example": "look up"
+    },
+    {
+        "word": "us",
+        "meaning": "私たちを（に）",
+        "example": "tell us a story"
+    },
+    {
+        "word": "use",
+        "meaning": "使う；使用",
+        "example": "use his dictionary"
+    },
+    {
+        "word": "used",
+        "meaning": "使い古した；中古の",
+        "example": "a used car"
+    },
+    {
+        "word": "used to",
+        "meaning": "以前は〜だった",
+        "example": "This building used to be a school."
+    },
+    {
+        "word": "useful",
+        "meaning": "役に立つ",
+        "example": "useful advice"
+    },
+    {
+        "word": "user",
+        "meaning": "使用者",
+        "example": "Internet users"
+    },
+    {
+        "word": "usually",
+        "meaning": "たいてい、ふつう",
+        "example": "usually get up at seven"
+    },
+    {
+        "word": "vacation",
+        "meaning": "休暇",
+        "example": "during the vacation"
+    },
+    {
+        "word": "valuable",
+        "meaning": "貴重な",
+        "example": "a valuable experience"
+    },
+    {
+        "word": "variety",
+        "meaning": "多様性",
+        "example": "a variety of drinks"
+    },
+    {
+        "word": "various",
+        "meaning": "さまざまな",
+        "example": "in various ways"
+    },
+    {
+        "word": "vegetable",
+        "meaning": "野菜",
+        "example": "grow vegetables"
+    },
+    {
+        "word": "very",
+        "meaning": "とても",
+        "example": "very happy"
+    },
+    {
+        "word": "vet",
+        "meaning": "獣医",
+        "example": "My dream is to be a vet."
+    },
+    {
+        "word": "victim",
+        "meaning": "犠牲者",
+        "example": "victims of war"
+    },
+    {
+        "word": "video",
+        "meaning": "動画、ビデオ",
+        "example": "a video game"
+    },
+    {
+        "word": "view",
+        "meaning": "景色；意見",
+        "example": "a nice view from the window"
+    },
+    {
+        "word": "village",
+        "meaning": "村",
+        "example": "a small village"
+    },
+    {
+        "word": "violin",
+        "meaning": "バイオリン",
+        "example": "play the violin"
+    },
+    {
+        "word": "visit",
+        "meaning": "訪れる；訪問",
+        "example": "visit the village"
+    },
+    {
+        "word": "visitor",
+        "meaning": "訪問者",
+        "example": "visitors from around the world"
+    },
+    {
+        "word": "voice",
+        "meaning": "声",
+        "example": "a woman’s voice"
+    },
+    {
+        "word": "volleyball",
+        "meaning": "バレーボール",
+        "example": "play volleyball"
+    },
+    {
+        "word": "volunteer",
+        "meaning": "ボランティア",
+        "example": "work as a volunteer"
+    },
+    {
+        "word": "wait",
+        "meaning": "待つ",
+        "example": "wait for the bus"
+    },
+    {
+        "word": "wake",
+        "meaning": "目を覚ます",
+        "example": "wake up at 6 a.m."
+    },
+    {
+        "word": "walk",
+        "meaning": "歩く；散歩",
+        "example": "take a walk"
+    },
+    {
+        "word": "wall",
+        "meaning": "壁",
+        "example": "a picture on the wall"
+    },
+    {
+        "word": "war",
+        "meaning": "戦争",
+        "example": "stop the war"
+    },
+    {
+        "word": "warm",
+        "meaning": "あたたかい；あたためる",
+        "example": "warm weather"
+    },
+    {
+        "word": "was",
+        "meaning": "〜だった（be動詞の過去形）",
+        "example": "It was sunny yesterday."
+    },
+    {
+        "word": "wash",
+        "meaning": "洗う",
+        "example": "wash your hands"
+    },
+    {
+        "word": "waste",
+        "meaning": "無駄；ごみ；無駄にする",
+        "example": "Don’t waste electricity."
+    },
+    {
+        "word": "watch",
+        "meaning": "腕時計；見る",
+        "example": "watch a movie"
+    },
+    {
+        "word": "water",
+        "meaning": "水；水をやる",
+        "example": "a glass of water"
+    },
+    {
+        "word": "wave",
+        "meaning": "波；手を振る",
+        "example": "wave your hand"
+    },
+    {
+        "word": "way",
+        "meaning": "道；方法",
+        "example": "the way to the station"
+    },
+    {
+        "word": "we",
+        "meaning": "私たちは",
+        "example": "We are students."
+    },
+    {
+        "word": "someone",
+        "meaning": "誰か",
+        "example": "ask someone"
+    },
+    {
+        "word": "something",
+        "meaning": "何か",
+        "example": "something to drink"
+    },
+    {
+        "word": "sometimes",
+        "meaning": "ときどき",
+        "example": "sometimes play tennis"
+    },
+    {
+        "word": "son",
+        "meaning": "息子",
+        "example": "my son"
+    },
+    {
+        "word": "song",
+        "meaning": "歌",
+        "example": "listen to a song"
+    },
+    {
+        "word": "soon",
+        "meaning": "まもなく",
+        "example": "come back soon"
+    },
+    {
+        "word": "sorry",
+        "meaning": "すまなく思って、気の毒で",
+        "example": "I’m sorry."
+    },
+    {
+        "word": "sound",
+        "meaning": "音、〜に聞こえる",
+        "example": "a beautiful sound / Sounds great."
+    },
+    {
+        "word": "soup",
+        "meaning": "スープ",
+        "example": "vegetable soup"
+    },
+    {
+        "word": "sour",
+        "meaning": "すっぱい",
+        "example": "taste sour"
+    },
+    {
+        "word": "south",
+        "meaning": "南、南の",
+        "example": "in the south of the country"
+    },
+    {
+        "word": "souvenir",
+        "meaning": "みやげ",
+        "example": "buy some souvenirs"
+    },
+    {
+        "word": "space",
+        "meaning": "宇宙、空間",
+        "example": "live in space"
+    },
+    {
+        "word": "spaghetti",
+        "meaning": "スパゲッティ",
+        "example": "a plate of spaghetti"
+    },
+    {
+        "word": "speak",
+        "meaning": "話す",
+        "example": "speak Japanese"
+    },
+    {
+        "word": "special",
+        "meaning": "特別な",
+        "example": "today’s special"
+    },
+    {
+        "word": "species",
+        "meaning": "種（しゅ）",
+        "example": "many species"
+    },
+    {
+        "word": "speech",
+        "meaning": "演説、スピーチ",
+        "example": "make a speech"
+    },
+    {
+        "word": "spell",
+        "meaning": "つづる",
+        "example": "spell the word"
+    },
+    {
+        "word": "spend",
+        "meaning": "費やす、過ごす",
+        "example": "spend a lot of money"
+    },
+    {
+        "word": "sport",
+        "meaning": "スポーツ",
+        "example": "play sports"
+    },
+    {
+        "word": "spring",
+        "meaning": "春",
+        "example": "in spring"
+    },
+    {
+        "word": "square",
+        "meaning": "正方形",
+        "example": "a square of paper"
+    },
+    {
+        "word": "stamp",
+        "meaning": "切手",
+        "example": "buy a stamp"
+    },
+    {
+        "word": "stand",
+        "meaning": "立つ",
+        "example": "stand by a door"
+    },
+    {
+        "word": "star",
+        "meaning": "星；スター",
+        "example": "a popular star"
+    },
+    {
+        "word": "start",
+        "meaning": "始める；始まり",
+        "example": "start to work"
+    },
+    {
+        "word": "station",
+        "meaning": "駅",
+        "example": "go to the station"
+    },
+    {
+        "word": "stay",
+        "meaning": "滞在する",
+        "example": "stay at home"
+    },
+    {
+        "word": "step",
+        "meaning": "段；踏む",
+        "example": "go up the steps"
+    },
+    {
+        "word": "stone",
+        "meaning": "石",
+        "example": "throw a stone"
+    },
+    {
+        "word": "stop",
+        "meaning": "止める；停まる；停留所",
+        "example": "stop the car"
+    },
+    {
+        "word": "store",
+        "meaning": "店；〜を蓄える",
+        "example": "a toy store"
+    },
+    {
+        "word": "story",
+        "meaning": "話；物語",
+        "example": "an interesting story"
+    },
+    {
+        "word": "straight",
+        "meaning": "まっすぐな；まっすぐに",
+        "example": "go straight"
+    },
+    {
+        "word": "student",
+        "meaning": "生徒",
+        "example": "a junior high school student"
+    },
+    {
+        "word": "study",
+        "meaning": "勉強する；勉強",
+        "example": "study English"
+    },
+    {
+        "word": "subject",
+        "meaning": "教科；主題",
+        "example": "my favorite subject"
+    },
+    {
+        "word": "success",
+        "meaning": "成功",
+        "example": "That was a success."
+    },
+    {
+        "word": "summer",
+        "meaning": "夏",
+        "example": "in summer"
+    },
+    {
+        "word": "sun",
+        "meaning": "太陽",
+        "example": "under the sun"
+    },
+    {
+        "word": "Sunday",
+        "meaning": "日曜日",
+        "example": "on Sunday"
+    },
+    {
+        "word": "surprise",
+        "meaning": "驚き；驚かす",
+        "example": "a big surprise"
+    },
+    {
+        "word": "sweet",
+        "meaning": "甘い；やさしい",
+        "example": "a sweet voice"
+    },
+    {
+        "word": "swim",
+        "meaning": "泳ぐ",
+        "example": "swim in the sea"
+    },
+    {
+        "word": "system",
+        "meaning": "システム",
+        "example": "a useful system"
+    },
+    {
+        "word": "table",
+        "meaning": "テーブル；表",
+        "example": "sit around a table"
+    },
+    {
+        "word": "take",
+        "meaning": "取る；連れていく",
+        "example": "take a picture"
+    },
+    {
+        "word": "talk",
+        "meaning": "話す；話",
+        "example": "talk about music"
+    },
+    {
+        "word": "yes",
+        "meaning": "はい、そうです",
+        "example": "Yes, he is."
+    },
+    {
+        "word": "yesterday",
+        "meaning": "昨日",
+        "example": "I went to see a movie yesterday."
+    },
+    {
+        "word": "yet",
+        "meaning": "もう（疑問文で）／まだ（否定文で）",
+        "example": "Have you finished your homework yet?"
+    },
+    {
+        "word": "yogurt",
+        "meaning": "ヨーグルト",
+        "example": "I like yogurt."
+    },
+    {
+        "word": "you",
+        "meaning": "あなた（たち）",
+        "example": "You and I"
+    },
+    {
+        "word": "young",
+        "meaning": "若い、幼い",
+        "example": "young people"
+    },
+    {
+        "word": "your",
+        "meaning": "あなた（たち）の",
+        "example": "Wash your hands."
+    },
+    {
+        "word": "yours",
+        "meaning": "あなた（たち）のもの",
+        "example": "It's yours."
+    },
+    {
+        "word": "yourself",
+        "meaning": "あなた（たち）自身",
+        "example": "Did you make it by yourself?"
+    },
+    {
+        "word": "zero",
+        "meaning": "0、ゼロ",
+        "example": "Zero is an interesting number."
+    },
+    {
+        "word": "zoo",
+        "meaning": "動物園",
+        "example": "I went to the zoo on Sunday."
+    }
+]
