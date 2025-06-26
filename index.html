@@ -19,14 +19,6 @@
       border: 1px solid #999;
       border-radius: 4px;
     }
-    input[type="text"] {
-      font-size: 1em;
-      padding: 0.4em;
-      width: 100%;
-      max-width: 350px;
-      box-sizing: border-box;
-      margin-bottom: 0.5em;
-    }
     .choice {
       cursor: pointer;
       margin: 0.2em 0;
@@ -43,23 +35,10 @@
     .hidden {
       display: none;
     }
-    .hint {
-      color: gray;
-      margin-top: 0.2em;
-    }
     #scoreBox {
       margin-top: 2em;
       font-size: 0.9em;
       color: #333;
-    }
-    #typedAnswer {
-      font-size: 1.2em;
-      font-weight: bold;
-      margin-bottom: 0.5em;
-    }
-    #keyboardButtons button {
-      margin: 0.2em;
-      width: 2em;
     }
   </style>
 </head>
@@ -86,26 +65,13 @@
 
   <div>
     <strong>文脈補完モード：</strong>
-    <button onclick="startContextMode()">チャレンジ</button>
+    <button onclick="startContextChoiceMode()">4択式</button>
   </div>
 
   <h2 id="modeLabel"></h2>
 
   <div id="questionBox">
     <p><strong>問題：</strong> <span id="questionText" onclick="speakCurrent()">---</span></p>
-
-    <p id="hintText" class="hint hidden"></p>
-    <button id="revealHintBtn" class="hidden" onclick="revealHint()">もう１文字表示</button>
-
-    <input type="text" id="answerInput" placeholder="解答を入力" />
-    <button onclick="check()">解答する</button>
-
-    <div id="onscreenKeyboard" class="hidden">
-      <div id="typedAnswer"></div>
-      <div id="keyboardButtons"></div>
-      <button onclick="submitAnswer()">解答する</button>
-    </div>
-
     <div id="choices" class="hidden"></div>
   </div>
 
@@ -116,168 +82,119 @@
     不正解：<span id="wrongCount">0</span>　
     正答率：<span id="accuracy">0%</span>
   </div>
-  <script>
-    let wordList = [];
-    let filteredList = [];
-    let reviewList = [];
-    let currentList = [];
-    let currentMode = ""; // beginner | advanced | context
-    let currentQuestion = null;
-    let lastIndex = -1;
-    let currentHintLength = 1;
-    let correctCount = 0;
-    let wrongCount = 0;
+<script>
+  let wordList = [];
+  let currentList = [];
+  let currentQuestion = null;
+  let lastIndex = -1;
+  let correctCount = 0;
+  let wrongCount = 0;
+  let reviewList = [];
 
-    const typedAnswer = [];
+  fetch("words.json")
+    .then(res => res.json())
+    .then(data => { wordList = data; });
 
-    fetch("words.json")
-      .then(res => res.json())
-      .then(data => { wordList = data; });
+  function resetUI() {
+    document.getElementById("questionText").textContent = "---";
+    document.getElementById("choices").innerHTML = "";
+    document.getElementById("resultText").textContent = "";
+    document.getElementById("choices").classList.add("hidden");
+  }
 
-    function resetUI() {
-      document.getElementById("answerInput").value = "";
+  function getNewWord() {
+    if (!currentList || currentList.length === 0) return null;
+    let idx;
+    do {
+      idx = Math.floor(Math.random() * currentList.length);
+    } while (idx === lastIndex && currentList.length > 1);
+    lastIndex = idx;
+    return currentList[idx];
+  }
+
+  function startContextChoiceMode() {
+    currentList = wordList;
+    resetUI();
+    document.getElementById("modeLabel").textContent = "文脈補完モード（4択式）";
+    startContextChoiceQuiz();
+  }
+
+  function startContextChoiceQuiz() {
+    const word = getNewWord();
+    if (!word) return;
+    currentQuestion = word;
+
+    const sentence = generateMaskedSentence(word);
+    document.getElementById("questionText").textContent = sentence;
+
+    const choices = shuffleChoices(word.word);
+    const choiceBox = document.getElementById("choices");
+    choiceBox.innerHTML = "";
+    choices.forEach(c => {
+      const div = document.createElement("div");
+      div.className = "choice";
+      div.textContent = c;
+      div.onclick = () => checkChoice(c);
+      choiceBox.appendChild(div);
+    });
+    choiceBox.classList.remove("hidden");
+  }
+
+  function generateMaskedSentence(wordObj) {
+    const raw = wordObj.example;
+    const target = wordObj.word;
+    const lower = target.toLowerCase();
+
+    const regex = new RegExp(`\\b${lower}\\b`, "gi");
+    if (regex.test(raw)) {
+      return raw.replace(regex, "_____");
+    } else {
+      return `「${wordObj.meaning}」に最もふさわしい語を選びなさい。`;
+    }
+  }
+</script>
+<script>
+  function checkChoice(selected) {
+    const correct = currentQuestion.word;
+    const isCorrect = selected === correct;
+
+    const result = isCorrect
+      ? "✅ 正解！"
+      : `❌ 不正解… 正解は「${correct}」`;
+
+    document.getElementById("resultText").textContent = result;
+
+    if (!isCorrect && !reviewList.some(w => w.word === correct)) {
+      reviewList.push(currentQuestion);
+    }
+
+    updateScore(isCorrect);
+
+    setTimeout(() => {
       document.getElementById("resultText").textContent = "";
-      document.getElementById("hintText").classList.add("hidden");
-      document.getElementById("revealHintBtn").classList.add("hidden");
-      document.getElementById("choices").classList.add("hidden");
-      document.getElementById("onscreenKeyboard").classList.add("hidden");
-      document.getElementById("questionText").textContent = "---";
-      document.getElementById("revealHintBtn").disabled = false;
+      startContextChoiceQuiz();
+    }, 1500);
+  }
+
+  function updateScore(isCorrect) {
+    if (isCorrect) correctCount++;
+    else wrongCount++;
+    document.getElementById("correctCount").textContent = correctCount;
+    document.getElementById("wrongCount").textContent = wrongCount;
+    const total = correctCount + wrongCount;
+    const rate = total === 0 ? 0 : Math.round((correctCount / total) * 100);
+    document.getElementById("accuracy").textContent = `${rate}%`;
+  }
+</script>
+<script>
+  function shuffleChoices(correct) {
+    const options = [correct];
+    while (options.length < 4 && wordList.length > 1) {
+      const w = wordList[Math.floor(Math.random() * wordList.length)];
+      if (!options.includes(w.word)) options.push(w.word);
     }
-
-    function startContextMode() {
-      currentMode = "context";
-      currentList = wordList;
-      document.getElementById("modeLabel").textContent = "文脈補完モード（英文の空欄を補う）";
-      resetUI();
-      document.getElementById("answerInput").classList.remove("hidden");
-      startContextQuiz();
-    }
-
-    function startContextQuiz() {
-      const word = getNewWord();
-      if (!word) return;
-      currentQuestion = word;
-      currentHintLength = 1;
-
-      // マスキング処理：例文中の対象語を _____ に置き換える
-      let maskedExample = word.example;
-      const base = word.word.toLowerCase();
-      const regex = new RegExp(`\\b${base}\\b`, "gi");
-      maskedExample = maskedExample.replace(regex, "_____");
-
-      document.getElementById("questionText").textContent = maskedExample;
-      document.getElementById("answerInput").value = "";
-    }
-    function getNewWord() {
-      if (!currentList || currentList.length === 0) return null;
-      let idx;
-      do {
-        idx = Math.floor(Math.random() * currentList.length);
-      } while (idx === lastIndex && currentList.length > 1);
-      lastIndex = idx;
-      return currentList[idx];
-    }
-
-    function check() {
-      const input = document.getElementById("answerInput").value.trim().toLowerCase();
-      const correct = currentQuestion.word.toLowerCase();
-      const isCorrect = input === correct;
-      showResult(isCorrect, correct);
-    }
-
-    function checkChoice(selected) {
-      const correct = currentQuestion.word;
-      const isCorrect = selected === correct;
-      showResult(isCorrect, correct);
-    }
-
-    function showResult(isCorrect, correctAnswer) {
-      const result = isCorrect
-        ? "✅ 正解！"
-        : `❌ 不正解… 正解は「${correctAnswer}」`;
-      document.getElementById("resultText").textContent = result;
-
-      // 間違えた単語を復習リストに登録（重複チェックあり）
-      if (!isCorrect && !reviewList.some(w => w.word === currentQuestion.word)) {
-        reviewList.push(currentQuestion);
-      }
-
-      updateScore(isCorrect);
-
-      // モードに応じて次の出題を遅延表示
-      setTimeout(() => {
-        document.getElementById("resultText").textContent = "";
-        if (currentMode === "beginner") startQuiz();
-        else if (currentMode === "advanced") startAdvanced();
-        else if (currentMode === "context") startContextQuiz();
-      }, 1500);
-    }
-
-    function updateScore(isCorrect) {
-      if (isCorrect) correctCount++;
-      else wrongCount++;
-      document.getElementById("correctCount").textContent = correctCount;
-      document.getElementById("wrongCount").textContent = wrongCount;
-      const total = correctCount + wrongCount;
-      const rate = total === 0 ? 0 : Math.round((correctCount / total) * 100);
-      document.getElementById("accuracy").textContent = `${rate}%`;
-    }
-    function speak(text) {
-      const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = "en-US";
-      speechSynthesis.speak(utterance);
-    }
-
-    function speakCurrent() {
-      if (currentQuestion && currentQuestion.word) {
-        speak(currentQuestion.word);
-      }
-    }
-
-    function createKeyboard() {
-      const kb = document.getElementById("keyboardButtons");
-      kb.innerHTML = "";
-      const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-      letters.forEach(letter => {
-        const btn = document.createElement("button");
-        btn.textContent = letter;
-        btn.onclick = () => {
-          typedAnswer.push(letter.toLowerCase());
-          updateTypedAnswer();
-        };
-        kb.appendChild(btn);
-      });
-
-      const del = document.createElement("button");
-      del.textContent = "←削除";
-      del.onclick = () => {
-        typedAnswer.pop();
-        updateTypedAnswer();
-      };
-      kb.appendChild(del);
-    }
-
-    function updateTypedAnswer() {
-      document.getElementById("typedAnswer").textContent = typedAnswer.join("");
-    }
-
-    function submitAnswer() {
-      const answer = typedAnswer.join("").trim().toLowerCase();
-      document.getElementById("answerInput").value = answer;
-      check();
-      typedAnswer.length = 0;
-      updateTypedAnswer();
-    }
-
-    function shuffleChoices(correct) {
-      const options = [correct];
-      while (options.length < 4 && currentList.length > 1) {
-        const w = currentList[Math.floor(Math.random() * currentList.length)];
-        if (!options.includes(w.word)) options.push(w.word);
-      }
-      return options.sort(() => Math.random() - 0.5);
-    }
-  </script>
+    return options.sort(() => Math.random() - 0.5);
+  }
+</script>
 </body>
 </html>
