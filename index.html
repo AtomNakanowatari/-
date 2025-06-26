@@ -224,7 +224,21 @@
   }
 
   function startAdvanced() {
-    const word = getNew
+  const word = getNewWord();
+  if (!word) return;
+  currentQuestion = word;
+  currentHintLength = 1;
+  typedAnswer.length = 0;
+  updateTypedAnswer();
+
+  document.getElementById("questionText").textContent = word.meaning;
+  document.getElementById("hintText").textContent = `ヒント：${word.word.slice(0, 1)}`;
+  document.getElementById("hintText").classList.remove("hidden");
+  document.getElementById("revealHintBtn").classList.remove("hidden");
+  document.getElementById("answerInput").classList.add("hidden");
+  document.getElementById("onscreenKeyboard").classList.remove("hidden");
+  document.getElementById("choices").classList.add("hidden");
+}
 <script>
   function startAdvanced() {
     const newWord = getNewWord();
