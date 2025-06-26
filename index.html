@@ -7,10 +7,8 @@
   <style>
     body {
       font-family: sans-serif;
-      margin: 1em;
+      margin: 1em auto;
       max-width: 600px;
-      margin-left: auto;
-      margin-right: auto;
     }
     button {
       padding: 0.6em 1em;
@@ -63,16 +61,19 @@
     <button onclick="startMode('beginner')">初級</button>
     <button onclick="startMode('advanced')">上級</button>
   </div>
+
   <div>
     <strong>頭文字指定：</strong>
     <button onclick="startLetterMode('beginner')">初級</button>
     <button onclick="startLetterMode('advanced')">上級</button>
   </div>
+
   <div>
     <strong>復習モード：</strong>
     <button onclick="startReviewMode('beginner')">初級</button>
     <button onclick="startReviewMode('advanced')">上級</button>
   </div>
+
   <div>
     <strong>文脈補完モード：</strong>
     <button onclick="startMode('context-choice')">4択式</button>
@@ -105,8 +106,7 @@
     不正解：<span id="wrongCount">0</span>　
     正答率：<span id="accuracy">0%</span>
   </div>
-
-<script>
+  <script>
   let wordList = [];
   let reviewList = [];
   let currentList = [];
@@ -131,7 +131,6 @@
     document.getElementById("choices").classList.add("hidden");
     document.getElementById("questionText").textContent = "---";
     document.getElementById("answerInput").classList.add("hidden");
-    document.getElementById("answerInput").disabled = false;
     document.getElementById("revealHintBtn").disabled = false;
   }
 
@@ -194,7 +193,8 @@
       startAdvanced();
     }
   }
-
+</script>
+<script>
   function getNewWord() {
     if (!currentList || currentList.length === 0) return null;
     let idx;
@@ -210,46 +210,32 @@
     if (!word) return;
     currentQuestion = word;
     document.getElementById("questionText").textContent = word.meaning;
-    document.getElementById("choices").innerHTML = "";
+    document.getElementById("answerInput").classList.add("hidden");
+    document.getElementById("onscreenKeyboard").classList.add("hidden");
     document.getElementById("choices").classList.remove("hidden");
 
     const choices = shuffleChoices(word.word);
-    choices.forEach(choice => {
+    const choiceBox = document.getElementById("choices");
+    choiceBox.innerHTML = "";
+    choices.forEach(c => {
       const div = document.createElement("div");
       div.className = "choice";
-      div.textContent = choice;
-      div.onclick = () => checkChoice(choice);
-      document.getElementById("choices").appendChild(div);
+      div.textContent = c;
+      div.onclick = () => checkChoice(c);
+      choiceBox.appendChild(div);
     });
   }
 
   function startAdvanced() {
-  const word = getNewWord();
-  if (!word) return;
-  currentQuestion = word;
-  currentHintLength = 1;
-  typedAnswer.length = 0;
-  updateTypedAnswer();
-
-  document.getElementById("questionText").textContent = word.meaning;
-  document.getElementById("hintText").textContent = `ヒント：${word.word.slice(0, 1)}`;
-  document.getElementById("hintText").classList.remove("hidden");
-  document.getElementById("revealHintBtn").classList.remove("hidden");
-  document.getElementById("answerInput").classList.add("hidden");
-  document.getElementById("onscreenKeyboard").classList.remove("hidden");
-  document.getElementById("choices").classList.add("hidden");
-}
-<script>
-  function startAdvanced() {
-    const newWord = getNewWord();
-    if (!newWord) return;
-    currentQuestion = newWord;
+    const word = getNewWord();
+    if (!word) return;
+    currentQuestion = word;
     currentHintLength = 1;
     typedAnswer.length = 0;
     updateTypedAnswer();
 
-    document.getElementById("questionText").textContent = newWord.meaning;
-    document.getElementById("hintText").textContent = `ヒント：${newWord.word.slice(0, 1)}`;
+    document.getElementById("questionText").textContent = word.meaning;
+    document.getElementById("hintText").textContent = `ヒント：${word.word.slice(0, 1)}`;
     document.getElementById("hintText").classList.remove("hidden");
     document.getElementById("revealHintBtn").classList.remove("hidden");
     document.getElementById("answerInput").classList.add("hidden");
@@ -257,6 +243,75 @@
     document.getElementById("choices").classList.add("hidden");
   }
 
+  function startContextChoiceQuiz() {
+    const word = getNewWord();
+    if (!word) return;
+    currentQuestion = word;
+
+    const sentence = generateMaskedSentence(word);
+    document.getElementById("questionText").textContent = sentence;
+    document.getElementById("answerInput").classList.add("hidden");
+    document.getElementById("onscreenKeyboard").classList.add("hidden");
+
+    const choices = shuffleChoices(word.word);
+    const choiceBox = document.getElementById("choices");
+    choiceBox.innerHTML = "";
+    choices.forEach(c => {
+      const div = document.createElement("div");
+      div.className = "choice";
+      div.textContent = c;
+      div.onclick = () => checkChoice(c);
+      choiceBox.appendChild(div);
+    });
+    choiceBox.classList.remove("hidden");
+  }
+
+  function checkChoice(selected) {
+    const correct = currentQuestion.word;
+    const isCorrect = selected === correct;
+    showResult(isCorrect, correct);
+  }
+
+  function showResult(isCorrect, correctAnswer) {
+    document.getElementById("resultText").textContent =
+      isCorrect ? "✅ 正解！" : `❌ 不正解… 正解は「${correctAnswer}」`;
+
+    if (!isCorrect && !reviewList.some(w => w.word === currentQuestion.word)) {
+      reviewList.push(currentQuestion);
+    }
+
+    updateScore(isCorrect);
+
+    setTimeout(() => {
+      document.getElementById("resultText").textContent = "";
+      if (currentMode === "beginner") startQuiz();
+      else if (currentMode === "advanced") startAdvanced();
+      else if (currentMode === "context-choice") startContextChoiceQuiz();
+    }, 1500);
+  }
+
+  function updateScore(isCorrect) {
+    if (isCorrect) correctCount++;
+    else wrongCount++;
+
+    document.getElementById("correctCount").textContent = correctCount;
+    document.getElementById("wrongCount").textContent = wrongCount;
+
+    const total = correctCount + wrongCount;
+    const accuracy = total === 0 ? 0 : Math.round((correctCount / total) * 100);
+    document.getElementById("accuracy").textContent = `${accuracy}%`;
+  }
+
+  function submitAnswer() {
+    const input = typedAnswer.join("").trim().toLowerCase();
+    const correct = currentQuestion.word.toLowerCase();
+    const isCorrect = input === correct;
+    showResult(isCorrect, correct);
+    typedAnswer.length = 0;
+    updateTypedAnswer();
+  }
+</script>
+<script>
   function revealHint() {
     currentHintLength++;
     const word = currentQuestion.word;
@@ -316,7 +371,7 @@
   }
 
   function generateMaskedSentence(wordObj) {
-    const raw = wordObj.example;
+    const raw = wordObj.example || "";
     const target = wordObj.word.toLowerCase();
     const regex = new RegExp(`\\b${target}\\b`, "gi");
     if (regex.test(raw)) {
